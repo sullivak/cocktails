@@ -1,0 +1,104 @@
+{{short description|Cognac or whiskey cocktail}}
+{{about|the cocktail|the company and its brand of rye whiskey|Sazerac Company}}
+{{Infobox cocktail
+| iba               = yes
+| name              = Sazerac
+| sourcelink        = sazerac
+| image             = SazeracRooseveltNOLA1July2009.JPG
+| caption           = A Sazerac at the Sazerac Bar, [[The Roosevelt New Orleans Hotel]]
+| type              = cocktail
+| flaming           =
+| cognac            = yes
+| served            = straight
+| garnish           = [[Lemon]] peel
+| drinkware         = old
+| ingredients       = *5 cl cognac
+* 1 cl [[absinthe]]
+*One sugar cube
+*Two dashes [[Peychaud's Bitters]]
+| prep             = Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish.<ref name="The Sazerac Company">{{cite web
+ |url=http://www.sazerac.com/cocktail.aspx
+ |title=The Cocktail - How the Sazerac came to be
+ |publisher=The [[Sazerac Company]]
+ |accessdate=2012-07-06
+ }}</ref>
+| timing      = After dinner
+| notes            = Note: The original recipe changed in the latter part of the 19th century. Rye whiskey was substituted when cognac became difficult to obtain.<ref name="epidemic">{{cite book |last=Arthur |first=Stanley |title=Famous New Orleans Drinks and How to Mix 'Em |year=1997 |publisher=Pelican |isbn=978-0-88289-132-3}}</ref>
+| footnotes        =
+}}
+
+The '''Sazerac''' is a local [[New Orleans]] variation of a [[cognac]] or [[whiskey]] cocktail, named for the ''Sazerac de Forge et Fils'' brand of cognac brandy that served as its original main ingredient.<ref name="The Sazerac Company"/> The drink is most traditionally a combination of
+cognac or [[rye whiskey]], [[absinthe]], [[Peychaud's Bitters]], and [[sugar]], although [[bourbon whiskey]] or [[Herbsaint]] are sometimes substituted. Some claim it is the oldest known American [[cocktail]],<ref>{{cite book |last= Majumdar |first=Simon |title=Eat My Globe: One Year to Go Everywhere and Eat Everything |year=2009 |publisher= Simon and Schuster |isbn=1-4165-7602-9 |pages= 192}}</ref> with origins in pre-[[American Civil War|Civil War]] [[New Orleans]], although drink historian David Wondrich is among those who dispute this,<ref>{{cite web |url= http://www.nola.com/drink/index.ssf/2009/08/david_wondrich_dispels_sazerac.html |title=David Wondrich dispels Sazerac myths |work=NOLA.com |accessdate= 24 February 2016}}</ref> and American instances of published usage of the word ''cocktail'' to describe a mixture of spirits, bitters, and sugar can be traced to the dawn of the 19th century.<ref>{{cite book |last=Felten | first=Eric | title=How's Your Drink? Cocktails, Culture, and the Art of Drinking Well | year=2007 | publisher=Surrey Books | isbn=1-57284-089-7 | pages=9–10}}</ref>
+
+==Characteristics==
+The defining feature of the Sazerac is its method of preparation, which commonly involves two chilled [[old-fashioned glass]]es. The first glass is swirled with a wash of [[absinthe]] for its flavor and strong scent.<ref>{{cite book | last=Wondrich | first=David | title=Imbibe! | year=2007 | publisher=Perigee | isbn=978-0-399-53287-0 | pages=199–202}}</ref> The second glass is used to combine the remaining ingredients, which are stirred with ice, then strained into the first glass.<ref>{{cite book |last=Axelrod |first=Alan |title=The Complete Idiot's Guide to Mixing Drinks |url=https://books.google.com/books?id=6AqgJr_vqygC&pg=PA130 |edition=2 |year=2003 |publisher=Penguin |isbn=0-02-864468-9 |page=130 |accessdate=2012-07-06}}</ref> Various [[anisette]]s such as [[pastis]], [[Pernod Ricard|Pernod]], or [[Herbsaint]] are common substitutes when absinthe is unavailable. In New Orleans, Herbsaint is most commonly used due to the absence of absinthe in the U.S. market from 1912 until 2007.<ref name="Simon">{{cite book |last=Simon |first=Kate |title=Absinthe Cocktails: 50 Ways to Mix with the Green Fairy |url=https://books.google.com/books?id=_6PR9Bh80zIC&pg=PA33 |year=2010 |publisher=Chronicle Books |isbn=1-4521-0030-6 |page=33 |accessdate=2012-07-06}}</ref>
+
+==History==
+Around 1850, Sewell T. Taylor sold his New Orleans bar, The Merchants Exchange Coffee House, to become an importer of spirits, and he began to import a brand of cognac named ''Sazerac-de-Forge et Fils''. Meanwhile, Aaron Bird assumed proprietorship of the Merchants Exchange and changed its name to Sazerac Coffee House. 
+
+Legend has it that Bird began serving the "Sazerac Cocktail", made with Sazerac cognac imported by Taylor, and allegedly with [[bitters]] being made by the local apothecary, Antoine Amedie Peychaud. The Sazerac Coffee House subsequently changed hands several times, until around 1870 Thomas Handy became its proprietor. It is around this time that the primary ingredient changed from cognac to rye whiskey, due to the [[phylloxera]] epidemic in Europe that devastated the vineyards of France.<ref name="epidemic"/> 
+
+At some point before his death in 1889, Handy recorded the recipe for the cocktail, which made its first printed appearance in William T. "Cocktail Bill" Boothby's ''The World's Drinks and How to Mix Them'' (1908),<ref>
+{{cite journal
+|url=http://www.esquire.com/drinks/sazerac-drink-recipe
+|title=The Wondrich Take
+|magazine =[[Esquire (magazine)|Esquire]]
+|accessdate=2012-07-06
+}}</ref> although his recipe calls for Selner Bitters, not Peychaud's.<ref>
+{{cite news
+|url=http://www.nola.com/drink/index.ssf/2010/07/bitter_truth_brings_its_creole.html
+|title=Bitter Truth brings its Creole Bitters to the U.S.
+|date=July 31, 2010
+|first=Todd A.
+|last=Price
+|newspaper=[[The Times-Picayune]]
+|accessdate=2012-07-06
+}}</ref> After absinthe was banned in the US in 1912, it was replaced by various [[anise]]-flavored liqueurs, most notably the locally produced Herbsaint, which first appeared in 1934.<ref name="Simon" />
+
+By the early 20th century, simple cocktails like the Sazerac had become rare, which eventually rekindled their popularity.<ref name="Wondrich">{{cite book |last=Wondrich |first=David |title=Imbibe!: From Absinthe Cocktail to Whiskey Smash, a Salute in Stories and Drinks to "Professor" Jerry Thomas, Pioneer of the American Bar |year=2007 |publisher=Perigee |isbn=978-0-399-53287-0 |pages=199–202}}</ref>
+
+The creation of the Sazerac has also been credited to Antoine Amédée Peychaud, a Creole [[apothecary]] who emigrated to New Orleans from the West Indies and set up shop in the [[French Quarter]] in the early 19th Century. He was known to dispense a proprietary mix of aromatic bitters from an old family recipe. 
+
+According to popular myth, he served his drink in the large end of an egg cup that was called a ''coquetier'' in French, and the Americanized mispronunciation resulted in the name ''cocktail''.<ref name="Difford">{{cite book |last=Difford |first=Simon |title=Diffordsguide Cocktails #7 |url=https://books.google.com/books?id=SV5YryuX3_EC&pg=PA315 |edition=7 |year=2007 |publisher=Diffordsguide |isbn=0-9556276-0-5 |page=315 |accessdate=2012-07-06}}</ref> This belief was debunked when people discovered that the term "cocktail" as a type of drink first appeared in print at least as far back as 1803—and was defined in print in 1806 as, "a mixture of spirits of any kind, water, sugar and bitters, vulgarly called a bittered sling.".<ref>{{cite book |last=Felten |first=Eric |title=How's Your Drink? Cocktails, Culture, and the Art of Drinking Well |year=2007 |publisher=Surrey Books |isbn=1-57284-089-7 |pages=9–10}}</ref>
+
+===Official cocktail of New Orleans===
+In March 2008, Louisiana state senator [[Edwin R. Murray]] (D-New Orleans) filed Senate Bill 6 designating the Sazerac as Louisiana's official state cocktail. The bill was defeated on April 8, 2008. After further debate, on June 23, 2008, the [[Louisiana Legislature]] agreed to proclaim the Sazerac as New Orleans' official cocktail.<ref name="NPR">
+{{cite news
+|url=https://www.npr.org/templates/story/story.php?storyId=91912549
+|title=New Orleans Declares Sazerac Its Cocktail of Choice
+|publisher=[[NPR|National Public Radio]]
+|work=[[All Things Considered]]
+|date=June 26, 2008
+|accessdate=December 6, 2010
+}}</ref>
+
+==Similar cocktails==
+A cocktail named the [[Zazarac|Zazarack]] was included in the 1910 version of ''Jack's Manual'', an early bartender's reference written by Jacob "Jack" Grohusko, the head bartender at Baracca’s restaurant in New York.<ref>{{cite book |last1=Grohusko |first1=Jacob "Jack" |title=Jack's Manual |date=1910 |publisher=McClunn & Co |location=New York |page=84 |edition=second}}</ref>  It is essentially the same cocktail as the Sazerac, but called for bourbon (and not rye) instead of cognac.<ref>{{cite web |title=Sazerac and Zazarack Cocktails |url=https://elementalmixology.blog/2012/09/12/the-sazerac-cocktail-and-the-zazerac-cocktail/ |website=elementalmixology.blog |accessdate=3 February 2019}}</ref>
+
+Later versions of the drink were spelled Zazarac and added rum, and are thought by some to be a variant of the Sazerac,<ref>{{cite web|url=http://thevintagedrink.com/drinks/zazarac-cocktail-drink-recipe|title=The Vintage Drink. Zazarac Cocktail Drink Recipe|work=The Vintage Drink|accessdate=February 24, 2016}}</ref> although it might have originated completely independent of the more famous drink.<ref>{{cite book | url=https://books.google.com/books?id=sCR7wWhM7IQC&printsec=frontcover&dq=Vintage+Spirits+and+Forgotten+Cocktails&hl=en&sa=X&ved=0ahUKEwiY0rvK57PKAhVJ-2MKHQFdCvsQ6AEIJjAA#v=onepage&q=Zazarac&f=false | title=Vintage Spirits and Forgotten Cocktails | first=Ted | last=Haigh | date=February 27, 2014 | accessdate=August 24, 2016 | isbn=1616734752 | publisher=Quarry Books | pages=219–20}}</ref>
+
+==Cultural impact==
+A Sazerac cocktail features prominently in an episode of the [[HBO]] TV series ''[[Treme (TV series)|Treme]]'', when chef Janette Desautel (played by [[Kim Dickens]]) tosses one in the face of restaurant critic and food writer [[Alan Richman]] (appearing as himself). Richman had angered many New Orleanians in 2006 with an article in the magazine ''[[GQ]]'', in which he criticized New Orleans' food culture post-[[Hurricane Katrina]]. Despite reservations, he agreed to participate in the scene and called Sazerac "a good choice of weaponry, because it symbolizes the city".<ref name="GQ">
+{{cite journal|url=https://www.gq.com/food-travel/alan-richman/201105/alan-richman-anthony-bourdain-treme|title=Alan Richman Returns To New Orleans|last=Richman|first=Alan|authorlink=Alan Richman|magazine=[[GQ]]|date=May 16, 2011|accessdate=May 16, 2011}}</ref>
+
+In the 1973 James Bond film, ''[[Live and Let Die (film)|Live and Let Die]]'', two Sazerac cocktails are ordered by Bond's CIA-agent friend Felix Leiter.<ref>{{citation |title= The cocktails of James Bond: the Sazerac |last= Darlington |first= Joseph |date= February 2013 |work= Business Jet Traveler |url=https://www.bjtonline.com/business-jet-news/the-cocktails-of-james-bond-the-sazerac |accessdate=2019-05-07}}</ref>
+
+== Brands ==
+''Sazerac'' is also a brand of [[rye whiskey]] produced by the [[Sazerac Company]].
+
+==See also==
+{{portal|Liquor|Drink}}
+* [[List of cocktails]]
+
+==References==
+{{reflist|2}}
+
+{{IBACocktails}}
+{{Cocktails}}
+
+[[Category:Cocktails with absinthe]]
+[[Category:Cocktails with whisky]]
+[[Category:Cocktails with bitters]]
+[[Category:Cocktails with brandy]]
+[[Category:Cuisine of New Orleans]]
+[[Category:Ancestral cocktails]]

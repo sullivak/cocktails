@@ -1,0 +1,45 @@
+{{Use dmy dates|date=January 2013}}
+{{Infobox cocktail 
+| iba         = yes
+| source      = 
+| sourcelink  = americano
+| name        = Americano
+| image       = Americano cocktail at Nightwood Restaurant.jpg
+| caption     = 
+| type        = old
+| flaming     = 
+| campari     = yes
+| vermouth    = yes
+| served      = rocks
+| garnish     = half an [[Orange (fruit)|orange]] slice, [[lemon]] twist
+| drinkware   = highball
+| ingredients = *3 cl [[Campari]]
+*3 cl red [[vermouth]]
+*A splash of [[soda water]]
+| prep        = Pour the Campari and vermouth over ice into a highball glass, add a splash of soda water and garnish with half orange slice and a lemon twist.
+| timing      = Before dinner
+| notes       = 
+| footnotes   = 
+}}
+
+The '''Americano''' is an [[List of IBA official cocktails|IBA official cocktail]]<ref name="IBA-wcc">{{cite web|url=http://iba-world.com/iba-cocktails/|title=The Unforgettables|work=[[International Bartenders Association]]|accessdate=26 January 2016}}</ref> composed of [[Campari]], [[sweet vermouth]], and for the sparkling version, [[club soda]].<ref>https://www.tasteofhome.com/collection/2-ingredient-cocktails/</ref> The cocktail was first served in creator [[Gaspare Campari]]'s bar, Caffè Campari, in the 1860s. It was originally known as the "Milano-Torino" because of its ingredients: [[Campari]], the bitter liqueur, is from [[Milan]] (Milano) and [[Punt e Mes]], the vermouth, is from [[Turin]] (Torino).
+
+==In popular culture==
+It is the first drink ordered by [[James Bond]] in the [[debut novel|first novel]] in [[Ian Fleming]]'s series, ''[[Casino Royale (novel)|Casino Royale]]''. In the short story "[[From a View to a Kill]]", Bond chooses an Americano as an appropriate drink for a mere café; suggesting that "in cafés you have to drink the least offensive of the musical comedy drinks that go with them."<ref>Fleming, Ian. "From a View to a Kill" in ''The Complete James Bond Short Stories''. New York, 2004.'''</ref> Bond always stipulates [[Perrier]], for, in his opinion, expensive soda water was the cheapest way to improve a poor drink.
+
+It is the preferred drink of Kriminalkomissar Gereon Rath in ''Der Nasse Fisch'', the first book of the eponymous criminal novel series set in Berlin in the late 1920s.
+
+==See also==
+{{wikibooks|Bartending|Cocktails/Glossary#A|Americano}}
+* [[Negroni]]
+* [[List of cocktails]]
+* [[List of IBA official cocktails]]
+
+==References==
+{{reflist}}
+{{Commons category|Americano}}
+{{IBACocktails}}
+
+{{DEFAULTSORT:Americano (Cocktail)}}
+[[Category:Cocktails with vermouth]]
+[[Category:Cocktails with campari]]

@@ -1,0 +1,40 @@
+{{original research|date=July 2017}}
+{{Infobox cocktail
+| iba         = yes
+| name        = Whiskey Sour
+| image       = Whiskey Sour.jpg
+| caption     = A whiskey sour with ice cubes and a lemon slice
+| served = On the rocks or straight up
+| type        = cocktail
+| flaming     =
+| whiskey     = yes
+| garnish     = Maraschino cherry and half orange slice
+| drinkware   = old
+| ingredients = * 4.5 cl (3 parts) [[bourbon whiskey]]
+* 3 cl (2 parts) fresh [[lemon juice]]
+* 1.5 cl (1 part) [[Gum syrup|Gomme syrup]]
+* dash [[egg white]] (optional)
+| prep        = Shake with ice. Strain into chilled glass, garnish and serve.
+| timing      = Before Dinner
+| notes       = If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice.
+| footnotes   = {{Drinkboy recipe|link=167|name=Whiskey Sour}} [http://iba-world.com/iba-official-cocktails/whiskey-sour/ IBA]
+}}
+[[File:Whiskey_Sour_Served_Up.jpg|thumb|A whiskey sour shaken and served up in a coupe glass.]]
+The '''whiskey sour''' is a [[mixed drink]] containing [[whiskey]] (often [[Bourbon whiskey|bourbon]]), [[lemon juice]], [[sugar]], and optionally, a dash of [[egg white]]. With the egg white, it is sometimes called a '''Boston Sour'''. With a few [[Bar spoon|bar spoons]] of full-bodied red wine floated on top, it is often referred to as a '''New York Sour'''. It is [[Cocktail shaker|shaken]] and served either [[Straight up (bartending)|straight up]] or over ice.
+
+The traditional [[Cocktail garnish|garnish]] is half an [[Orange (fruit)|orange]] slice and a [[maraschino cherry]].
+
+A variant of the whiskey sour is the [[Ward 8 (cocktail)|Ward 8]], which often is based on bourbon or [[rye whiskey]], and includes both lemon and orange juices, and [[grenadine]] syrup as the sweetener. The egg white sometimes employed in other whiskey sours is not usually included.
+
+==History==
+The oldest historical mention of a whiskey sour was published in the [[Wisconsin]] newspaper, ''Waukesha Plain Dealer'', in 1870.<ref>{{cite web|url=http://i96.photobucket.com/albums/l179/ntnfan/Picture4.png |work=Waukesha Plaindealer |date=January 4, 1870 |title=Photo from newspaperarchive.com |deadurl=yes |archiveurl=https://web.archive.org/web/20110723202726/http://i96.photobucket.com/albums/l179/ntnfan/Picture4.png |archivedate=July 23, 2011 }}</ref><ref>{{cite web|url=http://i96.photobucket.com/albums/l179/ntnfan/Picture3.png |work=Waukesha Plaindealer |date=January 4, 1870 |title=Photo from newspaperarchive.com. Magnified section |deadurl=yes |archiveurl=https://web.archive.org/web/20110723202808/http://i96.photobucket.com/albums/l179/ntnfan/Picture3.png |archivedate=July 23, 2011 }}</ref>
+
+In 1962, the [[Universidad del Cuyo]] published a story, citing the [[Peru]]vian [[newspaper]] ''El Comercio de Iquique'', which indicated that [[Pisco Sour|Elliott Stubb]] created the "whisky sour" in [[Iquique]] in 1872.<ref>{{cite news|url=https://books.google.com/books?q=%22que%20vimos%20en%20viejos%20archivos%20del%20Club%20Chino%22&sourceid=navclient-ff&rls=GGGL,GGGL:2006-32,GGGL:es&um=1&ie=UTF-8&sa=N&hl=es&tab=wp |work=Historias de la Pampa Salitrera. Comité del Salitre |location=Chile|page= 49|title=¿Sabía usted que el exquisito whisky sour, hoy trago de acaudalados, es de origen iquiqueño?. Cuentan las tradiciones y en algunos párrafos del periódico "El Comercio de Iquique" que vimos en viejos archivos del Club Chino de este puerto que un buen mayordomo del velero "Sunshine" determinó anclar en este puerto...}}</ref><ref>{{cite journal|url=https://books.google.com/books?hl=es&q=En%20adelante%20dijo%20Elliot%20%E2%80%94%20%C3%A9ste%20ser%C3%A1%20mi%20trago%20de%20batalla%2C%20%E2%80%94%20mi%20trago%20favorito%20%E2%80%94%20%2C%20y%20se%20llamar%C3%A1%20Whisky%20Sour%20(sour%2C%20el%20%C3%A1cido%20del%20lim%C3%B3n)&sourceid=navclient-ff&rlz=1B5GGGL_esPE318&um=1&ie=UTF-8&sa=N&tab=wp |work=Anales del Instituto de Lingüística|author= Universidad Nacional de Cuyo|volume= VIII|location= Mendoza, Argentina|page= 385|date= 1962|title=Cierto dia Elliot Stubb estaba haciendo algunos experimentos en la en la "coctelera" con whisky y limón de pica y su sabor alcanzó delicias superiores a todos los otros menjurjes que acostumbraba a dar a sus clientes. "Voy a ponerle un poco de dulce", se dijo. Echó azúcar a una porción de jugo de limón de Pica, un poco de hielo, whisky en proporción y batió algunos segundos Y probo el mas exquisito drink que habia preparado. En adelante dijo Elliot—éste será mi trago de batalla,—mi trago favorito—, y se llamará Whisky Sour (sour, el ácido del limón). Luego dominó las fronteras y hacía su aparición en Inglaterra, donde ya estaba cimentada la fama del limón de Pica, el que hasta ahora se continúa exportando a la capital del Reino Unido y otros puntos de las Islas Británicas.}}</ref> (''El Comercio de Iquique'' was published by Modesto Molina between 1874 and 1879.){{citation needed|date=November 2015}}
+
+==References==
+{{Reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with whisky]]
+[[Category:Sour cocktails]]

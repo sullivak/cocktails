@@ -1,0 +1,88 @@
+{{about|the mixed drink|the Cuban village|Daiquirí}}
+
+{{Infobox cocktail
+| iba         = yes
+| source      =
+| sourcelink = daiquiri
+| name        = Daiquiri
+| image       = Classic_Daiquiri_in_Cocktail_Glass.jpg
+| caption     = Classic Daiquiri served in a cocktail glass
+| type        = cocktail
+| flaming     = 
+| rum         = yes
+| garnish     =
+| served      = straight
+| drinkware   = cocktail
+| ingredients = *4.5 cl / 1.5oz (9 parts) [[white rum]]
+* 2.5 cl / 5/6 oz (5 parts) [[lime juice]]
+* 1.5 cl / 1/2 oz (3 parts) [[Syrup#Simple syrup|simple syrup]]
+| prep        = Pour all ingredients into [[cocktail shaker|shaker]] with ice cubes. Shake well. Double Strain in chilled cocktail glass.
+| timing      = Happy Hour / Summer drink
+| notes       = 
+| footnotes   = 
+}}
+
+'''Daiquiri'''  ({{IPAc-en|ˈ|d|aɪ|k|ər|i|,_|ˈ|d|æ|k|-}}; {{lang-es|daiquirí}} {{IPA-es|daikiˈɾi|}}) is a family of [[cocktails]] whose main ingredients are [[rum]], citrus juice (typically [[lime juice]]), and [[sugar]] or other sweetener.
+
+The daiquiri is one of the [[The Fine Art of Mixing Drinks#Six basic drinks|six basic drinks]] listed in [[David A. Embury]]'s classic ''[[The Fine Art of Mixing Drinks]]'', which also lists some variations.
+
+== Origins ==
+''[[Daiquirí, Cuba|Daiquirí]]'' is also the name of a beach and an [[mining|iron mine]] near [[Santiago de Cuba]], and is a word of [[Taíno people|Taíno]] origin.<ref name=taino>{{Cite web|url=http://www.uctp.org/VocesIndigena.html |title= Taíno Dictionary |author=The United Confederation of Taíno People |accessdate=2007-10-18|language=Spanish |archiveurl = https://web.archive.org/web/20071016055722/http://www.uctp.org/VocesIndigena.html <!-- Bot retrieved archive --> |archivedate = 2007-10-16}}</ref>  The drink was supposedly invented by an American mining engineer, named [[Jennings Cox]], who was in Cuba at the time of the [[Spanish–American War]]. It is also possible that [[William A. Chanler]], a [[United States House of Representatives|US congressman]] who purchased the Santiago iron mines in 1902, introduced the daiquiri to clubs in [[New York City|New York]] in that year.<ref>Thomas, Lately. ''A pride of lions: the Astor orphans; the Chanler chronicle'', W. Morrow, 1971; p. 168.</ref>
+
+Originally the drink was served in a [[tall glass]] packed with cracked ice. A teaspoon of sugar was poured over the ice and the juice of one or two limes was squeezed over the sugar. Two or three ounces of white [[rum]] completed the mixture. The glass was then frosted by stirring with a long-handled [[spoon]]. Later the daiquiri evolved to be mixed in a [[cocktail shaker|shaker]] with the same ingredients but with shaved ice. After a thorough shaking, it was poured into a chilled [[coupe glass]].
+
+Consumption of the drink remained localized until 1909, when [[Rear Admiral]] Lucius W. Johnson, a [[United States Navy|U.S. Navy]] medical officer, tried Cox's drink. Johnson subsequently introduced it to the [[Army and Navy Club (Washington, D.C.)|Army and Navy Club]] in [[Washington, D.C.]], and drinkers of the daiquiri increased over the space of a few decades. It was one of the favorite drinks of writer [[Ernest Hemingway]] and President [[John F. Kennedy]].<ref>{{cite book
+|url=https://books.google.com/books?id=Ir1RCiXEqSIC&pg=PA76&lpg=PA76&dq=daiquiri+%22john+f+kennedy%22|title=Complete Home Bartender's Guide
+|publisher=Sterling Publishing Company, Inc.
+|author=Salvatore Calabrese
+|year=2002
+|page=76
+}}</ref>
+
+The drink became popular in the 1940s.{{Citation needed|date=May 2009}} [[World War II]] rationing made [[whiskey]] and [[vodka]] hard to come by, yet because of U.S. President [[Franklin D. Roosevelt]]'s [[Good Neighbor policy]] rum was easily obtainable because the policy opened up trade and travel relations with Latin America, Cuba and the Caribbean. The Good Neighbor policy, also known as the Pan-American program, helped make Latin America fashionable. Consequently, rum-based drinks (once frowned upon as being the choice of sailors and down-and-outs), also became fashionable, and the daiquiri saw a tremendous rise in popularity in the US.
+
+The basic recipe for a daiquiri is also similar to the [[grog]] British sailors drank aboard ship from the 1780s as a means of preventing scurvy. By 1795 the [[Royal Navy]] daily grog ration contained rum, water, ¾ ounce of lemon or lime juice, and 2 ounces of sugar.<ref>{{cite book|title=Scurvy|author=Stephen R. Bown|publisher=Thomas Dunne Books|year=2003|page=181|isbn=0-312-31391-8}}</ref> This was a common drink across the Caribbean, and as soon as ice became available this was included instead of the water.
+
+== Variations ==
+* '''Hemingway daiquiri''' ([[Hemingway Special]])– or '''''{{lang|es|papa doble}}''''' – two and a half jiggers of white rum, juice of two limes and half a grapefruit, six drops of [[maraschino]] liqueur, without sugar.<ref name=hotchner>{{cite book|last1=Hotchner|first1=A. E.|title=Papa Hemingway: A Personal Memoir|date=2005|publisher=Da Capo Press|isbn=9780306814273|page=5|url=https://books.google.com/books?id=SSgFBAAAQBAJ&lpg=PA5&pg=PA5#v=onepage}}</ref>
+* '''Banana daiquiri''' – regular daiquiri with half a banana.<ref>{{cite web|title=Banana Frozen Daiquiri|url=http://iba-world.com/english/cocktails/bfd.php|website=International Bartender Association|accessdate=28 June 2017|archiveurl=https://web.archive.org/web/20110625192421/http://iba-world.com/english/cocktails/bfd.php|archivedate=June 25, 2011}}</ref>
+* '''Avocado daiquiri''' – regular daiquiri with half an avocado.<ref>{{cite web|url=http://www.byacb4you.com/2015/10/avocado-daiquiri-ou-daiquiri-a-l-avocat.html|title=Avocado daïquiri ou daïquiri à l'avocat|publisher=}}</ref>
+[[File:Daiquiri de fresa.jpg|thumb|Strawberry daiquiri by Rey del Mojito]]
+
+== Frozen daiquiri ==
+A wide variety of alcoholic mixed drinks made with finely pulverized ice are often called '''frozen daiquirí'''. These drinks can also be combined and poured from a [[blender]], eliminating the need for manual [[pulverisation]] and producing a texture similar to a [[smoothie]]. On larger scales, such drinks are often commercially made in larger machines, and come in a wide variety of flavors made with various alcohol or liquors.{{citation needed|date=March 2015}} Another way to create a frozen daiquiri (mostly fruit-flavored variants) is by using frozen [[limeade]], providing the required texture, sweetness and sourness all at once.<ref name="strawberry_recipe">{{cite web|url=http://mybestcocktails.com/recipe-80-Strawberry-Daiquiri.html|title=Strawberry Daiquiri|website=MyBestCocktails}}</ref>
+
+Variations on the frozen daiquiri include:<ref>{{cite web|url=http://www.havana-club.com/INT/EN/club.html#/1644|title=Daiquiri Collection from Havana Club Rum|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20110113183333/http://www.havana-club.com/INT/EN/club.html#/1644|archivedate=2011-01-13|df=}}</ref>
+* '''Old Rose Daiquiri:''' strawberry syrup and rum along with two teaspoons of sugar and lime juice
+* '''Mulata Daiquiri:''' rum mixed with either coffee or chocolate liqueur and with fresh lime juice and sugar syrup<ref>Difford's Guide, [https://www.diffordsguide.com/cocktails/recipe/1375/mulata-daiquiri "Mulata Daiquiri"], www.diffordsguide.com</ref>
+
+== See also ==
+* [[List of cocktails]]
+* [[Caipirinha]] – similar Brazilian cocktail
+* [[Ti' Punch]] – similar [[French West Indies#French Caribbean|French Caribbean]] cocktail
+* [[Mojito]] – other popular and similar rum cocktail, adding lime, mint and soda
+* {{portal-inline|Liquor}}
+
+== References ==
+; Notes
+{{reflist}}
+
+; Bibliography
+* [http://www.elfloridita.net/pages/daiquiri.php Daiquiri Story]
+
+== External links ==
+{{Commons category}}
+{{wikibooks|Bartending|Cocktails/Daiquiri|Daiquiri}}
+* [http://merrick.library.miami.edu/cubanHeritage/chc0484/ Digital Images regarding Jennings Cox including an original daiquirí recipe from the Carmen Puig Collection] held by the [https://web.archive.org/web/20130126185409/http://library.miami.edu/chc/ Cuban Heritage Collection] of the University of Miami Libraries
+* A collection of [https://bevvy.co/s/daiquiri Daiquiri Cocktail Recipes] and variations
+* Slush machine made [https://mrslush.co.uk/8-mr-slushed Daiquiri frozen Cocktails]
+
+{{Frozen beverages}}
+{{IBACocktails}}
+[[Category:Cuban cocktails]]
+[[Category:Cocktails with rum]]
+[[Category:Cuban alcoholic drinks]]
+[[Category:Sour cocktails]]
+[[Category:Mixed drinks]]
+[[Category:Frozen drinks]]
+[[Category:Limes (fruit)]]

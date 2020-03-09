@@ -1,0 +1,127 @@
+{{About||the vodka-based cocktail|Vodka martini|other uses|Martini (disambiguation){{!}}Martini}}
+{{redirect|Dry martini|the 1928 film|Dry Martini (film)}}
+{{Use dmy dates|date=March 2011}}
+{{Infobox cocktail
+| iba         = yes
+| source      = iba
+| sourcelink  = dry-martini
+| name        = Dry Martini
+| image       = 15-09-26-RalfR-WLC-0084.jpg
+| caption     = The martini is one of the most widely known cocktails
+| type        = cocktail
+| flaming     = no
+| gin         = yes
+| vodka       = alternative to gin
+| vermouth    =
+| other       =
+| served      = Up (or on the rocks)
+| garnish     = [[olive (fruit)|Olive]] or [[lemon twist]]
+| drinkware   = cocktail
+| ingredients = *6 cl (6 parts) [[gin]]
+*1 cl (1 parts) dry [[vermouth]]
+| prep        = Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.
+| timing      = Before dinner
+| notes       =
+| footnotes   =
+| categories  =
+}}
+The '''martini''' is a [[cocktail]] made with [[gin]] and [[vermouth]], and garnished with an [[olive (fruit)|olive]] or a [[lemon twist]]. Over the years, the martini has become one of the best-known mixed alcoholic beverages. 
+
+[[H. L. Mencken]] called the martini "the only American invention as perfect as the [[sonnet]]"<ref>{{cite book
+  |last = Edmunds
+  |first = Lowell
+  |title = Martini, Straight Up: The Classic American Cocktail
+  |publisher = [[Johns Hopkins University Press]]
+  |year = 1981
+  |isbn = 9780801859717
+}}</ref> and [[E. B. White]] called it "the elixir of quietude".<ref>{{cite book
+  |last = Conrad
+  |first = Barnaby, III
+  |authorlink = Barnaby Conrad III
+  |title = The Martini: An Illustrated History of an American Classic
+  |publisher = [[Chronicle Books]]
+  |year = 1995
+  |pages = 10–11
+  |isbn = 9780811807173
+}}</ref>
+
+==Preparation==
+[[File:Bright-Field Lighting.jpg|thumb|upright|Three martinis with olives as a garnish]]
+By 1922 the martini reached its most recognizable form in which London dry [[gin]] and dry [[vermouth]] are combined at a ratio of 2:1, stirred in a mixing glass with ice cubes, with the optional addition of orange or aromatic [[bitters]], then strained into a chilled [[cocktail glass]].<ref >{{Cite book
+  | last = McElhone | first = Harry | year = 1922
+  | title = Harry's ABC of Mixing Cocktails | publisher = Dean & Son 
+  | pages =67
+  |url=https://www.collectif1806.com/collectif-library/Collectif1806-1950s_HARRY_S_ABC_OF_MIXING_COCKTAILS_FR.pdf
+}}</ref> Over time the generally expected garnish became the drinker's choice of a green [[olive (fruit)|olive]] or a twist of [[lemon]] peel.
+
+A '''dry martini''' is made with dry, white vermouth. By the [[Roaring Twenties]], it became a common drink order. Over the course of the 20th century, the amount of vermouth steadily dropped. During the 1930s the ratio was 3:1 (gin to vermouth), and during the 1940s the ratio was 4:1. During the latter part of the 20th century, 6:1, 8:1, 12:1, 15:1 (the "Montgomery", after British Field Marshal [[Bernard Montgomery]]'s supposed penchant for attacking only when in possession of great numerical superiority),<ref>{{Cite journal|publisher=New York Magazine|author=John Taylor|title=The Trouble With Harry's|date=19 October 1987|page=62}}</ref> or even 50:1 or 100:1 Martinis became considered the norm.<ref>{{cite news|title=Drink Recipes: How to Make a Dry Martini, Classic Cocktails|url=http://thirstynyc.com/drink-recipes-make-dry-martini-classic-cocktails/|accessdate=6 February 2014|website=Thirsty NYC|date=6 February 2014|archive-url=https://web.archive.org/web/20140206210957/http://thirstynyc.com/drink-recipes-make-dry-martini-classic-cocktails/|archive-date=6 February 2014|dead-url=yes|df=dmy-all}}</ref>
+
+A '''dirty martini''' contains a splash of olive brine or olive juice and is typically garnished with an olive.<ref>{{cite book |title=The Complete Bartender's Guide |isbn=1-84222-736-X |publisher=[[Carlton Publishing Group|Carlton Books]] |first=Dave |last=Bloom |page=95}}</ref>
+
+A '''perfect martini''' uses equal amounts of sweet and dry vermouth.<ref>{{cite web|url=http://cocktails.about.com/od/cocktailrecipes/r/prfct_mrtni.htm|title=How to Make the Perfect Perfect Martini|publisher=}}</ref>
+
+Some martinis were prepared by filling a cocktail glass with gin, then rubbing a finger of vermouth along the rim. There are those who advocated the elimination of vermouth altogether. According to [[Noël Coward]], "A perfect martini should be made by filling a glass with gin, then waving it in the general direction of Italy", Italy being a major producer of vermouth.<ref>{{Cite news |url=https://www.telegraph.co.uk/men/the-filter/instant-expert/10301819/Instant-Expert-How-to-make-a-perfect-martini.html |title=Instant Expert: How to make a perfect Martini |last=Elkhershi |first=Erica |date=13 September 2013 |work=[[The Daily Telegraph]] |access-date=2 September 2014 |last2=Bhatia |first2=Sumant}}</ref> [[Luis Buñuel]] used the dry martini as part of his creative process, regularly using it to sustain "a reverie in a bar". He offers his own recipe, involving [[Angostura bitters]], in his memoir.<ref>{{cite book |last=Buñuel |first=Luis |author-link=Luis Buñuel |year=1982 |title=Mon Dernier soupir |trans-title=My Last Breath |language=French}}</ref>
+
+In 1966, the American Standards Association (ASA) released K100.1-1966, "Safety Code and Requirements for Dry Martinis", a tongue-in-cheek account of how to make a "standard" dry martini.<ref>{{cite book|title=K100.1-1966 Safety Code and Requirements for Dry Martinis|date=August 31, 1966|publisher=American Standards Association|edition=1966|url=http://www.opticalheritagemuseum.org/Industry/Pdfs/AmericanStandardsAss1966Release%20SafetyCodesforDM.pdf|accessdate=21 February 2016}}</ref> The latest revision of this document, K100.1-1974, was published by [[American National Standards Institute]] (ANSI), the successor to ASA, though it is no longer an active standard.<ref>{{cite book|title=K100.1-1974 Safety Code and Requirements for Dry Martinis|date=August 30, 1974|publisher=American National Standards Institute|edition=1974|url=http://www.niso.org/apps/group_public/download.php/6140/K100.1-1974%20-%20American%20National%20Standard%20Safety%20Code%20%26%20Requirements%20for%20Dry%20Martinis%20.pdf|accessdate=21 February 2016|archive-url=https://web.archive.org/web/20151226234448/http://www.niso.org/apps/group_public/download.php/6140/K100.1-1974%20-%20American%20National%20Standard%20Safety%20Code%20%26%20Requirements%20for%20Dry%20Martinis%20.pdf|archive-date=26 December 2015|dead-url=yes|df=dmy-all}}</ref>
+
+The traditional martini comes in a number of variations. The fictional spy [[James Bond]] sometimes asked for his [[vodka martini]]s to be "[[shaken, not stirred]]", following [[Harry Craddock]]'s ''[[The Savoy Cocktail Book]]'' (1930), which prescribes shaking for all its martini recipes.<ref>{{cite book |title=The Savoy Cocktail Book |isbn=978-1-86205-296-3 |publisher=[[Pavilion Books]] |first=Harry |last=Craddock |author-link=Harry Craddock |year=2011 |pages=102–103}}</ref> The proper name for a shaken martini is a Bradford;<ref>{{cite book |author=David A. Embury |author-link=David A. Embury |year=1948 |title=The Fine Art of Mixing Drinks |location=[[New York City]] |publisher=[[Doubleday (publisher)|Doubleday]] |page=101}}</ref> however, [[Somerset Maugham]] is often quoted as saying that "a martini should always be stirred, not shaken, so that the molecules lie sensuously on top of one another."<ref>{{cite book |last=Schott |first=Ben |author-link=Ben Schott |year=2003 |title=Schott's Food & Drink Miscellany |location=[[London]] |publisher=[[Bloomsbury Publishing]] |isbn=978-0-7475-6654-0}}</ref> A martini may also be served on the rocks; that is, with the ingredients poured over ice cubes and served in an [[Old-Fashioned glass]].<ref>{{cite book |author=Irma S. Rombauer |author-link=Irma S. Rombauer |year=1975 |title=[[The Joy of Cooking|Joy of Cooking]] |page=49 |quote=[The old-fashioned glass] is increasingly used these days [mid-1970s] by people who prefer their martini 'on the rocks' instead of 'up'—that is, in the rather more fussy and more precise cocktail-glass type of preparation.}}</ref>
+
+==Origins and mixology==
+The exact origin of the martini is unclear. In 1863, an Italian vermouth maker started marketing their product under the brand name of [[Martini (vermouth)|Martini]], after its director [[Alessandro Martini]], and the brand name may be the source of the cocktail's name.<ref name="short">{{cite web|author=<!--Staff writer(s); no by-line.-->|title=Shaken or Stirred? A Short History to Celebrate National Martini Day|url=http://thedrinknation.com/articles/read/8056-Shaken-or-Stirred-A-Short-History-to-Celebrate-National-Martini-Day|date=19 June 2012|website=The Drink Nation|accessdate=19 July 2012}}</ref>
+[[File:Martinez_Cocktail.jpg|thumb|A classic Martinez cocktail]]
+Another popular theory suggests it evolved from a cocktail called the [[Martinez (cocktail)|Martinez]] served sometime in the early 1860s at the [[Occidental Hotel (San Francisco)|Occidental Hotel]] in San Francisco, which people frequented before taking an evening ferry to the nearby town of [[Martinez, California]]. Alternatively, the people of Martinez say a bartender in their town created the drink,<ref>{{cite book|last=Taylor|first=David|title=Martini|year=2002|publisher=Silverback Books|isbn=978-1-930603-03-5|page=8}}</ref> or maybe the drink was named after the town. Indeed, a "Martinez Cocktail" was first described in Jerry Thomas' 1887 edition of his ''Bartender's Guide, How to Mix All Kinds of Plain and Fancy Drinks'':<ref>[https://cld.bz/bookdata/EznTgRo/basic-html/page-25.html Thomas' 1887 "Martinez Cocktail" recipe].</ref>
+* Take 1 dash of Boker's bitters
+* 2 dashes of [[Maraschino]]
+* 1 pony [1 fl oz] of [[Old Tom gin]]
+* 1 wine-glass [2 fl oz] of [sweet/Italian] vermouth
+* 2 small lumps of ice
+* Shake up thoroughly, and strain into a large cocktail glass. Put a quarter of a slice of lemon in the glass, and serve. If the guest prefers it very sweet, add two dashes of [[Syrup#Gomme syrup|gum syrup]].
+
+Other bartending guides of the late 19th century contained recipes for numerous cocktails similar to the modern-day martini.<ref>{{cite book|last=Edmunds|first=Lowell|title=Martini, Straight Up: The Classic American Cocktail|year=1998|publisher=Johns Hopkins University Press|isbn=978-0-8018-7311-9|page=81}}</ref>  For example, [[Harry Johnson (bartender)|Harry Johnson]]'s ''Bartenders' Manual'' (1888) listed a recipe for a drink that consisted in part of half a wine glass of Old Tom gin and a half a wine glass of vermouth.<ref name=Johnson1888>{{cite book|last=Johnson|first=Harry|title=The New and Improved Illustrated Bartenders' Manual; Or: How to Mix Drinks of the Present Style|url=https://books.google.com/books?id=pzMEAAAAYAAJ&pg=PA38|year=1888|publisher=H. Johnson|page=38}}</ref>
+* Fill the glass up with ice
+* 2 or 3 dashes of gum syrup
+* 2 or 3 dashes of [[bitters]]; (Boker's genuine only)
+* 1 dash of [[Curaçao (liqueur)|Curaçao]]
+* {{1/2}} wine glassful [1 fl oz] of Old Tom gin
+* {{1/2}} wine glassful [1 fl oz] of [sweet/Italian] [[vermouth]]
+* Stir up well with a spoon, strain it into a fancy cocktail glass, squeeze a piece of lemon peel on top, and serve.
+
+The first dry martini is sometimes linked to the name of a bartender who concocted the drink at the [[Knickerbocker Hotel (New York)|Knickerbocker Hotel]] in [[New York City]] in 1911 or 1912.<ref>{{cite book|title=Drinks|last1=Gasnier|first1=Vincent|publisher=DK Adult|year=2007|page=376}}</ref> The "Marguerite Cocktail", first described in 1904, could be considered an early form of the dry martini, because it was a 2:1 mix of Plymouth dry gin and dry vermouth, with a dash of orange bitters.<ref>{{Cite book | last = Thomas | first = Stuart | year = 1904 | title = Stuart's Fancy Drinks and How to Mix Them | publisher = Excelsior Publishing House | id =  | pages = 132 }}</ref>
+
+During [[Prohibition in the United States]], during the mid-20th century, the relative ease of illegal gin manufacture led to the martini's rise as the locally predominant cocktail. With the repeal of Prohibition, and the ready availability of quality gin, the drink became progressively drier. In the 1970s and '80s, the martini came to be seen as old-fashioned and was replaced by more intricate cocktails and [[wine spritzer]]s, but the mid-1990s saw a resurgence in the drink and numerous new versions.<ref name="short"/>
+
+Some newer drinks include the word "martini" or the suffix "-tini" in the name (e.g., [[appletini]], peach martini, chocolate martini, [[Espresso Martini]]). These are so named because they are served in a martini [[cocktail glass]]. Generally containing [[vodka]], they share little in common with the martini.
+
+== See also ==
+{{div col|colwidth=20em}}
+* [[Bronx (cocktail)]]
+* [[Gibson (cocktail)]]
+* [[List of cocktails]]
+* [[List of martini variations]]
+* [[Martini (vermouth)]]
+* [[Martini & Rossi]]
+* [[Three-martini lunch]]
+* [[Vesper (cocktail)]]
+* [[Dryness (taste)]]
+{{div col end}}
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{Commons category|Martini (cocktail)}}
+{{Wikibooks|Bartending|Cocktails/Martini}}
+* {{Cite web
+ | first = Brad | last = Gadberry | date = 2008-01-12 | accessdate = 2008-08-10
+ | url = http://www.rdwarf.com/mink/martinifaq.html
+ | title = The Martini FAQ }}
+
+{{IBACocktails}}
+
+{{DEFAULTSORT:Martini (Cocktail)}}
+[[Category:Cocktails with gin]]
+[[Category:Cocktails with vermouth]]
+[[Category:Italian drinks]]
+[[Category:Italian alcoholic drinks]]
+[[Category:Spirit-forward cocktails]]
+[[Category:Three-ingredient cocktails]]

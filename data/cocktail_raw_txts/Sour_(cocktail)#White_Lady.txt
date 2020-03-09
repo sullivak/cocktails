@@ -1,0 +1,113 @@
+{{about|the family of cocktails|the spirit used in cocktails|Sourz}}
+{{Infobox cocktail
+| iba         = 
+| name        = Sours
+| image       = [[File:Whiskey sour.jpg|frameless]]
+| caption     = A whiskey sour garnished with a wheel of lemon and maraschino cherries.
+| type        = family
+| amaretto    = yes
+| bourbon     = yes
+| brandy      = yes
+| gin         = yes
+| pisco       = yes
+| rum         = yes
+| served      = 
+| garnish     = 
+| drinkware   = 
+| ingredients = 
+| prep        = 
+| notes       = See the article for specifics.
+| footnotes   = 
+}}
+A '''sour''' is a traditional family of [[mixed drink]]s. Common examples of sours are the [[margarita]] and the [[Sidecar (cocktail)|sidecar]]. ''Sours'' belong to one of the old families of original cocktails and are described by [[Jerry Thomas (bartender)|Jerry Thomas]] in his 1862 book ''How to Mix Drinks''.<ref name="Cocktail Chronicles">Paul Clarke. [http://www.cocktailchronicles.com/2005/09/25/make-yourself-comfortable/ Make Yourself Comfortable]. September 25, 2005. The Cocktail Chronicles. Retrieved on January 1, 2007.</ref> 
+
+Sours are mixed drinks containing a base liquor, [[Lemon juice|lemon]] or [[lime juice]], and a sweetener ([[triple sec]], [[simple syrup]], [[grenadine]], or [[pineapple]] juice are common).<ref name="Joy 158-159">{{cite book|author=Regan, Gary |title=The Joy of Mixology, The Consummate Guide to the Bartender's Craft |year=2003 |publisher=Clarkson Potter |isbn=0609608843|pages=158–159}}</ref> Egg whites are also included in some sours.
+
+==List of sours==
+* '''[[Daiquiri]]''' {{Wikipedia:WikiProject Cocktails/Templates/Badges/IBAOfficialMini}}: [[rum]], lime juice and sugar.<ref name="Joy 158-159" />
+* '''[[Kamikaze (cocktail)|Kamikaze]]''' {{Wikipedia:WikiProject Cocktails/Templates/Badges/IBAOfficialMini}} [[vodka]], triple sec, and lime juice, mixed in equal parts. It is also served as a [[Mixed drink shooters and drink shots|shot]].<ref>{{cite book|author=Regan, Gary |title=The Joy of Mixology, The Consummate Guide to the Bartender's Craft |year=2003 |publisher=Clarkson Potter |isbn=0609608843|pages=275}}</ref>
+* '''[[Margarita]]''' {{Wikipedia:WikiProject Cocktails/Templates/Badges/IBAOfficialMini}}: [[tequila]], [[Cointreau]] and lime juice.<ref name="Joy 160-162" />
+* '''[[Sidecar (cocktail)|Sidecar]]''' {{Wikipedia:WikiProject Cocktails/Templates/Badges/IBAOfficialMini}}: [[cognac]], triple sec and lemon juice.<ref name="Joy 160-162">{{cite book|author=Regan, Gary |title=The Joy of Mixology, The Consummate Guide to the Bartender's Craft |year=2003 |publisher=Clarkson Potter |isbn=0609608843|pages=160–162}}</ref>
+
+
+===Gin sour===
+The '''gin sour''' is a traditional [[mixed cocktail]] that predates [[prohibition in the United States]]. It is a simple combination of gin, lemon juice, and sugar. Adding carbonated water to this turns it into a [[gin fizz]].
+
+It was popular during the 1940s, and [[Kevin Starr]] includes it in "an array of drinks (the gin sour, the whiskey sour, the [[Lime Rickey|Gin Rickey]], the [[Tom Collins]], the [[Pink Lady (cocktail)|Pink Lady]], the [[Old Fashioned]]) that now seem period pieces, evocative of another era."{{ref|starr}}
+
+====White Lady====
+{{Infobox cocktail
+| iba         = yes
+| name        = White Lady
+| sourcelink = white-lady
+| image       = White Lady - Beefeater gin, Cointreau, fresh lemon juice (12403540403).jpg
+| caption     = 
+| type        = cocktail
+| flaming     = 
+| gin         = yes
+| served      = straight
+| garnish     = 
+| drinkware   = cocktail
+| ingredients = *4 cl [[gin]]
+*3 cl  [[Triple_sec|Triple Sec]]
+*2 cl lemon juice
+| prep        = Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.
+| timing      = All Day
+| notes       = This cocktail is a variant of the [[Sidecar (cocktail)|Sidecar]]
+| footnotes   = 
+}}
+
+'''White Lady''' (also known as a '''Delilah''',<ref name=spruce>{{cite web |url=https://www.thespruce.com/delilah-cocktail-recipe-759293 |title=Delilah Cocktail or White Lady Cocktail Gin Recipe |website=the spruce |date=15 November 2016  |author=Colleen Graham |accessdate= 3 March 2017}}</ref> or '''Chelsea Side-car'''<ref name=spruce/><!--These names deleted from the article; need a reliable source that isn't a likely copy from Wikipedia: '''Kiernander''', '''Janikedvence''' and '''Lillian Forever'''-->) is essentially a [[Sidecar (cocktail)|sidecar]] made with [[gin]] in place of [[brandy]].  What makes it different from the simple gin sour is the switching of sugar for triple sec. The cocktail sometimes also includes additional ingredients, for example [[egg white]], [[sugar]], or [[cream]].
+
+The classic concoction is most commonly served in a Martini [[cocktail glass]]. When an egg white is added a [[Champagne stemware|champagne coupe]] is preferable; the silky foam clings more pleasingly to the curved glass.
+
+It is disputed who originally invented the drink. There are at least two different opinions: first that it was devised by Harry MacElhone in 1919 at Ciro's Club in London. He originally used [[crème de menthe]], but replaced it with gin at [[Harry's New York Bar]] in Paris in 1929.<ref name="firstref">{{Cite web|url=http://www.drinkoftheweek.com/archive/w/white_lady.htm|archiveurl=https://web.archive.org/web/20070208074230/http://www.drinkoftheweek.com/archive/w/white_lady.htm|deadurl=y|title=Drink Recipe - White Lady<!-- Bot generated title -->|archivedate=February 8, 2007}}</ref>
+
+But [[American Bar|The Savoy's]] [[Harry Craddock]] also claims the White Lady (gin, Cointreau, fresh lemon juice). The recipe appears in his ''Savoy Cocktail Book'', published in 1930.<ref name="secondref">[http://www.findarticles.com/p/articles/mi_qn4158/is_20050219/ai_n9769314 101 cocktails that shook the world: #5: The White Lady | Independent, The (London) | Find Articles at BNET.com<!-- Bot generated title -->]</ref> [[Joe Gilmore]], former Head Barman at The Savoy, says this was one of [[Laurel and Hardy]]'s favorite drinks.<ref>The Savoy: Checking into History" [[Channel 4]] TV UK</ref>
+
+In [[John le Carré]]'s 1965 novel ''[[The Looking Glass War]]'', British spy and main protagonist Fred Leiser's favorite drink is a White Lady, and he makes several attempts to get other agents to try the cocktail.
+
+In [[Dorothy Sayers]]' mystery novel ''[[Have His Carcase]]'' Lord Peter has a White Lady when he hears about his "Lady" Miss Harriet Vane being in trouble again.
+
+===Pisco sour===
+{{main|Pisco Sour}}
+The classic '''Pisco Sour''' recipe contains [pisco] brandy (usually an un-aged grape brandy from Perú), fresh lime juice, fresh lemon juice, simple syrup, egg white, and [[bitters]].<ref name="LA Speakeasy">Navarro, V. [https://www.laspeakeasy.com/pisco-sour/ Classic Pisco Sour] ''LA Speakeasy''</ref> It is [[Cocktail shaker|shaken]], [[Cocktail strainer|strained]], and served [[Straight up (bartending)|straight]] in a cocktail glass then garnished with the bitters (cinnamon can be used). The addition of egg white creates a foamy head when shaken before serving.<ref>{{Drinkboy recipe|link=132|name=Pisco Sour}}</ref> While pisco sour is flavoured with key lime by default, pisco is combined with other fruit to create mango sour, maracuya ([[passion fruit]]) sour, lucuma sour and so forth.<ref>{{Cite web|url=https://peru.com/estilo-de-vida/gastronomia/maracuya-sour-que-necesitas-y-como-se-prepara-este-exquisito-trago-noticia-213918|title=Maracuya sour: Qué necesitas y cómo se prepara este exquisito trago|first=Redacción|last=Peru.com|date=December 6, 2013|website=Perú.com}}</ref> Peru has a National Pisco Sour Day (which lasts a weekend) in mid-February,<ref>{{Cite web|url=http://elcomercio.pe/noticias/dia-del-pisco-sour|title=Todas las noticias de Día del Pisco Sour|website=El Comercio}}</ref> and Chile has Pisco Day in mid-May.<ref>[http://piscochile.com/pisco/]{{dead link|date=July 2019}}</ref>
+
+===Whiskey sour===
+
+{{main|Whiskey sour}}
+
+The '''whiskey sour''' is a [[mixed drink]] containing [[bourbon whiskey]], lemon juice, sugar, and optionally a dash of egg white to make it a Boston Sour. It is shaken and served either straight or over ice. The traditional garnish is half an orange slice and a [[maraschino cherry]].
+
+A notable variant of the whiskey sour is the [[Ward 8 (cocktail)|Ward 8]], which often is based with either bourbon or rye whiskey, both lemon and orange juices, and grenadine syrup as the sweetener. The egg white sometimes employed in other whiskey sours is generally not included in this variation.
+
+===Other sours===
+* '''Amaretto Sour''': [[Amaretto]] liqueur, lemon juice and sometimes egg white, bitters or sugar syrup.<ref>{{cite web|title=Amaretto Sour|url=https://www.diffordsguide.com/cocktails/recipe/53/amaretto-sour|website=Difford's Guide|accessdate=21 March 2018}}</ref>
+* '''Brandy Sour''' or [[Brandy Daisy]] (Jerry Thomas, 1887): brandy, clear or orange [[curaçao liqueur|curaçao]], sugar, lemon juice, shaken and strained into a wine glass.
+* '''[[Caipirinha]]''': [[Cachaça]], sugar, lime, ice in an [[Old Fashioned glass]].
+* '''[[Brandy Sour (Cyprus)|Cypriot Brandy Sour]]''': [[Cyprus brandy]], lemon cordial and bitters, stirred in a tall glass, and topped with soda or lemonade.
+* '''Midori Sour''': Honeydew melon liquor, grenadine, lemon juice. Poured properly, it resembles a green Tequila Sunrise with visible layers.
+* '''Santa Cruz Sour''' (Jerry Thomas, 1887): Santa Cruz rum, sugar, lemon juice, shaken and strained into a wine glass.
+* '''Tequila Sour''': Tequila, lemon juice, lime juice, agave nectar, bittercube corazon bitters, egg white.<ref>{{cite web|title=Tequila Sour|url=http://recipe.awesomedrinks.com/recipe/tequila-sour/|website=Awesome Drinks|accessdate=}}</ref>
+
+==See also==
+{{portal|Liquor}}
+* [[List of cocktails]]
+* [[List of lemon dishes and beverages]]
+
+==Notes==
+# {{note|barzun}} Jacques Barzun, 2001 (reprint), ''Mr. Dooley in Peace and in War'', University of Illinois, {{ISBN|0-252-07029-1}}. Originally published by Small, Maynard and Co., 1898. Collected from newspaper columns. Online sources cite 1897 as the year of this particular quotation.
+# {{note|starr}} Kevin Starr, 2002, "Embattled Dreams: California in War and Peace, 1940–1950 (Americans and the California Dream)", Oxford University Press, {{ISBN|0-19-512437-5}}, [https://www.amazon.com/gp/reader/0195124375?p=S014 A9 page image]
+# {{note|1917}} Tom Bullock, 1917, ''The Ideal Bartender.'' [http://www.gutenberg.org/files/13487/13487-h/13487-h.htm Project Gutenberg eBook]. The directions "½ Lime Juice" and "½ Orange Juice" are as given in the source and presumably refer to the juice of half a lime and half an orange, respectively.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikibooks|Bartending|Cocktails/Glossary#W|Whiskey Sour}}
+
+{{Cocktails}}
+{{IBACocktails}}
+
+[[Category:Cocktails]]
+[[Category:Sour cocktails]]

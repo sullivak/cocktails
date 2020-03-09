@@ -1,0 +1,54 @@
+{{short description|Apéritif of gin, apricot brandy and orange juice}}
+{{Refimprove|date=September 2009}}
+
+{{Infobox cocktail 
+| iba         = yes
+| source      = 
+| sourcelink  = paradise
+| name        = Paradise
+| image       = Paradise cocktail.jpg
+| caption     = 
+| type        = cocktail
+| flaming     = 
+| gin         = yes
+| served      = straight
+| garnish     = 
+| drinkware   = cocktail
+| ingredients = *3.5 cl (7 parts) [[gin]]
+*2 cl (4 parts) apricot [[brandy]]
+*1.5 cl (3 parts) [[orange juice]]
+| prep        = Shake together over ice.  Strain into cocktail glass and serve chilled.
+| timing      = All Day
+| notes       = 
+| footnotes   = 
+}}
+
+The '''Paradise''' is an [[IBA official cocktail]], and is classified as a "pre-dinner" drink, an [[apéritif]].
+
+The earliest known in-print recipe for the Paradise Cocktail was written by [[Harry Craddock]] in 1930. This cocktail is prepared using [[gin]], [[apricot brandy]] (apricot liqueur), and orange juice in a 2:1:1 ratio, with a splash of lemon juice.<ref>{{cite book
+|author=Harry Craddock
+|title=The Savoy Cocktail Book
+|publisher=Constable & Company, London
+|year=1930
+|isbn=1-86205-296-4
+}}</ref>
+
+==In popular culture==
+The Paradise cocktail plays a key part in the 1933 [[Warner Bros.]] romantic film ''[[One Way Passage]]'' as the drink of the two star-crossed lovers played by [[Kay Francis]] and [[William Powell]].<ref>{{cite web|url=http://www.tcm.com/mediaroom/video/292668/One-Way-Passage-Movie-Clip-Paradise-Cocktail.html|title=One Way Passage -- (Movie Clip) Paradise Cocktail|website=Turner Classic Movies}}</ref>
+
+On May 27, 2018, [[Snoop Dogg]] set the world record for the largest "Gin and Juice", a 500 litre paradise cocktail.<ref name="Snoop">{{cite web |title=New record: Largest Paradise cocktail |url=https://twitter.com/GWR/status/1001090490220122118?ref_src=twsrc%5Etfw |website=Twitter |publisher=Guinness Book of Records |accessdate=30 May 2018}}</ref>
+
+==See also==
+* [[List of cocktails]]
+* {{portal-inline|Liquor}}
+
+==References==
+{{reflist}}
+
+{{IBACocktails}}
+
+{{DEFAULTSORT:Paradise (Cocktail)}}
+[[Category:Cocktails with gin]]
+
+
+{{mixed-drink-stub}}

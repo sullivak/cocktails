@@ -1,0 +1,41 @@
+{{short description|Cocktail made of Cognac and Amaretto liqueur}}
+{{other uses|The French Connection (disambiguation)}}
+
+{{Infobox cocktail 
+| iba         = yes
+| name        = French Connection
+| sourcelink  = french-connection
+| served      = rocks
+| image       = 
+| caption     = 
+| type        = cocktail
+| flaming     = 
+| cognac      = yes
+| grand marneir    = yes
+| garnish     = 
+| drinkware   = old
+| ingredients = *3.5cl [[Cognac (drink)|Cognac]]
+*3.5cl [[Amaretto]] liqueur
+| prep        = Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.
+| timing      = After dinner
+| notes       = 
+| footnotes   = 
+}}
+
+A '''French Connection''' is a [[List of cocktails|cocktail]] made with equal parts [[Cognac (drink)|Cognac]] and [[Amaretto]] liqueur.<ref name="iba">{{cite web|url=http://iba-world.com/cocktails/french-connection |accessdate=15 February 2017 |title=IBA Official Cocktails |deadurl=no |df= }}</ref> The cocktail is named for the [[Gene Hackman]] film of the [[The French Connection (film)|same name]].<ref>{{Cite book| publisher = Skyhorse Publishing, Inc.| isbn = 978-1-62873-175-0| last = Hallay| first = Amanda| title = Vintage Cocktails: Retro Recipes for the Home Mixologist| date = 2011-10-10 |url=https://books.google.com/books?id=DGAtAgAAQBAJ&pg=PA77}}</ref>
+
+==See also==
+* [[List of cocktails]]
+
+
+==References==
+{{Reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with brandy]]
+[[Category:Cocktails with liqueur]]
+
+
+
+{{Cocktail-stub}}

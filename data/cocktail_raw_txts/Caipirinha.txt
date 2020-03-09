@@ -1,0 +1,76 @@
+{{short description|Brazil's national cocktail}}
+{{Infobox cocktail
+| iba         = yes
+| name        = Caipirinha
+|sourcelink = caipirinha
+| image       = 15-09-26-RalfR-WLC-0048.jpg
+| caption     = Studio photo of a caipirinha
+| type        = cocktail
+| flaming     = 
+| cachaça = yes
+| served      = rocks
+| garnish     = sugarcane, lime(ingredient)
+| drinkware   = old
+| ingredients = * 5 cl [[cachaça]]
+* Half a [[Lime (fruit)|lime]] cut into 4 wedges
+* 2 teaspoons [[sugar]]
+| prep        = Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a [[muddler]] or a wooden spoon). Fill the glass with ice and add the Cachaça.
+| notes       = A wide variety of fresh fruits can be used in place of lime. In the absence of cachaça, vodka can be used, making a [[caipiroska]].<ref name="Brazilian Drinks: Caipirnha">{{cite web|url=http://www.maria-brazil.org/caipirinha.htm|title=Brazilian Drinks: Caipirinha|work=maria-brazil.org}}</ref>
+}}
+
+'''Caipirinha''' ({{IPA-pt|kajpiˈɾĩj̃ɐ}}) is [[Brazil]]'s national cocktail, made with [[cachaça]] ([[sugarcane]] hard [[liquor]]), [[sugar]], and [[Lime (fruit)|lime]].<ref name="law">{{cite web|url=http://www6.senado.gov.br/legislacao/ListaPublicacoes.action?id=237488|title=Lista de Publicações|publisher=Senado.gov.br|accessdate=2015-06-15|deadurl=yes|archiveurl=https://web.archive.org/web/20120224052558/http://www6.senado.gov.br/legislacao/ListaPublicacoes.action?id=237488|archivedate=2012-02-24|df=}}</ref> Cachaça,  also known as ''caninha'', or any one of a multitude of traditional names, is Brazil's most common [[distillation|distilled]] [[alcoholic beverage]]. Although both [[rum]] and cachaça are made from sugarcane-derived products, in cachaça the alcohol results from the fermentation of fresh sugarcane juice that is then distilled, while rum is usually made from refinery by-products such as [[molasses]].<ref>{{cite web|url=http://www.cocktailtimes.com/dictionary/cachacas.shtml |title= Cocktail Times - Dictionary |publisher=Cocktail Times |date= |accessdate=2015-03-18}}</ref>
+
+The drink is prepared by mixing the fruit and the sugar together, and adding the liquor. This can be made into a single glass, usually large, that can be shared amongst people, or into a larger jar, from which it is served in individual glasses.
+
+==History==
+Although the real origin of the drink is unknown, one account says that it came about around 1918 in the region of  [[Alentejo]] in Portugal, with a popular recipe made with [[lemon]], [[garlic]], and [[honey]], indicated for patients with the [[Spanish flu]]. Today, it is still being used as a remedy for the common cold. As it was quite common to add some [[distilled spirits]] to home remedies, in order to expedite the therapeutic effect, [[aguardente]] was commonly used. "Until one day someone decided to remove the garlic and honey. Then added a few tablespoons sugar to reduce the acidity of lime. The ice came next, to ward off the heat," explains Carlos Lima, executive director of IBRAC (Brazilian Institute of Cachaça).<ref>{{cite web |url=http://revistacasaejardim.globo.com/Revista/Common/0%2c%2cEMI278045-16940%2c00-A+HISTORIA+DA+CAIPIRINHA.html |title=Casa e Jardim - NOTÍCIAS - A história da caipirinha |accessdate=2012-12-02 |deadurl=yes |archiveurl=https://web.archive.org/web/20111117035757/http://revistacasaejardim.globo.com/Revista/Common/0%2C%2CEMI278045-16940%2C00-A%2BHISTORIA%2BDA%2BCAIPIRINHA.html |archivedate=2011-11-17 |df= |quote=Até que um dia alguém resolveu tirar o alho e o mel. Depois, acrescentaram umas colheres de açúcar para reduzir a acidez do limão. O gelo veio em seguida, para espantar o calor |language=pt }}</ref><ref>{{cite web |url=http://www.drinquepedia.com/drinques/historia?drinque=146 |title=Receitas de Drinques |language=pt |website=Drinquepedia |deadurl=yes |archiveurl=https://web.archive.org/web/20130927030512/http://www.drinquepedia.com/drinques/historia?drinque=146 |archivedate=September 27, 2013 }}</ref>
+
+According to historians, the caipirinha, as it is known nowadays, was invented by landowning farmers in the region of [[Piracicaba]], interior of the [[State of São Paulo]], during the 19th century, as a local drink for high standard events and parties, being a reflection of the strong sugarcane culture in the region.<ref>(in Portuguese) Cascudo, Luis da Camara (2006). "Prelúdio da cachaça" - Global Editora</ref>
+
+The caipirinha is the strongest national cocktail of Brazil<ref name="7x7 Made in Brazil">{{Cite journal|last=Mackay|first=Jordan|url=http://www.7x7.com/content/made-brazil|title=Made in Brazil|date=August 10, 2006|journal=[[7x7 Magazine]]|deadurl=yes|archiveurl=https://web.archive.org/web/20090214193457/http://7x7.com/content/made-brazil|archivedate=February 14, 2009|df=}}.</ref> and is imbibed in restaurants, bars, and many households throughout the country. Once almost unknown outside Brazil, the drink has become more popular and more widely available in recent years, in large part due to the rising availability of first-rate brands of cachaça outside Brazil.<ref name="Everyday with Rachael Ray">{{cite web|last=Willey|first=Rob|url=http://www.belezabrazil.com/pages/pres_03.asp?id=70|publisher=Cane and Able|date=February 2006|title=Everyday with Rachael Ray|accessdate=2007-01-14|quote=The caipirinha—a sour-sweet combination of crushed limes, sugar and cachaça—has become the darling of American bartenders, and first-rate cachaça is at last finding a place on American liquor-store shelves.}}</ref> The [[International Bartenders Association]] has designated it as one of its [[IBA Official Cocktail|Official Cocktails]].<ref name="IBA" />
+
+==Name==
+The word ''caipirinha'' is the [[diminutive]] of the word ''[[caipira]]'', which in [[Brazilian Portuguese]] refers to someone from the countryside (specifically, someone from the rural parts of south-central Brazil), being similar to [[US English]] ''[[hillbilly]]'' or the Lowland Scots ''[[teuchter]]''. ''Caipira'' is a [[Grammatical gender#Nouns with more than one gender|two-gender noun]]. The diminutive mostly refers to the drink, in which case it is a feminine noun.
+
+==Variations==
+*Although [[Law of Brazil|Brazilian law]] (Decree 6.871<ref>{{cite web|url=http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Decreto/D6871.htm/|title=Decree 6871/2009 |publisher= Brazilian Republic Presidency's Civil Office |date= 2009 |accessdate=2015-03-18 |language= portuguese}}</ref> based on Normative Ruling 55, from Oct. 31, 2008)<ref>{{cite web|url=http://sijut.fazenda.gov.br/netacgi/nph-brs?s1=@DOCN=%22000316718%22&l=20&p=1&u=/netahtml/sijut/Pesquisa.htm&r=1&f=S&d=SIAT&SECT1=SIATW4 |title=Ruling Instruction No. 55 from 31/10/2008 |publisher= Brazilian Ministry of Agriculture (MAPA) |date=2008 |accessdate=2015-03-18 |language= portuguese}}</ref> as well as the International Bartenders Association (IBA)<ref name="IBA">{{cite web |url=http://www.iba-world.com/index.php?option=com_content&view=article&id=88&Itemid=532 |title=IBA Official Cocktails |publisher=International Bartenders Association |date= |accessdate=2015-03-18 |deadurl=yes |archiveurl=https://web.archive.org/web/20150307020340/http://www.iba-world.com/index.php?option=com_content&view=article&id=88&Itemid=532 |archivedate=March 7, 2015}}</ref> allow the use of the name ''caipirinha'' for the version with lime only, the term is often used to describe any cachaça-and-fruit-juice drink with the fruit's name (e.g., a passionfruit caipirinha, kiwifruit caipirinha or strawberry caipirinha).{{citation needed|date=October 2015}}
+*Caipifruta is a very popular caipirinha drink in Brazil, consisting of cachaça, crushed fresh fruits (either singly or in combination), and crushed ice.  The most popular fresh fruits used to create caipifrutas are [[tangerine]], [[Lime (fruit)|lime]], [[kiwifruit]], [[passion fruit]], [[pineapple]], [[lemon]], [[grapes]], [[mango]], [[Spondias mombin|cajá (Spondias mombin fruit)]], and [[cashew|caju (cashew fruit)]].
+
+==Derivations==
+There are many derivations of caipirinha in which other spirits are substituted for cachaça. Some include:
+
+*[[Caipiroska]] is the usual alternative, made with vodka<ref>{{cite web|url=https://www.bonappetit.com/recipe/caipiroska|title=Caipiroska Recipe|first=Alejandro Morales,Eric|last=Wolfinger|website=Bon Appetit|accessdate=2 May 2018}}</ref>
+*Sakerinha is a variant made with [[sake]]<ref>{{cite web|url=http://www.portugueseforspanishspeakers.com/brazilian-food-and-drink/sakerinha-brazilian-sake-cocktail-recipe/|title=Sakerinha: A Japanese-Brazilian Fusion Recipe|work=Portuguese For Spanish Speakers}}</ref>
+*Caipinheger is another variation made using [[Steinhäger]].<ref>{{cite web|url=http://www.brasilbar.com/blog/archives/top-10-brazilian-cocktails|title=Top 10 Brazilian cocktails - Brasilbar - Brasilbar|website=www.brasilbar.com|accessdate=2 May 2018}}</ref>
+*Caipirão is another [[Portuguese cuisine|Portuguese]] variation made using [[Licor Beirão]] instead of cachaça; as the liquor is very sweet, no sugar is used.<ref name="Caipirão Promotional website">{{cite web |publisher=Caipirão |url=http://www.caipirao.com/ |date=2005–2007 |title=Caipirão Promotional website |accessdate=2012-06-01 |deadurl=yes |archiveurl=https://web.archive.org/web/20120621082945/http://www.caipirao.com/ |archivedate=2012-06-21 |df= }}</ref>
+*A variation from [[Italy]] is made using [[Campari]] instead of cachaça.<ref>{{cite web|url=http://www.completecocktails.com/Drinks/Camparinha.aspx#.VgmYgvlVhHw|title=Camparinha Cocktail Recipe with Picture|date=2013|publisher=Complete Cocktails}}</ref>
+* Caipirissima is the  alternative, made with [[rum]].<ref>{{cite web|url=https://www.diffordsguide.com/cocktails/recipe/355/caipirissima|title=Caipirissima Cocktail Recipe - Difford's Guide}}</ref>
+
+==See also==
+{{portal|Liquor}}
+
+*[[Cocktails with cachaça]]
+**[[List of cocktails#Cocktails with cachaça|List of cocktails with cachaça]]
+*[[Ti' Punch]] – similar French Caribbean cocktail, made with [[rhum agricole]], a fermented sugar cane juice similar to Cachaça
+*[[Daiquiri]] – similar Cuban cocktail, made with rum
+*[[List of Brazilian dishes]]
+*[[List of Brazilian drinks]]
+*[[Mojito]]
+*[[Sour (cocktail)]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+*{{Commons category-inline|Caipirinha}}
+*{{wikibooks-inline|Bartending|Cocktails/Caipirinha|Caipirinha}}
+
+{{IBACocktails}}
+{{Alcoholic beverages}}
+
+[[Category:Brazilian alcoholic drinks]]
+[[Category:Cocktails with rum]]
+[[Category:Cold drinks]]
+[[Category:Limes (fruit)]]
+[[Category:Portuguese words and phrases]]
+[[Category:Citrus cocktails]]

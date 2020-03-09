@@ -1,0 +1,54 @@
+{{Infobox cocktail
+| iba         = yes
+| name        = French 75
+| source      = iba
+| sourcelink = french-75
+| image       = French 75.jpg
+| caption     =
+| garnish     = 
+| type        = wine
+| flaming     =
+| champagne   = yes
+| served      = straight
+| drinkware   = flute
+| ingredients = *3 cl [[gin]]
+*2 dashes [[simple syrup]]
+*1.5 cl [[lemon|lemon juice]]
+*6 cl [[Champagne]]
+| prep        = Combine gin, syrup, and lemon juice in a cocktail shaker filled with ice.  Shake vigorously and strain into a chilled champagne glass.  Top up with Champagne. Stir gently.
+| notes       =
+}}
+
+'''French 75''' is a [[cocktail]] made from [[gin]], [[Champagne]], lemon juice, and sugar. It is also called a '''75 Cocktail''', or in French simply a ''Soixante Quinze'' (Seventy Five).
+
+The drink dates to [[World War I]], and an early form was created in 1915 at the New York Bar in Paris—later [[Harry's New York Bar]]—by barman [[Harry MacElhone]]. The combination was said to have such a kick that it felt like being shelled with the powerful [[Canon de 75 modèle 1897|French 75mm field gun]].
+
+==History==
+[[File:Batterie d'honneur de l'artillerie française - Investiture présidentielle du 15 mai 2012 - 031.jpg|thumb|right|300px|The [[Canon de 75 modèle 1897]] is the source of the name of the cocktail]]
+The drink with its current name and recipe developed over the 1920s, though similar drinks date to the 19th century. In the 19th century, the ''Champagne cup'' was a popular cocktail, consisting of champagne, lemon juice, sugar, and ice. Gin was sometimes added, yielding a drink much like the French 75.<ref>"[http://liquor.com/articles/behind-the-drink-the-french-75/ Behind the Drink: The French 75]", David Wondrich, July 09, 2012</ref>
+
+The drink was first recorded as the '''75''' in ''Harry's ABC of Mixing Cocktails'', 1922 edition, by Harry MacElhone, and in the same year in Robert Vermeire's ''Cocktails: How to Mix Them,'' which credits the drink to MacElhone.<ref name="ford">"[http://cold-glass.com/2012/10/28/the-french-75-cocktail/ The French 75 Cocktail — Tom Collins in a Tuxedo]", by Doug Ford, October 28, 2012</ref> However, the recipes differed from the current form – MacElhone's version consisted of Calvados, gin, grenadine, and absinthe, while Vermeire added lemon juice.<ref name="ford"/>
+
+The recipe took its now-classic form and "French 75" name in ''Here’s How'', by Judge Jr. (1927), consisting of gin, sugar, lemon juice, and champagne.<ref>{{cite web|url=https://euvs-vintage-cocktail-books.cld.bz/1927-Here-s-How-2nd-impression/28|title=1927 Here's How by Judge Jr ( 2nd impression)|website=euvs-vintage-cocktail-books.cld.bz}}</ref> This recipe was republished with the name '''French 75''' in ''[[The Savoy Cocktail Book]]'' (1930), which helped popularize the drink. Some later cocktail books use [[Cognac]] instead of gin, such as ''[[The Fine Art of Mixing Drinks]]'' by [[David A. Embury]].
+
+The French 75 was popularized in America at the [[Stork Club]] in New York. It appears in the movie ''[[Casablanca (movie)|Casablanca]]'' (1942) and is referenced twice in the [[John Wayne]] films ''[[A Man Betrayed (1941 film)|A Man Betrayed]]'' (1941) and ''[[Jet Pilot (film)|Jet Pilot]]'' (1957).  In 2016, it appears in the ITV series, ''[[Mr. Selfridge]]'', which is set in London in the 1910s and 1920s.
+
+A fanciful alternative story of the invention of the French 75 was related by [[Jean Shepherd]] on November 17, 1969, wherein he credits [[Gervais Raoul Lufbery]] as the inventor. The mixture, as related by Shepherd, is Champagne and Cognac on ice with perhaps a twist of [[lemon]].<ref>[http://podbay.fm/show/129951381/e/1185336300 Podcast] 27:00</ref> This version is not credible, given the documented earlier version.
+
+==Similar drinks==
+The recipe of the French 75 is very similar to one of the most popular cocktails, the [[Tom Collins]], with Champagne replacing [[carbonated water]]. According to the recipe in Harry MacElhone's book ''Harry's ABC of Mixing Cocktails,'' a French 75 is supposed to be served in a [[highball glass]]. The Highball glass, which the Tom Collins Cocktail is also served in, would support the theory of French 75 being a variation of the Tom Collins.{{citation needed|date=December 2018}}
+
+== References ==
+{{reflist}}
+
+==External links==
+*{{Cite web |url=https://savoycocktails.appspot.com/show?cocktail=ag5zYXZveWNvY2t0YWlsc3IPCxIIQ29ja3RhaWwYwAoM |title=French 75 recipe |publisher=''[[The Savoy Cocktail Book]]''}}
+*{{Cite web |url=http://cocktaildb.com/recipe_detail?id=3082 |title=French 75 recipe |publisher=''[[CocktailDB]]''}}
+*{{cite magazine |url=http://www.esquire.com/drinks/french-75-drink-recipe |title=French 75 recipe |magazine=[[Esquire (magazine)|Esquire]]}}
+*{{Cite web |url=http://www.gourmet.com/recipes/1960s/1960/07/french-75 |title=French 75 recipe |publisher=''[[Gourmet (magazine)|Gourmet]]''}}
+*{{Cite web |url=http://www.epicurious.com/recipes/drink/views/French-75-242668 |title=French 75 recipe |publisher=''[[Epicurious]]''}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with Champagne]]
+[[Category:Cocktails with gin]]

@@ -1,0 +1,58 @@
+{{Infobox cocktail 
+| iba         = yes
+| source      = 
+| sourcelink = alexander 
+| name        = Alexander
+| image       = Alexander Cocktail.png
+| caption     = 
+| type        = cocktail
+| flaming     = 
+| cognac      = yes
+| other       = [[Crème de cacao]]
+| served      = straight
+| garnish     = [[Nutmeg]]
+| drinkware   = cocktail
+| ingredients = *3 cl [[cognac]]
+*3 cl brown [[crème de cacao]]
+*3 cl light [[cream]]
+| prep        = Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.
+| timing = After dinner
+| notes       = 
+| footnotes   = 
+}}
+The '''Alexander''' is a cocktail consisting of some form of alcohol, Cocoa Liqueur ([[Crème de cacao]]), and cream.<ref>[http://www.aibmproject.it/anticipazioni-del-nuovo-libro-sui-cocktail-iba/ Historical Alexander's recipes from 1961 to 2014 (italian)]</ref>
+
+==Earliest citations==
+
+;''Jack's Manual on The Vintage & Production, Care & Handling of Wines, Liquors &c.'', by Jacob Abraham Grohusko, 1910
+
+Alexander Cocktail
+
+*75% rye whisky
+*25% [[Bénédictine|Benedictine]]
+*1 piece of ice
+
+Twist of orange peel. Stir and serve.<ref name="Jack">{{cite book|last1=Grohusko|first1=Jacob|title=Jack's manual on the vintage and production, care and handling of wines, liquors, etc. : a handbook of information for home, club, or hotel : recipes for fancy mixed drinks and when and how to serve|date=1910|publisher=McClunn & Co.|location=New York|url=https://archive.org/details/jacksmanualonvin00groh|accessdate=27 June 2017}}</ref>
+
+;''Recipes for Mixed Drinks'', by Hugo Ensslin, 1915
+
+Alexander Cocktail
+
+*1/3 El Bart gin
+*1/3 White Crème de Cacao
+*1/3 Sweet Cream
+
+Shake well in a mixing glass with cracked ice, strain and serve.
+
+==Variations==
+The most common variation of the Alexander is the [[Brandy Alexander]], made with brandy.  Similarly, a Coffee Alexander substitutes [[coffee liqueur]] (such as [[Kahlúa]]) for gin, and a Blue Alexander substitutes [[Curaçao (liqueur)|blue Curaçao]] for crème de cacao.  Other variations exist.<ref name=dn>{{Cite web |url=http://www.drinknation.com/drinks/Alexander |title=Drinknation.com: Alexander variations |access-date=2008-08-11 |archive-url=https://web.archive.org/web/20090502184702/http://www.drinknation.com/drinks/Alexander |archive-date=2009-05-02 |dead-url=yes |df= }}</ref>
+
+In ''Jack's Manual'' (1910) there is another cocktail called The Alexander which is a mixture of [[rye whiskey]] and [[Bénédictine]].<ref name="Jack" /> It is unclear whether or not this has any relation to the cream-based version.
+
+==References==
+{{reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with chocolate liqueur]]
+[[Category:Cocktails with gin]]

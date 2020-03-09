@@ -1,0 +1,69 @@
+{{about|the cocktail||Tequila Sunrise (disambiguation)}}
+{{Infobox cocktail
+| iba         = yes
+| name        = Tequila Sunrise
+| sourcelink = tequila-sunrise
+| image       = Tequila Sunrise glass.jpg
+| caption     = Shows a Tequila Sunrise demonstrating its resemblance to a sunrise. Shown in a stemware rather than the usual collins glass
+| type        = mixed
+| flaming     = 
+| tequila     = yes
+| served      = rocks
+| garnish     = [[Orange (fruit)|orange]] slice and [[cherry]]
+| drinkware   = collins
+| ingredients = * 4.5 cl (3 parts) [[Tequila]]
+* 9 cl (6 parts) [[Orange juice]]
+* 1.5 cl (1 part) [[Grenadine syrup]]
+| prep        = Pour the tequila and orange juice into glass over ice.  Add the grenadine, which will sink to the bottom.  Stir gently to create the sunrise effect.  Garnish and serve.
+| notes       =
+| footnotes   =
+| categories  = no
+}}
+
+The '''Tequila Sunrise''' is a [[cocktail]] made of [[tequila]], [[orange juice]], and [[grenadine]] syrup and served unmixed in a tall glass. The modern drink originates from [[Sausalito, California|Sausalito]] in the early 1970s, after an earlier one created in the 1930s in [[Phoenix, Arizona|Phoenix]], near [[Scottsdale, Arizona|Scottsdale]]. The cocktail is named for its appearance when served, with gradations of color resembling a sunrise.
+
+==History==
+The original '''Tequila Sunrise''' contained [[tequila]], [[creme de cassis]], [[lime juice]] and [[Carbonated water|soda water]] and was served at the [[Arizona Biltmore Hotel]], where it was created by Gene Sulit in the 1930s or 1940s.<ref>{{Cite web |url=http://www.cocktailatlas.com/L2Signature/Arizona_Biltmore/Wright_Bar.htm |title=Archived copy |access-date=2010-08-29 |archive-url=https://web.archive.org/web/20100914025932/http://www.cocktailatlas.com/L2Signature/Arizona_Biltmore/Wright_Bar.htm |archive-date=2010-09-14 |dead-url=yes |df= }}</ref>
+ 
+The more popular modern version of the cocktail contains [[tequila]], [[orange juice]], and [[grenadine syrup|grenadine]] and was created by Bobby Lozoff and Billy Rice in the early 1970s while working as young bartenders at [[The Trident (restaurant)|the Trident]] in [[Sausalito, California]] north of San Francisco. In 1972, at a private party at the Trident organized by [[Bill Graham (promoter)|Bill Graham]] to kick off the [[Rolling Stones]]' 1972 tour in America, [[Mick Jagger]] had one of the cocktails, liked it, and he and his entourage started drinking them.<ref name=MarinIJ>{{cite news |last=Burkhart |first=Jeff |date=2011-06-19 |title=Barfly: when it's not just another tequila sunrise |url=http://www.marinij.com/ci_18279560 |deadurl= |newspaper=Marin Independent Journal |location=Novato CA |publisher=David Rounds |editor=Doug Bunnell |issn=0891-5164 |oclc=61313188 |archiveurl=https://web.archive.org/web/20141021205601/http://www.marinij.com/ci_18279560 |archivedate=2014-10-21 |accessdate=2014-10-21 |quote=Mick came up to the bar and asked for a margarita, I asked him if he had ever tried a tequila sunrise, he said no, I built him one and they started sucking them up. After that they took them all across the country.}}</ref> They later ordered them all across America, even dubbing the tour itself their "cocaine and tequila sunrise tour".<ref name=Richards-Life>{{cite book |url=https://books.google.com/books?id=JuDQleqK5PYC |title=Life |last1=Richards |first1=Keith |date=Oct 26, 2010 |website= |publisher=Little, Brown |location=New York |accessdate=2014-10-21 |chapter=9 |page=326 |isbn=978-0316034418 |quote=The '72 tour was known by other names—the cocaine and Tequila Sunrise tour, or the STP, Stones Touring Party.}}</ref><ref name=RollingStone>{{cite web |url=https://www.rollingstone.com/music/pictures/exclusive-life-excerpt-20101014 |title=Exclusive 'Life' Excerpt from Keith Richards |last1=Richards |first1=Keith |date=October 14, 2010 |website=Rolling Stone |publisher=Jann Wenner |archiveurl=https://web.archive.org/web/20140422133952/http://www.rollingstone.com/music/pictures/exclusive-life-excerpt-20101014 |archivedate=2014-04-22 |accessdate=2014-10-21}}</ref>
+
+At the time, the Trident was the largest outlet for tequila in the United States, and in 1973 [[Jose Cuervo]] picked up on the new drink as a marketing opportunity and put the recipe for the new drink on the back of their bottles of tequila, and promoted it in other ways. Later that same year the [[Eagles (band)|Eagles]] recorded a song called "[[Tequila Sunrise (song)|Tequila Sunrise]]" for their ''[[Desperado (Eagles album)|Desperado]]'' album as the drink was soaring in popularity.<ref name=nga-blog>{{cite web |url=http://ngablog.com/2012/02/17/just-another-tequila-sunrise/ |title=Just Another Tequila Sunrise |last1=Burkhart |first1=Jeff |date=February 17, 2012 |website=National Geographic Assignment Blog |publisher=National Geographic Society |archiveurl=https://web.archive.org/web/20141021213612/http://ngablog.com/2012/02/17/just-another-tequila-sunrise/ |archivedate=2014-10-21 |accessdate=2014-10-21 |quote=In 1973, Jose Cuervo seized on this new cocktail sensation and began marketing it in various print advertisements, eventually releasing it as one of their canned 'club cocktails.' 'Lou, (the manager of the Trident) talked to the Cuervo people,' said Lozoff. 'We were the biggest outlet in the United States, and they were talking to us – that recipe, with crème de cassis went on the back of bottles, and at one point our recipe made it on the back of the gold bottle.'}}</ref>
+
+==Preparation and serving==
+The Tequila Sunrise is considered a [[long drink]] and is usually served in a [[collins glass|collins]] or [[highball glass]]. The International Bartender Association has designated this cocktail as an [[IBA Official Cocktail]].
+
+The drink is mixed by pouring in Tequila, ice, then the juice and, lastly, syrup. The signature look of the drink depends on adding the syrup without mixing with the other ingredients. A spoon may be used to guide the syrup down the glass wall to the bottom of the glass with minimal mixing.
+
+===Variations===
+* '''Aperol Sunrise''' – substitute Aperol orange liqueur for grenadine
+* '''Tequila Sunset''' – substitute blackberry brandy, or dark rum, for grenadine
+* '''Caribbean Sunrise''' – use rum instead of tequila
+* '''Vodka (or Russian) Sunrise''' – use vodka instead of tequila
+* '''Southern Sunrise''' – use [[Southern Comfort]] instead of tequila
+* '''Astronaut Sunrise''' – use [[Tang (drink)|Tang]] instead of orange juice
+* '''Amaretto Sunrise''' – use [[Disaronno]] amaretto instead of tequila
+* '''Florida Sunrise''' – use equal measures of pineapple and orange juice
+* '''Red Sea Sunrise''' – non-alcoholic version that uses lemonade or Sprite instead of tequila
+* '''Enamorada Sunrise''' – substitute [[Campari]] for grenadine syrup
+* '''Colorado Sunrise''' – use [[Captain Morgan]] and [[SunnyD|Sunny Delight]] instead of tequila and orange juice
+* '''Goon Sunrise''' – use [[cask wine]] instead of tequila
+* '''Arizona Biltmore Tequila Sunrise''' – Hornitos Plata tequila, Creme de cassis, fresh lime juice, and club soda
+
+==See also==
+{{commons category|Tequila sunrise}}
+{{portal|Liquor}}
+* [[IBA Official Cocktail]]s
+* [[List of cocktails]]
+
+==Notes==
+{{Reflist}}
+
+{{IBACocktails}}
+{{Cocktails}}
+
+{{DEFAULTSORT:Tequila Sunrise (Cocktail)}}
+[[Category:Cocktails with tequila]]
+[[Category:Citrus cocktails]]
+[[Category:Three-ingredient cocktails]]
+[[Category:Sour cocktails]]
+[[Category:Sweet cocktails]]

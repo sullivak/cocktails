@@ -1,0 +1,44 @@
+{{Infobox cocktail
+| iba         = yes
+| source      =
+| sourcelink  = rose
+| name        = Rose
+| image       = Rose (cocktail).jpg
+| caption     =
+| type        = wine
+| flaming     =
+| vermouth = yes
+| served      = straight
+| garnish     = [[Maraschino cherry]]
+| drinkware   = cocktail
+| ingredients = *4 cl (2 parts) dry [[vermouth]]
+*2 cl (1 parts) [[Kirsch]]
+*3 Dashes [[Strawberry syrup]]
+| prep        = Shake together in a [[cocktail shaker]], then strain into chilled glass.  Garnish and serve.
+| notes       =
+| footnotes   =
+}}
+
+'''Rose''' is an [[IBA official cocktail]] made of [[vermouth]], cherry [[eau de vie]] (Kirsch) and fruit syrup (strawberry, raspberry or redcurrant).<ref>http://iba-world.com/cocktails/rose/</ref><ref>http://www.esquire.com/food-drink/drinks/recipes/a3740/rose-drink-recipe/</ref> Some recipes include cherry [[liqueur]] and [[gin]].<ref>{{cite book
+|author="Rip" ([[Georges Gabriel Thenon]])
+|title=Cocktails de Paris
+|publisher=Demangel, Paris
+|year=1929
+}}</ref>
+
+The Rose cocktail was popular in 1920's [[Paris]] and was created by Johnny Mitta, barman at the Chatham Hotel.<ref>http://www.esquire.com/food-drink/drinks/recipes/a3740/rose-drink-recipe/</ref><ref>http://www.saveur.com/article/Recipes/Classic-Rose-Cocktail</ref><ref>http://www.bols.com/cocktails/the-rose/</ref> A recipe for it can be found in a 1927 book by [[Harry MacElhone|Harry McElhone]], owner of [[Harry's New York Bar]] in Paris.<ref>{{cite book
+|author=Harry McElhone
+|title=Barflies and Cocktails
+|publisher=Lecram Press, Paris
+|year=1927
+}}</ref>
+
+==References==
+{{Reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with vermouth]]
+
+
+{{Cocktail-stub}}

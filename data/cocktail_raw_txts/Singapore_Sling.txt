@@ -1,0 +1,81 @@
+{{other uses}}
+{{Infobox cocktail
+| iba         = yes
+| name        = Singapore Sling
+| sourcelink  = singapore-sling
+| image       = Singaporesling-march2017.jpg
+| caption     =
+| type        = mixed
+| flaming     =
+| gin         = yes
+| served      = straight
+| garnish     = [[Maraschino cherry]], [[pineapple]]
+| drinkware   = hurricane
+| ingredients = * 3 cl  [[Gin]]
+* 1.5 cl Cherry Liqueur (cherry [[brandy]])
+* 0.75 cl  [[Cointreau]]
+* 0.75 cl  DOM [[Bénédictine]]
+* 1 cl  [[Grenadine]]
+* 12 cl  [[Pineapple juice]]
+* 1.5 cl Fresh [[lime juice]]
+* 1 dash [[Angostura bitters]]
+| prep        = Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into highball glass. Garnish with pineapple and cocktail cherry.
+| notes       =
+| footnotes   =
+}}
+
+The '''Singapore Sling''' is a gin-based [[cocktail]] from [[Singapore]]. This [[long drink]] was developed sometime before 1915<ref>{{cite news |
+first=Colin |
+last=Campbell  |
+title=Singapore Journal; Back to Somerset Maugham and Life's Seamy Side |
+url=https://www.nytimes.com/1982/12/12/travel/singapore-sling-is-spoken-here.html |
+location = Singapore|
+newspaper=The New York Times |
+date=12 December 1982 }}</ref> by Ngiam Tong Boon, a  [[Hainan people|Hainanese]] bartender working at the Long Bar in [[Raffles Hotel]], [[Singapore]]. It was initially called the '''gin sling'''<ref>[[The Daily Telegraph]], ''Peterborough: Sling shot AVA GARDNER'S knickers are still missing'', 13 April 1991</ref> – a ''sling'' was originally a North American drink composed of spirit and water, sweetened and flavored.<ref>[[OED]] ''sling, n.5''</ref>
+
+==History==
+[[D. A. Embury]] stated in the ''[[Fine Art of Mixing Drinks]]'': "Of all the recipes published for [this drink] I have never seen any two that were alike." ''[[The Times]]'' described the "original recipe" as mixing two measures of gin with one of [[cherry brandy]] and one each of orange, pineapple, and lime juice<ref>p. iv/4 (Singapore Suppl.), The Times 19 July 1976</ref> An alternative "original recipe" used [[gin]], [[Cherry Heering]], [[Bénédictine]], and fresh [[pineapple juice]], primarily from [[Sarawak]] (or "[[Pineapple#Cultivars|smooth cayenne]]"<ref>{{cite web |url=http://www.itfnet.org/v1/2016/05/pineapple-common-varieties/ |title=PINEAPPLE – Common Varieties {{!}} TFNet – International Tropical Fruits Network |website=www.itfnet.org |date=2016-05-10 |access-date=2017-10-18}}</ref>) pineapples, which enhances the flavor and creates a foamy top.  The hotel's recipe was recreated based on the memories of former [[bartender]]s and written notes that they discovered regarding the original recipe.
+
+==Present style==
+By the 1980s, the Singapore Sling was often little more than gin, bottled sweet and sour, and [[grenadine]]. With the move towards fresh juices and the re-emergence of quality products like [[Cherry Heering]], the cocktail has begun to resemble its original version.<ref>{{cite web
+ | url   = http://www.mercurynews.com/ci_17787513?IADID=Search-www.mercurynews.com-www.mercurynews.com&nclick_check=1
+ | title = Sometimes a bartender needs to sling whatever works
+ | first = Jeff | last = Burkhart
+ | date  = 10 April 2011 | work =mercurynews.com | publisher = [[San Jose Mercury News]]
+ | accessdate = 2011-04-14 }}</ref>
+
+==Gin slings==
+The gin [[sling (drink)|sling]], attested from 1790, described a North American drink of gin which was flavoured, sweetened and served cold.<ref>[[OED]], ''gin-sling, n.''</ref> The ''Singapore sling'' has been documented as early as 1930 as a recipe in the ''[[Savoy Cocktail Book]]''; Ingredients ¼ lemon juice, ¼ Dry Gin, ½ Cherry Brandy: "Shake well and strain into medium size glass, and fill with soda water. Add 1 lump of ice".<ref>[[OED]] ''Singapore sling n.''</ref>
+
+[[Brewer's Dictionary of Phrase and Fable|Brewer's]] refers to the gin-sling as "a drink mainly composed of gin and lemon" and states that it has been attributed to bartender John Collins of London, "but it dates from before his time and was found in the U.S.A. by 1800"<ref>Brewer's Dictionary of Phrase and Fable 1969, pp.&nbsp;463.</ref> which is similar to the [[John Collins (cocktail)|John Collins]] which is another drink of gin and lemon
+
+==See also==
+{{commons}}
+{{portal|Liquor}}
+* [[Tom Collins]]
+* [[John Collins (cocktail)|John Collins]]
+* [[List of cocktails]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+* "The Genealogy and Mythology of the Singapore Sling," Ted "Dr. Cocktail" Haigh, in ''Mixologist: The Journal of the American Cocktail'', 2007, {{ISBN|978-0-9760937-0-1}}
+*Andrew F. Smith: ''The Oxford Companion to American Food and Drink''. Oxford University Press 2007, {{ISBN|978-0-19-530796-2}}, p.&nbsp;567 ({{Google books|AoWlCmNDA3QC|online copy|page=567}})
+*Rob Chirico: ''Field Guide to Cocktails: How to Identify and Prepare Virtually Every Mixed Drink at the Bar''. Quirk Books 2005, {{ISBN|978-1-59474-063-3}}, p.&nbsp;257 ({{Google books|rAXilKkMM7YC|online copy|page=257}})
+
+==External links==
+*[http://www.raffles.com/singapore/offers/ss100/ 100th Anniversary of the original Singapore Sling] at [http://www.raffles.com/singapore Raffles Singapore]
+*[http://www.drinkboy.com/Cocktails/Recipe.aspx?itemid=151 SingaporeSling recipe] at DrinkBoy
+* {{cite news |author=Jason Wilson |date=February 2011 |work=Washington Post |url=https://www.washingtonpost.com/wp-dyn/content/article/2011/01/31/AR2011013105787.html |title=For a better Singapore Sling, the answer is clear (not red)}}
+
+{{Use dmy dates|date=November 2010}}
+{{IBACocktails}}
+{{Singapore topics}}
+
+[[Category:Cocktails with gin]]
+[[Category:Singaporean alcoholic drinks]]
+[[Category:Food and drink introduced in the 1910s]]
+[[Category:Cocktails with bitters]]
+
+[[Category:Tiki drinks]]

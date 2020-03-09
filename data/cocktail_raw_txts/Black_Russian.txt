@@ -1,0 +1,55 @@
+{{about|a cocktail|African diaspora in Russia|Afro-Russian|other uses}}
+{{Infobox cocktail 
+| iba         = yes
+| sourcelink  = black-russian
+| name        = Black Russian
+| image       = Black_Russian.jpg
+| caption     = A Black Russian cocktail
+| type        = cocktail
+| flaming     = 
+| vodka       = yes
+| Coke      = yes
+| Tia Maria       = yes
+| served      = rocks
+| garnish     = 
+| drinkware   = old
+| ingredients = * 5 cl [[Vodka]]
+* 2 cl [[List of liqueurs#Coffee liqueurs|Coffee liqueur]]
+| prep        = Pour the ingredients into an old fashioned glass filled with ice cubes. Stir gently.
+| timing      = After dinner
+| notes       = 
+| footnotes   = 
+}}
+
+The '''Black Russian''' is a [[cocktail]] of [[vodka]] and [[coffee liqueur]]. It contains five parts vodka to two parts coffee liqueur, per [[IBA Official Cocktail|IBA]] specified ingredients. Traditionally, the drink is made by pouring the vodka over [[ice cube]]s or cracked ice in an [[old-fashioned glass]], followed by the coffee liqueur.<ref>{{Cite web | title = SpiritDrinks.com - Black Russian | publisher = SpiritDrinks | url = http://www.spiritdrinks.com/cocktails/Black_Russian.asp | accessdate = July 12, 2010}}</ref>
+
+This combination first appeared in 1949 and is ascribed to Gustave Tops, a [[Belgians|Belgian]] [[Bartender|barman]], who created it at the [[Hotel Metropole, Brussels|Hotel Metropole]] in [[Brussels]] in honor of [[Carl Sargent]], then [[United States Ambassador to Luxembourg]].<ref name="sicard">{{Cite web | last = Sicard | first = Cheri | title = Featured Cocktails - Black Russian and White Russian | publisher = FabulousFoods.com | date = August 6, 2007 | url = http://www.fabulousfoods.com/index.php?option=com_resource&controller=article&article=21219&category_id=237&Itemid=177 | accessdate = June 8, 2010}}</ref> The cocktail owes its name to the use of vodka, a typical Russian spirit, and the blackness of the coffee liqueur.
+
+==Variations==
+* '''Dirty Black Russian''', '''Tall Black Russian''', '''Australian Black Russian''' or '''Colorado Bulldog''': served in a [[highball]] glass and topped up with [[cola]].<ref>{{Cite web | title = Tall Black Russian | publisher = Fluid Trade | url = http://www.fluidtrade.co.uk/cocktailview.aspx?CocktailID=303&x=0 | accessdate = June 8, 2010 | deadurl = yes | archiveurl = https://web.archive.org/web/20091103184824/http://www.fluidtrade.co.uk/cocktailview.aspx?CocktailID=303&x=0 | archivedate = November 3, 2009 | df =  }}</ref>
+* '''Black Magic''': served with a dash of [[lemon]] juice and a [[lemon twist]] to garnish.<ref>{{Cite web | title = Black Magic | publisher = in-the-spirit.co.uk | url = http://www.in-the-spirit.co.uk/cocktails/view_cocktail.php?id=35 | accessdate = June 8, 2010}}</ref>
+* '''Irish Russian''' or '''Smooth Black Russian''': served with a head of [[Guinness]].<ref name="sicard"/><ref>{{Cite web | title = Smooth Black Russian recipe| publisher = DrinksMixer.com | url = http://www.drinksmixer.com/drink2057.html | accessdate = June 8, 2010}}</ref>
+* '''Brown Russian''': served in a [[highball]] glass and topped with [[ginger ale]].<ref>{{Cite web | title = Brown Russian | publisher = SpiritDrinks | url = http://spiritdrinks.com/cocktails/BrownRussian.asp | accessdate = July 23, 2010}}</ref>
+* '''Peri's Black Russian''': served in a [[highball]] glass with [[vanilla]] flavored [[vodka]] and topped with [[cola]].
+* '''Vader''': served with [[Jägermeister]].
+*'''California Russian''': served with a shot of [[triple sec]] and a slice of [[Orange (fruit)|orange]].
+*'''Belarusian''' or '''[[White Russian (cocktail)|White Russian]]''': served with [[milk]] or [[cream]].
+*'''Muddy Water''' or '''Blind Russian''': served with [[Irish cream]]. If you add [[cream]] to this, it's called a '''Mudslide'''.
+
+==See also==
+* [[White Russian (cocktail)|White Russian]]
+* [[List of cocktails]]
+* {{portal-inline|Liquor}}
+
+==References==
+{{reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with vodka]]
+[[Category:Cocktails with coffee liqueur]]
+[[Category:Coffee culture]]
+[[Category:Coffee drinks]]
+[[Category:Alcoholic coffee drinks]]
+
+{{cocktail-stub}}

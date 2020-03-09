@@ -1,0 +1,64 @@
+{{Infobox cocktail
+| iba         = yes
+| sourcelink  = god-father
+| name        = The Godfather
+| image       = Godfather cocktail.jpg
+| caption     = 
+| type        = cocktail
+| flaming     =
+| scotch      = yes
+| amaretto    = yes
+| served      = rocks
+| garnish     = 
+| drinkware   = old
+| ingredients = *3.5 cl [[Scotch whisky]]
+*3.5 cl [[Amaretto]]
+| prep        = Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.
+| timing = After dinner
+}}
+
+{{Infobox cocktail
+| iba         = yes
+| sourcelink  = god-mother
+| name        = The Godmother
+| image       = 
+| caption     = 
+| type        = cocktail
+| flaming     =
+| vodka       = yes
+| amaretto    = yes
+| served      = rocks
+| garnish     = 
+| drinkware   = old
+| ingredients = *3.5 cl [[Vodka]]
+*3.5 cl [[Amaretto]]
+| prep        = Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently. 
+| timing = After dinner
+}}
+
+'''The Godfather''' is a [[duo (cocktail)|duo mixed drink]] made of [[Scotch whisky]] (especially [[smoky whisky]])<ref>https://www.insider.com/best-2-ingredient-cocktails-2019-4</ref> and [[amaretto]]. Typically, the drink is served [[Straight up (bartending)#Definitions and usage|on the rocks]] in an [[old fashioned glass]].
+
+==Name==
+As with many cocktails, the origin of the Godfather's name is uncertain. The amaretto brand [[Disaronno]] claims the drink was the favorite cocktail of American actor [[Marlon Brando]], known for playing the titular character in the popular American [[The Godfather (film)|film adaptation]] of [[Mario Puzo|Mario Puzo's]] ''[[The Godfather]]'', which prominently features the [[American Mafia|Italian mob]].<ref name="DiSaronno">{{cite web |url=http://www.disaronno.com/drinks/godfather/ |title=The Godfather: A drink that commands respect |publisher=Disaronno |accessdate=4 September 2013}}</ref> This may be an allusion to the cocktail's prominent use of amaretto, an Italian [[liqueur]].
+
+The [[International Bartenders Association]] writes the name as two words, "God Father".<ref name="IBA"/>
+
+==Variations==
+
+Disaronno recommends a 1-to-2 ratio of amaretto to whisky (25&nbsp;ml amaretto to 50&nbsp;ml whisky)<ref name="DiSaronno"/> whereas the IBA recipe specifies a 1-to-1 ratio (35&nbsp;ml of each).<ref name="IBA">{{cite web |url=http://iba-world.com/cocktails/god-father/ |title=God Father |publisher=International Bartenders Association. |accessdate=14 September 2013}}</ref>
+
+[[Bourbon whiskey|Bourbon]] is often used in place of scotch.
+
+The Godmother cocktail uses [[vodka]] in place of whisky, while the [[French Connection (cocktail)|French Connection]] uses [[cognac]]. Both are popular cocktails in their own right and have been selected as [[IBA Official Cocktail]]s. The Godchild, meanwhile, replaces scotch with cream, leaving a drink with much less alcohol.
+
+==See also==
+* [[List of cocktails]]
+
+==References==
+{{reflist}}
+
+{{IBACocktails}}
+
+[[Category:Amaretto liqueurs]]
+[[Category:Cocktails with liqueur]]
+[[Category:Cocktails with Scotch whisky]]

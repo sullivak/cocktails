@@ -1,0 +1,36 @@
+{{Infobox cocktail
+| iba = yes
+| tequila = yes
+| name = Tommy's Margarita
+| image = TommysMargarita.jpg
+| sourcelink = tommys margarita
+| served = Straight (except at Tommy’s)
+| caption = Tommy's Margarita as it is served at Tommy's
+| garnish = 
+| type = mixed
+| drinkware = cocktail
+| ingredients = * 4.5 cl [[Tequila]]
+* 1.5 cl Freshly squeezed [[lime juice]]
+* 2 bar spoons of [[agave nectar]]
+| timing = All Day
+| prep = Shake and strain into a chilled cocktail glass.
+}}
+
+'''Tommy's Margarita''' is an all-day cocktail and variant of the [[Margarita]] cocktail. It is recognised by the [[IBA Official Cocktail|IBA]] as a [[IBA Official Cocktail#New Era Drinks|New Era Drink]].<ref>{{cite web|title=New Era Drinks|url=http://iba-world.com/new-era-drinks/|website=IBA World|accessdate=10 April 2017}}</ref>
+
+==Mixture==
+It is made with [[tequila]], [[lime juice]], and [[agave nectar]] and served in a [[cocktail glass]]. It is distinct from the [[Margarita]] in its omission of [[orange liqueur]] and its substitution of agave nectar.<ref name="Tequila Patrón">{{cite web|title=A Visit With Julio Bermejo, Creator of Tommy’s Margarita|url=https://www.patrontequila.com/social-club/2016-03/a-visit-with-julio-bermejo.html|website=Tequila Patrón|accessdate=9 April 2017}}</ref>
+
+==History==
+Tommy's Margarita was conceived in [[San Francisco]] in 1990 by Julio Bermejo at his parents' restaurant called Tommy's (not to be confused with Tommy's Place in [[Juárez, Mexico]]. See [[Margarita#Origin|Margarita Origin]]). Bermejo had been recently introduced to agave nectar as an ingredient, and, although it was still expensive at the time, he used it to enhance the [[agave]] flavor of the cocktail instead of using [[triple sec]] to highlight the citrus flavor in the original [[Margarita]] recipe.<ref name="Tequila Patrón" /><ref>{{cite web|last1=Sintumang|first1=Kevin|title=The Only Margarita Recipe You Need|url=https://www.gq.com/story/the-only-margarita-recipe-you-need|website=GQ|accessdate=9 April 2017}}</ref><ref>{{cite web|last1=Krieger|first1=Daniel|title=Tommy’s Margarita|url=http://punchdrink.com/recipes/tommys-margarita/|website=Punch|accessdate=9 April 2017}}</ref>
+
+==See also==
+*[[List of cocktails]]
+*[[IBA Official Cocktail]]
+
+==Bibliography==
+{{Reflist}}
+
+
+{{IBACocktails}}
+[[Category:Cocktails]]

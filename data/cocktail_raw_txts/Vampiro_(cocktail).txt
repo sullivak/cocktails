@@ -1,0 +1,60 @@
+{{Infobox cocktail 
+| iba         = yes
+| source      = 
+| sourcelink = vampiro 
+| name        = Vampiro
+| image       = Vampiro coctail Orange.jpg
+| caption     = Vampiro cocktail in a [[highball glass]], garnished with a slice of an [[Orange (fruit)|orange]] and a [[chili pepper]].
+| type        = cocktail
+| flaming     = 
+| tequila      = yes
+| other       = 
+| served      = rocks
+| garnish     = [[Salt]] on the rim. [[Chili pepper]] (optional)
+| drinkware   = old
+| ingredients = *5 cl [[tequila]]
+* 7 cl [[tomato juice]]
+* 3 cl fresh [[orange juice]]
+* 1 cl fresh [[lime juice]]
+* 1 teaspoon clear [[honey]]
+* Half slice [[onion]] finely chopped
+* Few slices fresh red hot [[chili pepper]]
+* Few drops of Worcestershire Sauce
+* [[Salt]]
+| prep        = Pour ingredients into glass rimmed with salt. Stir. 
+| notes       = 
+| footnotes   = 
+}}
+
+The '''Vampiro''' is a [[cocktail]] that includes fruit juice, spices, fruit soda, fresh lime juice, and [[tequila]]. The Vampiro has a fruity, lightly carbonated, and spicy taste.<ref> 
+{{cite web |url=http://www.drinksmixer.com/drink14u9t14.html |title=Vampiro recipe |author=<!--Not stated--> |date= |website=www.drinksmixer.com |publisher=Drinks Mixer |access-date=13 August 2017  }}</ref>
+
+The Vampiro can be made with Mexican sangrita, a prepared drink mixer containing orange juice and chili peppers. One recipe lists the ingredients as tequila, limes, [[Kosher salt]], Squirt brand citrus-flavoured soda and Viuda de Sanchez, an orange juice-based Mexican [[sangrita]] beverage. Viuda de Sanchez is sold in Mexico and in areas of the southern US with large Latino populations. If Viuda de Sanchez is not available, good quality fresh-squeezed orange juice, lime juice and spicy [[pico de gallo]] seasoning can be used as a substitute.
+
+The Vampiro is popular in Mexico and is the national drink<ref>{{cite web|title=Vampiro|url=https://www.diffordsguide.com/en-au/cocktails/recipe/2024/vampiro|website=Difford's Guide|accessdate=29 November 2017}}</ref>. Mexicans named the cocktail Vampiro ("[[vampire]]") because the Viuda de Sanchez juice mixer's red colour is reminiscent of blood.<ref> 
+{{cite web |url=http://www.drinksmixer.com/drink14u9t14.html |title=Vampiro recipe |author=<!--Not stated--> |date= |website=www.drinksmixer.com |publisher=Drinks Mixer |access-date=13 August 2017 |quote=}}</ref>
+
+==Preparation==
+Vampiros may be made in a tall glass or an [[old fashioned glass]]. Bartenders may first "rim" the glass with Kosher Salt, which is done by placing a layer of Kosher Salt on a chopping board, moistening the glass' rim with lime juice or water, and then placing the upside down glass rim onto the Kosher Salt, so that the salt sticks to the moistened rim. The second step is to fill half the glass with ice and add one or two shooter glasses full of high quality Tequila. The next stage is to add the flavouring elements. This is done by squeezing a fresh lime into the glass, adding a few grains of salt, adding citrus-flavoured soda pop, until the glass is 4/5 full, and then adding spicy Viuda de Sanchez (or orange juice, lime juice and pico de gallo). The final step is to stir the ingredients so that the flavours are properly blended. <ref> 
+{{cite web |url=http://www.drinksmixer.com/drink14u9t14.html |title=Vampiro recipe |author=<!--Not stated--> |date= |website=www.drinksmixer.com |publisher=Drinks Mixer |access-date=13 August 2017 |quote=. }}</ref>
+
+The Vampiro is claimed to have originated in [[San Luis Soyatlán]], Mexico, created by fruit stand vendor Oscar Hernández and traditionally sold in clear plastic bags with a straw. Hernández originally prepared the drink for his own consumption, but was quickly asked to make them by his customers and the drink has spread by word of mouth.<ref>{{cite web|last1=Tucker|first1=Duncan|title=Everyone Drinks Vampire Cocktails Out of Plastic Bags in This Tiny Mexican Town|url=https://munchies.vice.com/en_us/article/kbkpmv/everyone-drinks-vampire-cocktails-out-of-plastic-bags-in-this-tiny-mexican-town|website=Munchies|publisher=Vice|accessdate=29 November 2017}}</ref>
+
+===Variants===
+Some bartending guides suggest adding a shot of [[tomato juice]], fresh-squeezed orange and lime juice, [[grenadine syrup]], hot pepper sauce and freshly-ground black pepper to the glass, and omitting the Mexican sangrita.<ref>
+{{cite web |url= https://www.diffordsguide.com/cocktails/recipe/2024/vampiro|title=Vampiro |date= |website=www.diffordsguide.com|publisher=Difford's Guide |access-date=13 August 2017 |quote=}}</ref> As well, some guides suggest that the ingredients be shaken and strained, not stirred.<ref>
+{{cite web |url= https://www.diffordsguide.com/cocktails/recipe/2024/vampiro|title=Vampiro  |date= |website=www.diffordsguide.com|publisher=Difford's Guide |access-date=13 August 2017 |quote=}}</ref>
+
+In 2017, David Hammond from the ''[[Chicago Tribune]]'' described a variant called the Doce Vampiro cocktail, which is served at La Sirena Clandestina in [[Chicago]]. The blood-red drink is a blend of "...pisco, tequila, lemon, pineapple, Ramazzotti amaro and chicha morada, a sweet, tart, nonalcoholic Peruvian drink made from purple corn". Hammond states that the "...pisco, pineapple and lemon, bright and acidic, are the high notes", with the "...tequila, bitter herbaceousness of the Ramazzotti and baking-spice qualities of the chicha morada" providing the "[b]ass notes".<ref>{{cite web |url=http://www.chicagotribune.com/dining/drink/ct-pisco-cocktail-la-sirena-drink-this-food-0705-20170629-story.html |title=Drink This: Interview with the (bartender who makes) vampire (cocktails) at La Sirena Clandestina|last= Hammond|first=David |date=29 June 2017 |website=www.chicagotribune.com |publisher=Chicago Tribune |access-date=13 August 2017 |quote=}}</ref>
+
+==References==
+{{Reflist}}
+
+{{IBACocktails}}
+
+[[Category:Mixed drinks]]
+[[Category:Juice]]
+[[Category:Cocktails]]
+[[Category:Alcoholic drinks]]
+[[Category:Cold drinks]]
+[[Category:Mexican cuisine]]

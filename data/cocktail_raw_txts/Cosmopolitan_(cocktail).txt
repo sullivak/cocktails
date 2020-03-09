@@ -1,0 +1,125 @@
+{{Infobox cocktail 
+| iba         = yes| sourcelink  = cosmopolitan
+| name        = Cosmopolitan
+| image       = Cosmopolitan (5076906532).jpg
+| caption     = A cosmopolitan garnished with a lemon twist
+| type        = cocktail
+| flaming     = 
+| vodka       = yes
+| served      = straight
+| garnish     = lime slice
+| drinkware   = cocktail 
+| ingredients = * 4 cl [[Vodka]] Citron
+* 1.5 cl [[Cointreau]]
+* 1.5 cl Fresh [[lime juice]]
+* 3 cl [[Cranberry juice]]
+| prep        = Shake all ingredients in [[cocktail shaker]] filled with ice. Strain into a large [[cocktail glass]]. Garnish with lime slice.
+| timing      = All day
+| notes       = The drink should be a frothy bright pink color
+| footnotes   = 
+}}
+[[File:Cosmopolitan.jpg|thumb|upright|A cosmopolitan]]
+A '''cosmopolitan''', or informally a '''cosmo''', is a [[cocktail]] made with [[vodka]], [[triple sec]], [[cranberry juice]], and freshly squeezed or sweetened [[lime juice]].
+
+==History==
+
+The [[International Bartenders Association]] recipe is based on [[vodka]] citron, lemon-[[flavored vodka]].<ref name="IBA">
+{{cite web
+ |url=http://iba-world.com/cocktails/cosmopolitan/
+ |title=Official Cocktail recipe: Cosmopolitan 
+ |publisher=International Bartenders Association 
+ |accessdate=2017-08-13 
+}}</ref> The cosmopolitan is a relative of cranberry coolers like the [[Cape Codder (cocktail)|Cape Codder]].<ref name="Grimes">
+{{Cite journal |last=Grimes |first=William |date=November 2001 |title=Straight Up Or On the Rocks: The Story of the American Cocktail |publisher=North Point Press |page=119 |postscript=<!--None-->
+}}. Online source viewable at [http://www.barrypopik.com/index.php/new_york_city/entry/cosmopolitan_cocktail/ The Big Apple] blog by Barry Popik.</ref> Though often presented far differently, the cosmopolitan also bears a likeness in composition to the [[kamikaze (cocktail)|kamikaze]] cocktail.
+
+The origin of the cosmopolitan is disputed.<ref name="Harrington" />
+
+=== The 1930s ===
+
+While the cocktail is widely perceived to be a more modern creation, there is a strikingly similar recipe for a cosmopolitan which appears in ''Pioneers of Mixing at Elite Bars 1903-1933'', published in 1934.
+
+<poem>
+Jigger of Gordon's Gin ({{cvt|1+1/2|USoz|cl|disp=sqbr}} Beefeater)
+2 dash Cointreau ({{cvt|1/2|USoz|cl|disp=sqbr}} Cointreau)
+Juice of 1 Lemon ({{cvt|1|USoz|cl|disp=sqbr}} Lemon Juice)
+1 tsp [.5&nbsp;cl] Raspberry Syrup (homemade)
+
+Shake with ice and strain into a cocktail glass.
+</poem>
+
+Made with ingredients that would have been readily available during the period, this identically named cocktail aims for the same effect. If this drink is in fact the source of the modern cosmopolitan, then it would be an adaption of a [[Brandy Daisy|Daisy]] rather than a Kamikaze.<ref>{{cite web|url=http://cocktailvirgin.blogspot.co.uk/2009/12/cosmopolitan.html |title=cocktail virgin slut: cosmopolitan |publisher=Cocktailvirgin.blogspot.co.uk |date=2009-12-16 |accessdate=2014-03-15}}</ref><ref>{{cite web|url=https://www.amazon.co.uk/Pioneers-Mixing-Elite-Bars-1903-1933/dp/0982107439 |title=Pioneers of Mixing at Elite Bars: 1903-1933: Amazon.co.uk: Charles Christopher Mueller, Andrew Myles Davies: Books |publisher=Amazon.co.uk |date= |accessdate=2014-03-15}}</ref><ref>{{cite web|url=http://www.smallscreennetwork.com/video/41/cosmopolitan/|title=Small Screen Network|publisher=}}</ref><ref>{{cite web|url=http://www.diffordsguide.com/cocktails/recipe/595/cosmopolitan-3-1934-recipe |title=Cosmopolitan #3 (1934 recipe) Cocktail Recipe - How To Make Cocktail Recipes |publisher=diffordsguide |date= |accessdate=2014-03-15}}</ref>
+
+===Provincetown===
+One version of the creation of this popular drink credits the accomplishment to the [[gay]] community in [[Provincetown, Massachusetts]].<ref name="Harrington">{{Cite journal |last=Harrington |first=Paul |last2=Moorhead |first2=Laura |year=1998 |title=Cocktail: The Drinks for the 21st Century |publication-place=New York |publisher=Viking (Penguin Putnam Inc.) |page=76 |postscript=<!--None--> }}. Online source viewable at [http://www.barrypopik.com/index.php/new_york_city/entry/cosmopolitan_cocktail/ The Big Apple] blog by Barry Popik.</ref>
+
+===Neal Murray===
+Bartender Neal Murray says he created the cosmopolitan in 1975 at the Cork & Cleaver steak house in [[Minneapolis]].<ref name="CityPages">{{cite web |url=http://www.citypages.com/bestof2006/sexdrugsrocknroll/bestof2828.asp |title=Best Locally Created Cocktail |work=Best of the Twin Cities 2006 |publisher=CityPages.com |accessdate=2018-08-22 |deadurl=yes |archiveurl=https://web.archive.org/web/20070109064707/http://citypages.com/bestof2006/sexdrugsrocknroll/bestof2828.asp |archivedate=2007-01-09 |df= }}</ref> According to Murray, he added a splash of cranberry juice to a Kamikaze and the first taster declared, "How cosmopolitan."<ref name="CityPages"/> This event supposedly led to the naming of the new beverage.
+
+=== John Caine ===
+John Caine is the owner of several popular bars in [[San Francisco]] and a cosmopolitan expert. He partially credits the upsurge in cocktails during the 1970s to the Cosmo being served at [[fern bar]]s.<ref name="Harrington"/> Caine is credited with bringing the Cosmo west from Cleveland.<ref name="Kilduff">{{cite web |url=http://eastbaymonthly.com/kilduff-07-06.html |title=Belly Up to the Bar: John Caine brought the cosmo to Frisco |accessdate=2008-05-20 |last=Kilduff |first=Paul |work=The Kilduff Archive |publisher=The Monthly: The East Bay's Premier Magazine of Culture and Commerce}}</ref>
+
+=== Cheryl Cook ===
+There are a number of other claims made as to the origin of the cosmopolitan. Cocktail historian [[Gary Regan]] credits bartender Cheryl Cook of the Strand Restaurant in [[South Beach]], Florida with the original creation.<ref name="Grimes" /><ref name="Harrington" /> Some people think that Cook is a mythical character,<ref name="Harrington" /><ref name="Cook" /> but in a letter to Regan, Cook related the story of how she created the drink in 1985 or 1986:<ref name="Cook">
+{{cite web
+ |url=http://www.ardentspirits.com/ardentspirits/Newsletter/vol7Issue06.html#cosmo 
+ |title=The Birth of the Cosmopolitan: A Tale of Two Bartenders 
+ |accessdate=2006-12-31 
+ |last1=Regan 
+ |first1=Gary 
+ |last2=Regan 
+ |first2=Mardee Haidin 
+ |date=October 2006 
+ |work=Ardent Spirits e-letter. Vol. 7, Issue 6 
+ |archiveurl=https://web.archive.org/web/20070707072947/http://www.ardentspirits.com/ardentspirits/Newsletter/vol7Issue06.html#cosmo 
+ |archivedate=2007-07-07 
+ |deadurl=yes 
+ |df= 
+}}</ref>
+
+{{quote|What overwhelmed me was the number of people who ordered Martinis just to be seen with a Martini glass in their hand. It was on this realization that gave me the idea to create a drink that everyone could palate and was visually stunning in that classic glass. This is what the Cosmo was based on.}}
+
+Cook's original recipes called for "[[Absolut]] Citron, a splash of [[Triple sec]], a drop of [[Rose's lime]] and just enough cranberry to make it oh so pretty in pink."<ref name="Cook" />  Although Absolut Citron was not introduced anywhere officially until 1988, it was test marketed in Miami.
+
+===Toby Cecchini===
+Notable bartender Gaz Regan says that the internationally recognized version of the cocktail was created by Toby Cecchini in 1987 in Manhattan based on a poorly described version of Cheryl Cook's creation.<ref name="Cook" />
+
+===Melissa Huffsmith-Roth===
+[[Cheryl Charming]] details the story of how in 1989 at The Odeon restaurant, the internationally recognized version of The Cosmopolitan was created by Melissa Huffsmith-Roth.<ref>{{cite book |last1=Cheryl Charming |title=The Cocktail Companion |publisher=Mango Media|isbn=1633539245}}</ref>
+
+===New York City===
+According to Sally Ann Berk and Bob Sennett, the cosmopolitan appears in literature as early as 1993 and derives from New York City.<ref>New York Magazine - Oct 31, 1994 - Page 84 Vol. 27, No. 43</ref><ref>The New York Bartender's Guide by Sally Ann Berk in 1994</ref><ref>Gourmet: Volume 55, Issues 7-12 by Pearl Violette Newfield Metzelthin in 1995: Brent Barnette New York, New York</ref><ref>Complete world bartender guide - Page 117 by Bob Sennett in 1993</ref>
+
+==Popularity==
+The cosmopolitan cocktail gained popularity quickly. It traveled from Provincetown, through New York, Cleveland, and Cincinnati, and on to San Francisco (Caine<ref name="Kilduff"/>). It could also possibly  have been from Miami to San Francisco, and on to New York (Cook<ref name="Cook" />).
+
+The cosmopolitan gained popularity in the 1990s. It was further popularized among young women by its frequent mention on the television program ''[[Sex and the City]]'',<ref name="CityPages"/> where [[Sarah Jessica Parker]]'s character, [[Carrie Bradshaw]], commonly ordered the drink when out with her girlfriends. The film adaptation made a reference to its popularity when [[Miranda Hobbes|Miranda]] asks why they stopped drinking them, Carrie replies "because everyone else started."{{Citation needed|date=May 2018}}
+
+==Preparation and serving==
+
+The cosmopolitan is usually served in a large [[cocktail glass]], also called a ''martini glass''. For this reason, the drink is  sometimes mistakenly categorized as a type of [[martini (cocktail)|martini]].
+
+The use of citrus flavored vodka as the basis for this cocktail appears to have been widely popularized in the mid 1990s by [[Dale DeGroff]]<ref>{{cite web|url=http://www.diffordsguide.com/cocktails/recipe/473/cosmopolitan-2-degroffs-formula |title=Cosmopolitan #2 (DeGroff's formula) Cocktail Recipe - How To Make Cocktail Recipes |publisher=diffordsguide |date= |accessdate=2014-03-15}}</ref> and is used in the IBA approved recipe. However, many bartenders continue to use a standard unflavored vodka and this alternative would undoubtedly be historically consistent with any of the supposed predecessors of this drink that were popular in Ohio, Provincetown, or Minneapolis during the 1970s, or in San Francisco during the 1980s.<ref>{{cite book|last=Calabrese|first=Salvatore|title=Classic Cocktails|year=1997|publisher=Prion Books|location=London|isbn=1-85375-240-1|page=103}}</ref><ref>{{cite news|last=Kammerling|first=Alex|title=all you need to know about The Cosmopolitan|newspaper=Class, the magazine of bar culture|date=June 2003}}</ref><ref>{{cite book|title=150 Classic Cocktails|year=2003|publisher=Hamlyn|location=London|isbn=0 600 60992 8|page=38}}</ref><ref>{{cite book|title=Cocktails|year=2007|publisher=Octopus|location=London|isbn=0-600-61671-1}}</ref> A lemon twist is sometimes used to [[Cocktail garnish|garnish]].
+
+==Variations==
+* Another variation calls for stirring in a mixing glass, instead of shaking.<ref name="SpiritDrinks">{{cite web|url=http://www.spiritdrinks.com/cocktails/Cosmopolitan.asp |title=Cosmopolitan Drink Recipe|publisher= Spirit Drinks |accessdate=2010-07-01}}</ref>
+* The ''[[Real Housewives of New Jersey]]'' star [[Kathy Wakile]] created a Red Velvet Cosmo, based on one of her favorite desserts, [[red velvet cake]].<ref>{{cite web|url=http://www.paramuspost.com/article.php/20120228155309676|publisher=Paramus Post|title=Red Velvet Cosmo Introduced By Kathy Wakile of 'The Real Housewives of New Jersey'|author=Fabrikant, Mel|date=28 February 2012|accessdate=5 July 2012}}</ref><ref>{{cite web|url=http://www.bravotv.com/the-real-housewives-of-new-jersey/season-4/bio/kathy-wakile|website=Bravo TV|series=Real Housewives of New Jersey|title=Bio: Kathy Wakile: Cast|accessdate=5 November 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20131105125439/http://www.bravotv.com/the-real-housewives-of-new-jersey/season-4/bio/kathy-wakile|archivedate=5 November 2013|df=}}</ref>
+* For a virgin cosmopolitan replace the vodka and triple sec with orange juice and pink lemonade.<ref name="GoShindig">{{cite web|url=http://goshindig.com/cosmopolitan-cocktail/ |title=Virgin Cosmopolitan Drink|publisher= Go Shindig |accessdate=24 December 2016}}</ref>
+
+==See also==
+* [[List of cocktails]]
+* [[Martini (cocktail)|Martini]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{Wikibooks|Bartending|Cocktails/Cosmopolitan|Cosmopolitan}}
+{{Commons category}}
+
+{{IBACocktails}}
+
+{{DEFAULTSORT:Cosmopolitan (Cocktail)}}
+[[Category:Cocktails with triple sec or curaçao]]
+[[Category:Cocktails with vodka]]
+[[Category:Food and drink in the San Francisco Bay Area]]

@@ -1,0 +1,37 @@
+{{Refimprove|date=March 2007}}
+{{Infobox cocktail
+| iba         = yes
+| source      =
+| sourcelink  = porto
+| name        = Porto Flip
+| image       = Porto Flip.jpg
+| caption     =
+| type        = cocktail
+| flaming     =
+| port        = yes
+| served      = straight
+| garnish     = Grated [[nutmeg]]
+| drinkware   = cocktail
+| ingredients = *1.5 cl (3 parts) [[brandy]]
+*4.5 cl (9 parts) [[port wine|port]]
+*1 cl (2 parts) [[egg yolk]]
+| prep        = Shake ingredients together in a [[cocktail shaker|mixer]] with ice.  Strain into glass, garnish and serve
+| timing      = After Dinner
+| notes       =
+| footnotes   =
+}}
+
+A '''Porto flip''' is a type of drink. It is typically made with [[brandy]], [[ruby port]], and one [[egg yolk]].<ref>{{cite web|title=Porto Flip|url=http://iba-world.com/iba-official-cocktails/porto-flip/|website=International Bartenders Association|accessdate=28 June 2017}}</ref>
+
+The Porto Flip was first recorded by [[Jerry Thomas (bartender)|Jerry Thomas]] in his 1862 book ''The Bartender’s Guide: How to Mix Drinks; A Bon Vivant’s Companion''.<ref>https://www.drinkadvisor.com/en/cocktails/630-porto-flip.html</ref><ref>http://jiggerbeakerflask.com/2010/10/porto-flip/</ref><ref>https://ifood.tv/drink/porto-flip/about</ref> albeit under the name "Coffee Cocktail", named for its appearance rather than its ingredients.<ref>{{cite book|last1=Thomas|first1=Jerry|title=Jerry Thomas' Bartenders Guide: How to Mix All Kinds of Plain and Fancy Drinks|date=1887|publisher=Dick & Fitzgerald|location=New York|page=22|url=https://books.google.com.au/books?id=eqFEDAAAQBAJ&printsec=frontcover&dq=Jerry+Thomas%27+Bar-Tenders+Guide&hl=en&sa=X&ved=0ahUKEwjDrsSbhePXAhVDTrwKHbvEA6gQ6AEILTAB#v=onepage&q=port%20brandy&f=false|accessdate=29 Nov 2017}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with wine]]
+[[Category:Cocktails with brandy]]
+
+
+{{Cocktail-stub}}

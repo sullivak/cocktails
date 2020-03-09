@@ -1,0 +1,92 @@
+{{Infobox cocktail
+| iba         = yes
+| sourcelink = stinger
+| name        = Stinger
+| image       = Stinger_Cocktail.jpg
+| caption     = Stinger cocktail served over ice in a rocks glass.
+| type        = cocktail
+| flaming     = 
+| cognac      = yes
+| served      = straight
+| garnish     = 
+| drinkware   = cocktail
+| ingredients = *5 cl [[cognac]]
+*2 cl white [[crème de menthe]]
+| prep        = Pour in a mixing glass with ice, stir and strain into a cocktail glass.  May also be served on rocks in a rocks glass.
+| timing      = After Dinner (Before Dinner)
+| notes       = It has been suggested that during the 1920s the Stinger ceased being an after-dinner cocktail, and instead should be consumed before dinner.{{sfn|Wondrich|2015|page=217}} However, the IBA continues to list the Stinger as an after-dinner cocktail.<ref>{{cite web |title= STINGER {{!}} International Bartenders Association |url= http://iba-world.com/iba-official-cocktails/stinger |website= iba-world.com |accessdate= 18 December 2017}}</ref>
+| footnotes   = 
+}}
+
+A '''Stinger''' is a [[Duo (cocktail)|duo]] [[cocktail]] made by adding [[crème de menthe]] to [[brandy]] (although recipes vary). The cocktail's origins can be traced to the United States in the 1890s, and the beverage remained widely popular in America until the 1970s. It was seen as a drink of the [[upper class]], and has had a somewhat wide cultural impact.
+
+==History of the cocktail==
+The Stinger originated about 1890.{{sfn|McCammon|Wondrich|2016|page=178}} The cocktail may have been derived from The Judge, a cocktail made with brandy, crème de menthe, and [[Syrup#Simple syrup|simple syrup]] found in William Schmidt's 1892 cocktail book ''The Flowing Bowl''.{{sfn|Regan|2003|page=24}} It was immediately popular in [[New York City]],{{sfn|Chirico|2005|page=262}} and quickly became known as a "[[High society (social class)|society]]" drink (i.e. only for the upper-classes).{{sfn|Wondrich|2015|page=217}} According to bartender Jere Sullivan in his 1930 volume ''The Drinks of Yesteryear: A Mixology'', the Stinger remained a critical component of the bartender's repertoire until [[Prohibition in the United States|Prohibition]].{{sfn|Regan|2003|page=26}} 
+
+The Stinger was not initially seen as a cocktail (i.e. a drink served before dinner), but rather a [[Apéritif and digestif|digestif]] (after-dinner drink).{{sfn|Wondrich|2015|page=217}} Writing in the 1910s and 1920s, humorist [[Don Marquis]]'s "Hermione" (a fictional daffy society [[Busybody|do-gooder]]) refused to refer to the Stinger as a cocktail, indicating its status in upper-class society. Over time, however, the Stinger came to be consumed like a cocktail.{{sfn|Wondrich|2015|page=217}}
+
+The Stinger was a popular drink during American Prohibition, for crème de menthe could mask the taste of the inferior-quality brandies then available.{{sfn|Hellmich|2006|page=139}} The Stinger began to lose favor with Americans in the late 1970s,{{sfn|DeGroff|2008|page=228}} and was not a well-known cocktail in the early 21st century.{{sfn|Rathbun|2007|page=43}}
+
+==Recipe==
+The Stinger is a duo cocktail, in that it uses only two ingredients: a [[Distilled beverage|spirit]] and a [[liqueur]].{{sfn|Regan|2003|pages=141-142}} The classic Stinger recipe uses three parts [[brandy]] and one part white crème de menthe.{{sfn|McCammon|Wondrich|2016|pages=178, 180}} However, Stinger recipes vary, and some recipes call for equal parts brandy and crème de menthe.{{sfn|DeGroff|2008|page=228}} The mixture was originally stirred,{{sfn|Wondrich|2015|page=217}} although modern recipes call for it to be shaken with cracked ice.{{sfn|McCammon|Wondrich|2016|pages=178, 180}} Early recipes required that the Stinger be served [[Bartending terminology#Straight|straight]], but since the end of Prohibition in the United States{{sfn|Calabrese|2015|page=164}} it became more common for it to be served over crushed ice.{{sfn|Regan|2003|page=340}} 
+
+[[Cognac]], a type of brandy, was the identified as the basis for the Stinger as early as [[William "Cocktail" Boothby]]'s 1905 supplement to his 1900 book, ''American Bar-Tender''.{{sfn|Wondrich|2015|page=217}} In the 21st century, cognac was the most commonly used brandy cited by recipes for the Stinger's base liquor.{{sfn|Chirico|2005|page=262}}
+
+Cocktail guides recommend that it be served in a cocktail glass if served straight,{{sfn|McCammon|Wondrich|2016|pages=178, 180}} or in a [[Old Fashioned glass|rocks]] glass if served with ice.{{sfn|Kingwell|2007|page=225}}
+
+===Variations===
+The '''Amaretto Stinger''' uses a 3-to-1 ratio of [[amaretto]] to white crème de menthe,{{sfn|''The Art of Mixology''|2015|page=62}} while an '''Irish Stinger''' uses equal parts [[Irish cream|Irish cream liqueur]] and white crème de menthe.{{sfn|''The Art of Mixology''|2015|page=63}}
+
+The '''Mexican Stinger''' substitutes [[tequila]] for brandy.{{sfn|Shaw|2008|page=134}} A "Vodka Stinger", also known as a '''White Spider''',{{sfn|DeGroff|2008|page=229}} uses vodka instead of brandy.{{sfn|Kingwell|2007|pages=190-191}}
+
+A '''White Way Cocktail''', which celebrates [[Broadway theatre]], is a Stinger made with [[gin]] rather than brandy.{{sfn|Kingwell|2007|page=190}}
+
+Mixologists Oliver Said and James Mellgren cite a cocktail known as the Stinger Sour. It is made with a 3-to-1-to-1 ratio of [[bourbon whiskey|bourbon]], [[peppermint schnapps]], and lemon juice.{{sfn|Said|Mellgren|2005|page=177}} This cocktail is not technically a Stinger, since it omits the crème de menthe.{{sfn|Hellmich|2006|page=139}}{{sfn|Rombauer|Becker|Becker|2002|page=120}}{{sfn|Walker|1980|page=51}}
+
+==Cultural impact==
+The Stinger's popularity in New York City was so great that [[urban legend]]s attributed the cocktail's genesis to famous millionaire [[Reginald Claypoole Vanderbilt|Reginald Vanderbilt]]. It was further claimed that the Stinger was Vanderbilt's favorite cocktail, and he spent hours making them for his guests.{{sfn|Wondrich|2015|page=217}}
+
+The Stinger's reputation as a high-society drink led to its appearance in several famous novels. James Bond and Tiffany Case each have a Stinger in the 1956 [[Ian Fleming]] novel ''[[Diamonds Are Forever (novel)|Diamonds are Forever]]''.{{sfn|Holloway|2002|page=45}} The spy Alec Leamas drinks Stingers in [[John le Carré]]'s 1963 novel ''[[The Spy Who Came in from the Cold]]''.{{sfn|Sandham|2012|page=39}}
+
+The Vodka Stinger was the drink of choice for Joanne in the play ''[[Company (musical)|Company]]'' by [[Stephen Sondheim]], with her calling for one in the song "[[The Ladies Who Lunch (song)|The Ladies Who Lunch]]".{{sfn|Kelly|2008|page=149}}
+
+The drink is also featured in the 2007 ''[[Mad Men]]'' season one episode "[[Mad Men (season 1)|Nixon v. Kennedy]]", set in 1960. The episode features Stingers made with [[Bacardi]] rum, as Bacardi was a series sponsor.{{sfn|Gelman|Zheutlin|2011|page=28}}
+
+The Stinger was widely mentioned in American motion pictures. Dudley the angel orders a round of Stingers while lunching with ladies from the church in the 1947 film ''[[The Bishop's Wife]]''.{{sfn|Kingwell|2007|pages=61-62}} The evolving Stinger (used with green rather than white crème de menthe) forms a plot point in the 1948 film ''[[The Big Clock (film)|The Big Clock]]'', when George Stroud ([[Ray Milland]]) orders one and a random woman in the bar ([[Rita Johnson]]) already knows his name.{{sfn|Kingwell|2007|page=62}} In the 1956 [[Bing Crosby]] and [[Frank Sinatra]] film ''[[High Society (1956 film)|High Society]]'', Dexter-Haven's butler offers Stingers at lunch to those who over-indulged in champagne during the previous evening's party.{{sfn|Kingwell|2007|page=60}} Cary Grant again orders Stingers ("and keep them coming") as he tries to tolerate character Alice Kratzner's ([[Jayne Mansfield]]) empty-headed babbling in the 1957 comedy film ''[[Kiss Them for Me (film)|Kiss Them for Me]]''.{{sfn|Wohl|2012|page=45}} Mr. Dobitsch ([[Ray Walston]]) instructs his [[Marilyn Monroe]] look-alike date ([[Joyce Jameson]]) in the 1960 film ''[[The Apartment]]'' to not spill the glasses of Stingers she is holding as they exit their cab and enter C.C. Baxter's ([[Jack Lemmon]]) apartment at night for a tryst.
+In the 1975 [[Warren Beatty]] film [[Shampoo]], at the Republican Party dinner scene [[Goldie Hawn]] says, "I'll have a stinger." To which [[Tony Bill]] replies, "Before dinner?".
+{{sfn|Kingwell|2007|page=61}} [[Roddy McDowall]] offers [[Ruth Gordon]] a stinger in the 1966 film ''[[Lord Love a Duck]]'' claiming the drink is named as such because "it removes the sting."
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*{{cite book|ref={{sfnRef|''The Art of Mixology''|2015}}|author=<!--Staff writer(s); no by-line.-->|title=The Art of Mixology|location=New york|publisher=Parragon Books|date=2015|isbn=9781472398901|url=https://books.google.com/books?id=_rSMCgAAQBAJ&printsec=frontcover#v=onepage&q&f=false}}
+*{{cite book|ref=harv|last=Calabrese|first=Salvatore|title=Classic Cocktails|location=New York|publisher=Sterling Epicure|date=2015|isbn=9781402786280|url=https://books.google.com/books?id=ec7-H6oHpe4C&printsec=frontcover#v=onepage&q&f=false}}
+*{{cite book|ref=harv|last=Chirico|first=Rob|title=Field Guide to Cocktails: How to Identify and Prepare Virtually Every Mixed Drink at the Bar|location=Philadelphia|publisher=Quirk Books|date=2005|isbn=9781594740633|url=https://books.google.com/books?id=rAXilKkMM7YC&printsec=frontcover#v=onepage&q&f=false}}
+*{{cite book|ref=harv|last=DeGroff|first=Dale|title=The Essential Cocktail: The Art of Mixing Perfect Drinks|location=New York|publisher=Clarkson Potter|date=2008|isbn=9780307405739|url=https://books.google.com/books?id=QQPQnCwBdJ8C&printsec=frontcover#v=onepage&q&f=false}}
+*{{cite book|ref=harv|last1=Gelman|first1=Judy|last2=Zheutlin|first2=Peter|title=The Unofficial 'Mad Men' Cookbook: Inside the Kitchens, Bars, and Restaurants of 'Mad Men'|location=Dallas|publisher=Smart Pop|date=2011|isbn=9781936661411|url=https://books.google.com/books?id=LFID7guvvgAC&printsec=frontcover#v=onepage&q&f=false}}
+*{{cite book|ref=harv|last=Hellmich|first=Mittie|title=Ultimate Bar Book: The Comprehensive Guide to Over 1,000 Cocktails|location=San Francisco|publisher=Chronicle Books|date=2006|isbn=9780811843515|url=https://books.google.com/books?id=q43NAVAcIAkC&printsec=frontcover#v=onepage&q&f=false}}
+*{{cite book|ref=harv|last=Holloway|first=Diane E.|title=Authors' Famous Recipes and Reflections on Food|location=San Jose, Calif.|publisher=Writers Club Press|date=2002|isbn=0595243797|url=https://books.google.com/books?id=HWRt9U8K2NgC&printsec=frontcover#v=onepage&q&f=false}}
+*{{cite book|ref=harv|last=Kelly|first=Clinton|title=Freakin' Fabulous: How to Dress, Speak, Behave, Eat, Drink, Entertain, Decorate, and Generally Be Better Than Everyone Else|location=New York|publisher=Simon and Schuster|date=2008|isbn=9781416961499|url=https://books.google.com/books?id=tgeoUptpldYC&printsec=frontcover#v=onepage&q&f=false}}
+*{{cite book|ref=harv|last=Kingwell|first=Mark|title=Classic Cocktails: A Modern Shake|location=New York|publisher=St. Martin's Press|date=2007|isbn=9780312375232|url=https://books.google.com/books?id=t3oBgrZMQ2UC&printsec=frontcover#v=onepage&q&f=false}}
+*{{cite book|ref=harv|last1=McCammon|first1=Ross|last2=Wondrich|first2=David|title=Drink Like a Man: The Only Cocktail Guide Anyone Really Needs|location=San Francisco|publisher=Chronicle Books|date=2016|isbn=9781452132709|url=https://books.google.com/books?id=JDMBCwAAQBAJ&printsec=frontcover#v=onepage&q&f=false}}
+*{{cite book|ref=harv|last=Rathbun|first=A.J.|title=Good Spirits: Recipes, Revelations, Refreshments, and Romance, Shaken and Served With a Twist|location=Boston|publisher=Harvard Common Press|date=2007|isbn=9781558323360}}
+*{{cite book|ref=harv|last=Regan|first=Gary|title=The Joy of Mixology|location=New York|publisher=Clarkson Potter|date=2003|isbn=9780609608845|url=https://books.google.com/books?id=7TlhtrpXa-MC&printsec=frontcover#v=onepage&q&f=false}}
+*{{cite book|ref=harv|last1=Rombauer|first1=Irma S.|last2=Becker|first2=Marion Rombauer|last3=Becker|first3=Ethan|title=All About Party Foods and Drinks|location=New York|publisher=Simon & Schuster|date=2002|isbn=9780743216791|url=https://books.google.com/books?id=wXWWoZXeaMoC&printsec=frontcover#v=onepage&q&f=false}}
+*{{cite book|ref=harv|last=Sandham|first=Tom|title=World's Best Cocktails: 500 Signature Drinks From the World's Best Bars and Bartenders|location=Beverly, Mass.|publisher=Fair Winds press|date=2012|isbn=9781592335275|url=https://books.google.com/books?id=bQQNAAAAQBAJ&printsec=frontcover#v=onepage&q&f=false}}
+*{{cite book|ref=harv|last=Shaw|first=Tucker|title=A Man's Place Is Behind the Bar: Killer Cocktail Recipes|location=San Francisco|publisher=Chronicle Books|date=2008|isbn=9780811855778|url=https://books.google.com/books?id=htB2Qk882okC&printsec=frontcover#v=onepage&q&f=false}}
+*{{cite book|ref=harv|last=Walker|first=Michael|title=The Cocktail Book: The Complete Guide to Home Cocktails|location=Tucson|publisher=HP Books|date=1980|isbn=9780895860699}}
+*{{cite book|ref=harv|last=Wohl|first=Kit|title=New Orleans Classic Cocktails: Spirited Recipes|location=Gretna, La.|publisher=Pelican Publishing|date=2012|isbn=9781455617289}}
+*{{cite book|ref=harv|last=Wondrich|first=David|title=Imbibe!: From Absinthe Cocktail to Whiskey Smash, A Salute in Stories and Drinks to "Professor" Jerry Thomas, Pioneer of the American Bar|location=New York|publisher=Perigee|date=2015|isbn=9780399172618|url=https://books.google.com/books?id=IBqdBAAAQBAJ&printsec=frontcover#v=onepage&q&f=false}}
+
+==See also==
+*[[List of cocktails]]
+*[[List of duo and trio cocktails]]
+
+==External links==
+* {{Drinkboy recipe|link=154|name=Stinger}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with brandy]]
+[[Category:Cocktails with liqueur]]

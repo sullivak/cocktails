@@ -1,0 +1,60 @@
+{{short description|Cocktail traditionally made with cognac, orange liqueur and lemon}}
+{{Infobox cocktail
+| iba         = yes
+| source =
+| sourcelink = sidecar
+| name        = Sidecar
+| drank by    = Paul Ochs
+| image       = Sidecar-cocktail.jpg
+| caption     =
+| type        = cocktail
+| flaming     =
+| cognac      = yes
+| served      = straight
+| garnish     =
+| drinkware   = cocktail
+| ingredients =
+* 5 cl cognac
+* 2 cl triple sec
+* 2 cl lemon juice
+| prep        = Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.
+| timing      = All Day
+| notes       =
+| footnotes   =
+}}
+
+The '''sidecar''' is a [[cocktail]] traditionally made with [[Cognac (drink)|cognac]], orange liqueur ([[Cointreau]], [[Grand Marnier]], Dry [[Curaçao (liqueur)|Curaçao]], or some other [[triple sec]]), plus lemon juice. In its ingredients, the drink is perhaps most closely related to the older [[brandy crusta]], which differs both in presentation and in proportions of its components.
+
+==Origin==
+{{ref improve section|date=July 2019}}
+The exact origin of the sidecar is unclear, but it is thought to have been invented around the end of [[World War I]] in either London or Paris.<ref>{{cite book|last1=McCleat|first1=W. T.|title=Timeless Vintage Drinks & Cocktails: Here's to You!|date=2014|publisher=Bushie|isbn=1493589040|page=65|url=https://books.google.com.au/books?id=ZZfeAgAAQBAJ&dq=Sidecar+(cocktail)&source=gbs_navlinks_s|accessdate=28 June 2017}}</ref> The drink was directly named for the [[sidecar|motorcycle attachment]].
+
+The [[Hôtel Ritz Paris|Ritz Hotel in Paris]] claims origin of the drink. The first recipes for the Sidecar appear in 1922, in Harry MacElhone's ''Harry's ABC of Mixing Cocktails'' and Robert Vermeire's ''Cocktails and How to Mix Them''.  It is one of six basic drinks listed in [[David A. Embury]]'s ''[[The Fine Art of Mixing Drinks]]'' (1948).
+
+In early editions of MacElhone's book, he cites the inventor as Pat MacGarry, "the popular bartender at [[Buck's Club]], London", but in later editions he cites himself. Vermiere states that the drink was "very popular in France. It was first introduced in London by MacGarry, the celebrated bartender of Buck's Club." Embury credits the invention of the drink to an American army captain in Paris during [[World War I]] and named after the motorcycle sidecar that the captain used.
+
+Both MacElhone and Vermiere state the recipe as equal parts cognac, [[Cointreau]], and lemon juice, now known as "the French school". Later, an "English school" of sidecars emerged, as found in the ''Savoy Cocktail Book'' (1930), which call for two parts cognac and one part each of Cointreau and lemon juice.
+
+According to Embury, the original sidecar had several ingredients, which were "refined away". Embury also states the drink is simply a [[daiquiri]] with brandy as its base rather than rum, and with [[Cointreau]] as the sweetening agent rather than sugar syrup. He recommends the same proportions (8:2:1) for both, making a much-less-sweet sidecar. However, Simon Difford, in his book ''Encyclopedia of Cocktails'', notes Harry Craddock's ratio of 2:1:1 in ''The Savoy Cocktail Book'', and then suggests a middle ground between Craddock's recipe and the "French School" equal parts recipe of 3:2:2, calling Embury's daiquiri formula "overly dry" for a sidecar.<ref>{{cite web |last=Difford |first=Simon |title=Sidecar (Difford's Formula) |url=http://www.diffordsguide.com/cocktail-results.jsp?id=1773&sortBy=name&}}</ref>
+
+The earliest mention of sugaring the rim on a sidecar glass is 1934, in three books: Burke's ''Complete Cocktail & Drinking Recipes'', Gordon's ''Cocktail & Food Recipes'', and ''Drinks As They Are Mixed'' (a revised reprint of Paul E. Lowe's 1904 book).
+
+==See also==
+* [[List of cocktails]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Commons category|Sidecar (cocktail)}}
+{{wikibooks|Bartending|Cocktails/Sidecar|Sidecar}}
+* [http://www.epicurious.com/recipes/food/views/The-Sidecar-233319 December 2005 "Cocktail of the Month"] at [[Epicurious]]
+* [http://www.drinkboy.com/Cocktails/Recipe.aspx?itemid=150 Drinkboy recipe]
+* [http://www.cocktaildb.com/recipe_detail?id=4622 Original recipe] at CocktailDB
+* [http://www.cocktaildb.com/recipe_detail?id=3770 Contemporary recipe] at CocktailDB
+
+{{IBACocktails}}
+
+[[Category:Cocktails with brandy]]
+[[Category:Cocktails with triple sec or curaçao]]
+[[Category:Sour cocktails]]

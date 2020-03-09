@@ -1,0 +1,37 @@
+{{Infobox cocktail
+| iba = yes
+| name = Hemingway Special
+| image = Hemingway_Daiquiri.jpg
+| sourcelink = hemingway-special
+| caption = A Hemingway Special or Hemingway Daiquiri and its component ingredients
+| type = mixed
+| served = straight
+| rum = yes
+| garnish = 
+| drinkware = cocktail
+| ingredients = * 6 cL (12 parts) [[Rum]]
+* 4 cl (8 parts) [[grapefruit juice]]
+* 1.5 cL (3 parts) [[Maraschino]] liqueur
+* 1.5 cl (3 parts) fresh [[lime juice]]
+| prep = Pour all ingredients into a shaker with ice. Shake.
+| timing = All day
+}}
+
+A '''Hemingway Special''' is an all day cocktail based on the [[Floridita]] Daiquiri<ref name="Floridita Daiquiri">{{cite web|title=Hemingway and the Floridita|url=http://www.elfloridita.net/pages/hemingway.php?language=en|website=El Floridita La Cuna del Daiquiri|accessdate=8 April 2017}}</ref> and is recognised by the [[IBA Official Cocktail|IBA]].
+
+==Mixture==
+It is made with [[rum]], [[lime juice]], [[maraschino]] liqueur, and [[grapefruit juice]] and served in a [[double cocktail glass]].<ref>{{cite web|title=HEMINGWAY SPECIAL|url=http://iba-world.com/cocktails/hemingway-special/|website=IBA World|accessdate=8 April 2017}}</ref><ref>{{cite web|title=Hemingway Special|url=https://www.aibmproject.it/hemingway-special/|website=AIBM Project|accessdate=8 April 2017}}</ref>
+
+==History==
+While he was staying in Cuba, [[Ernest Hemingway]] tried the [[Floridita]]'s signature drink, the Floridita Daiquiri, and said "That's good but I prefer it without sugar and double rum,"<ref name="Floridita Daiquiri"/> creating a cocktail now known as the Hemingway Daiquiri or the Papa Doble.<ref>{{cite web|last1=Curtis|first1=Wayne|title=BEHIND THE DRINK: THE HEMINGWAY DAIQUIRI|url=http://www.liquor.com/articles/behind-the-drink-the-hemingway-daiquiri/#gs.I2zF=Nk|website=liquor.com|accessdate=8 April 2017}}</ref> This recipe was later modified further, adding grapefruit juice to the mix, at which point the drink was dubbed the Hemingway Special."<ref name="Floridita Daiquiri"/>
+
+==See also==
+*[[List of cocktails]]
+*[[IBA Official Cocktail]]
+
+==Bibliography==
+{{Reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails]]

@@ -1,0 +1,50 @@
+{{Infobox cocktail
+| iba         = yes
+| name        = Harvey Wallbanger
+| sourcelink = harvey-wallbanger
+| image       = Harvey_Wallbanger.jpg
+| caption     =
+| type        = mixed
+| flaming     =
+| vodka       = yes
+| served      = rocks
+| garnish     = [[Orange (fruit)|orange]] slice and [[maraschino cherry]]
+| drinkware   = highball
+| ingredients = * 4.5 cl (3 parts) [[Vodka]]
+* 1.5 cl (1 part) [[Galliano (liqueur)|Galliano]]
+* 9 cl (6 parts) fresh [[orange juice]]
+| prep        = Stir the vodka and orange juice with ice in the glass, then float the Galliano on top.  Garnish and serve.
+| timing      = All day
+}}
+
+The '''Harvey Wallbanger''' is a [[mixed drink]] made with [[vodka]], [[Galliano (liqueur)|Galliano]], and [[orange juice]].
+
+==History==
+
+The Harvey Wallbanger appears in literature as early as 1971.<ref>Commercial prints and labels: Volumes 21–26 by Library of Congress. Copyright Office in 1971</ref><ref>"Harvey Wallbanger is taking Bloody Mary's place at brunch; try a drink with Galliano."  ''Sports illustrated'', p. 9 (May 31, 1971).</ref>  The cocktail is reputed to have been invented in 1952 by three-time world champion [[mixologist]] Donato "Duke" Antone, and named by Antone after a surfer frequenting Antone's Blackwatch Bar in Los Angeles.  However, recent research by culinary historians casts doubt on this theory.  [[Robert Simonson]] goes so far as to say that "no sane person ever believed that story."<ref>{{cite news |title=How Classic Cocktails got their name |url=http://www.townandcountrymag.com/leisure/drinks/news/a3439/harvey-wallbanger-last-word-and-sazerac-cocktails/ |work=Town & Country Magazine |first=Sam |last=Dangremond |date=July 20, 2015}}</ref>  Simonson emphasizes the lack of a historical record for any Blackwatch Bar, and indicates that, in fact, Antone lived in Hartford, Connecticut, rather than Los Angeles during the relevant period.<ref name="Simonson">{{cite news |title=Searching for Harvey Wallbanger |first=Robert |last=Simonson |date=December 14, 2012 |work=Saveur Magazine |url=http://www.saveur.com/article/wine-and-drink/Harvey-Wallbanger}}</ref> 
+
+Other historians such as David Wondrich emphasize the role of McKesson Imports Company and its marketing team for developing the drink, confirming among other things that the company commissioned a graphic artist to develop a "Harvey Wallbanger" sandal-clad surfer mascot in the late 1960s.<ref name=Simonson/>  It is known that McKesson executive [[George Bednar]] was instrumental in promoting the drink as a means of selling its component [[Galliano (liqueur)|Galliano]] liqueur, and Bednar claimed to have penned a popular tagline for the drink: "Harvey Wallbanger is the name.  And I can be made!".<ref>{{cite news | title = Obituary: George Bednar, 65, Was Successful Entrepreneur| work = News-Times (Danbury, CT) | publisher = | date = December 12, 2007 |url=http://www.newstimes.com/news/article/George-Bednar-65-was-successful-entrepreneur-100037.php}}</ref><ref>{{cite news | last = Long| first = Sherry | title = Area Cocktail King, Football Star Bednar Dies| work = Wilkes-Barre (PA) Times-Leader | publisher = | date = December 11, 2007 }}</ref>
+
+==Other uses==
+* The [[1982 Milwaukee Brewers season|1982]] [[Milwaukee Brewers]], winners of the American League pennant, were nicknamed "Harvey's Wallbangers," because of the team's power hitting (wall banging) under mid-season manager [[Harvey Kuenn]]. After a mediocre 23–24 start to the season, manager [[Buck Rodgers]] was fired. Under Kuenn, the team went 72–43 (.626), led the Major Leagues in home runs and total bases, and produced the highest team [[On-base plus slugging#Adjusted OPS (OPS+)|OPS+]] since the {{mlby|1931}} [[New York Yankees]].<ref>Lacy, J (1967). ”Mixologist Face the World with Confidence” The Hartford Courant; Hartford CT</ref><ref>Willis, J.C. (1973). “Here's Practical Guide to Mixing Drinks”: Hartford Times: Hartford CT</ref><ref>Ryan, B. (1972).  “An Engaging Class Knows the Latest in Libation” The Hartford Times: Hartford CT</ref><ref>Linsley, C. (1972). “25 Years of New Bartenders” Hartford Times: Hartford CT.</ref><ref>{{cite web|url=http://cocktails.about.com/od/atozcocktailrecipes/r/hrvy_wlbngr_ckt.htm|title=Are You Ready to Get a Taste of the Harvey Wallbanger?|publisher=}}</ref>
+* The [[Special Air Service|SAS]] sometimes referred to [[C-4 (explosive)|C4]] explosive charges as "Harvey Wall-bangers."{{citation needed|date=February 2013}}
+* Harvey Wallbanger is sometimes used to refer to the [[Maze solving algorithm#Wall follower|Wall Follower]] maze solving algorithm.
+* Harvey Wallbanger was the puppet character who ran the "dead-letter" post office on the Canadian children's show, ''[[The Hilarious House of Frightenstein]].''
+* In [[List of CB slang|CB lingo]], a Harvey Wallbanger is a [[drunk driver]]; specifically, one who continually drifts across the road from one shoulder to the other and back.
+* Conservative talk-show host [[Michael Savage]] refers to rival conservative talk-show host [[Sean Hannity]] as Harvey Wallbanger. <ref>{{cite web|url=http://mofopolitics.com/2014/05/05/michael-savage-explains-why-he-calls-sean-hannity-the-wallbanger/|title=Michael Savage explains why he calls Sean Hannity ’the Wallbanger‘ |date=5 May 2014|publisher=MFP}}</ref>
+* In ''[[Sesame Street]]'', a character named Harvey Kneeslapper, who was fond of practical jokes and riddles, appeared for a time.
+* The rapper and producer [[Tony D]] used the alias Harvee Wallbangar on some of his releases.
+* The drink is mentioned in a scene in the 2018 comedy ''[[Game Night (film)|Game Night]]''
+* In ''The Simpsons'' episode "Flaming Moe's (Season 3 Episode 10) Homer is told by attorney Lionel Hutz that "You can't copyright a drink. This goes back to the 'Frank Wallbanger' case of 1974."
+
+==References==
+'''Notes'''
+{{portal|Drink}}
+{{Reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with liqueur]]
+[[Category:Cocktails with vodka]]
+[[Category:Food and drink introduced in 1952]]
+[[Category:Three-ingredient cocktails]]

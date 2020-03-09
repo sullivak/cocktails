@@ -1,0 +1,40 @@
+{{Infobox cocktail
+| iba         = yes
+| name        = Yellow Bird
+| sourcelink = yellow-bird
+| image       = 
+| imagesize   = 
+| alt         = 
+| caption     = 
+| type        = cocktail
+| flaming     =
+| rum         = yes
+| served      = straight
+| garnish     = 
+| drinkware   = cocktail
+| ingredients = * 3 cl [[White Rum]]
+* 1.5 cl [[Galliano (liqueur)|Galliano]]
+* 1.5 cl [[Triple sec]]
+* 1.5 cl [[Lime juice]]
+| timing      = All Day
+| prep        = Shake and strain into a chilled cocktail glass
+| footnotes   = 
+}}
+'''Yellow Bird''' is a [[Caribbean]] [[cocktail]] beverage.<ref>{{cite web|url=https://books.google.com/books?id=B-dUlTg89FUC&pg=PA332&dq=Yellow+Bird+cocktail&hl=en&sa=X&ved=0CE8Q6AEwBjgKahUKEwiP4vzj8JbGAhXIKKwKHRM3ADg#v=onepage&q=Yellow%20Bird%20cocktail&f=false |title=The Bartender's Best Friend: A Complete Guide to Cocktails, Martinis, and Mixed Drinks |author=Regan, Mardee Haidin |page=332 |year=2003 |isbn=0471227218 |accessdate=17 June 2015}}</ref><ref>[https://news.google.com/newspapers?id=KoQyAAAAIBAJ&sjid=TLcFAAAAIBAJ&pg=4143,3905020&dq=yellow+bird+cocktail&hl=en Yellow Bird] The Palm Beach Post - Jun 25, 1972</ref>
+
+==History==
+The origins of the ''yellow bird'' name is unclear.<ref name="Charming">{{cite web|url=https://books.google.com/books?id=AJKr67ceXpMC&printsec=frontcover#v=onepage&q&f=false |title=Knack Bartending Basics: More than 400 Classic and Contemporary Cocktails for Any Occasion |author=Charming, Cheryl |page=101 |year=2009 |publisher=Rowman & Littlefield |isbn=9781599217727 |accessdate=29 January 2017}}</ref> Some sources mention that the cocktail was named after the [[Haiti]]an tune "[[Choucoune (song)#Versions|Yellow Bird]],"<ref name="Charming"/><ref name="Harris">{{cite web|url=https://books.google.com/books?id=-SgRAAAAQBAJ&pg=PA110&dq=Yellow+Bird+cocktail&hl=en&sa=X&ved=0CD8Q6AEwAzgKahUKEwiP4vzj8JbGAhXIKKwKHRM3ADg#v=onepage&q=Yellow%20Bird%20cocktail&f=false |title=Rum Drinks: 50 Caribbean Cocktails, From Cuba Libre to Rum Daisy |author=Harris, Jessica B. |page=110 |year=2009 |isbn=9780811866996 |accessdate=17 June 2015}}</ref> that was first rewritten in English in 1957<ref name="Charming"/> that became a sort of national anthem of the Caribbean due to the popularity of [[Harry Belafonte]]'s recording.<ref name="Harris"/> [[Hawaii]]an singer [[Arthur Lyman]], one of the influencers of the [[tiki culture#music|tiki culture]]'s [[exotica]] music, released a version of the song which rose to #4 in July 1961 on the Billboard charts and was played weekly at Shell Bar in ''[[Hilton Hawaiian Village|The Hawaii Village]]'', a possible birthplace of the cocktail.<ref name="Charming"/>
+
+Others argue that it was ''not'' named after the song and obtains the name from its sunny color resulting from [[Galliano (liqueur)|Galliano]], a golden, sweet vanilla-anise Italian liqueur<ref>{{cite web|url=https://books.google.com/books?id=-z1jAAAAMAAJ&q |title=A Taste of Cuba: Recipes from the Cuban-American Community |author=Creen, Linette |page=292 |year=1991 |publisher=Dutton |isbn=9780525249702 |accessdate=29 January 2017}}</ref> or from its color combination of yellow and orange fruits that are accompanied by a ''golden rum''.<ref>{{cite web|url=https://books.google.com/books?id=tjxjAAAAMAAJ&q |title=Sugar Reef Caribbean Cooking |author=Dedeaux, Devra |page=203 |year=1989 |publisher=McGraw-Hill |isbn=9780070624573 |accessdate=29 January 2017}}</ref> It is worth mentioning that this IBA does not include this latter ingredient.<ref>[http://iba-world.com/new-era-drinks/yellow-bird/ International Bar Association (IBA)]</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.youtube.com/watch?v=B8mIpy7WeZE Youtube video with image of cocktail and steel drum music]
+
+{{IBACocktails}}
+
+[[Category:Cocktails with rum]]
+[[Category:Cocktails with liqueur]]
+[[Category:Cocktails with triple sec or curaçao]]

@@ -1,0 +1,51 @@
+{{Use dmy dates|date=January 2013}}
+{{Infobox cocktail
+| iba         = yes
+| rum         = yes
+| sourcelink  = planters-punch
+| name        = Planter's Punch
+| image       = Planters Punch 2.jpg
+| caption     = Planter's Punch
+| type        = mixed
+| served      = rocks
+| flaming     = 
+| garnish     = [[Cherry]] and [[pineapple]] slice
+| drinkware   = highball
+| ingredients = * 4.5cl Dark [[rum]]
+* 3.5 cl fresh [[orange juice]]
+* 3.5 cl fresh [[pineapple juice]]
+* 2 cl fresh [[lemon juice]]
+* 1 cl [[Grenadine]] syrup
+* 1 cl sugar syrup
+* 3 or 4 dashes [[Angostura bitters]]
+| prep        = Pour all ingredients, except the bitters, into shaker filled with ice. Shake well. Pour into large glass, filled with ice. Add dash Angostura bitters. Garnish with cocktail cherry and pineapple. 
+| notes       = 
+| footnotes   = 
+}}
+
+'''Planter's Punch''' is an [[IBA Official Cocktail]] made of dark [[rum]], several juices, [[grenadine]] syrup, [[Syrup|sugar syrup]], and [[Angostura bitters]].<ref name="IBA-wcc">{{cite web |url=http://iba-world.com/iba-official-cocktails/planters-punch/ |title=Planter's Punch |publisher=[[International Bartenders Association]] |accessdate=7 July 2012}}</ref>
+
+The cocktail has been said to have originated at the Planters Hotel in [[Charleston, South Carolina]]. The September 1878 issue of the London magazine [[Fun (magazine)|''Fun'']] listed the recipe as follows:
+
+<blockquote><poem>A wine-glass with lemon juice fill,
+Of sugar the same glass fill twice
+Then rub them together until
+The mixture looks smooth, soft, and nice.
+
+Of rum then three wine glasses add,
+And four of cold water please take. A
+Drink then you'll have that's not bad—
+At least, so they say in Jamaica.<ref>{{cite journal |date=4 September 1878 |title=Planter's Punch! A West Indian Recipe |url=http://ufdc.ufl.edu/UF00078627/00033/93j |journal=[[Fun (magazine)|''Fun'']] |volume=XXVII |issue=new series |page=102 |accessdate=5 February 2014}}</ref></poem></blockquote>
+
+== References ==
+{{Reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with rum]]
+
+[[Category:Tiki drinks]]
+[[Category:Sweet cocktails]]
+
+
+{{Mixed-drink-stub}}

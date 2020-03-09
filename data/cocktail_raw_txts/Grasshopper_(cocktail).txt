@@ -1,0 +1,52 @@
+{{dablink|Not to be confused with Grasshopper, the wheat beer made by [[Big Rock Brewery]]}}
+{{Infobox cocktail
+| iba         = yes
+| name        = Grasshopper
+| sourcelink  = grasshopper
+| image       = Grasshopper cocktail.jpg
+| caption     = 
+| type        = cocktail
+| flaming     = 
+| cacao       = yes
+| menthe      = yes
+| served      = straight
+| garnish     = 
+| drinkware   = cocktail
+| ingredients = *3 cl [[Crème de menthe]] (green)
+*3 cl [[Chocolate_liqueur#Cr.C3.A8me_de_cacao|Crème de cacao]] (white)
+*3 cl [[cream]]
+| prep        = Pour ingredients into a [[cocktail shaker]] with ice. Shake briskly and then strain into a chilled cocktail glass.
+| timing      = After dinner
+| notes       = 
+| footnotes   = 
+}}
+
+A '''Grasshopper''' is a sweet, mint-flavored, after-dinner drink. The name of the drink derives from its green color, which comes from [[crème de menthe]]. A bar in the [[French Quarter]] of [[New Orleans]], [[Louisiana]], Tujague's, claims the drink was invented in 1918<ref>{{cite web |url=http://www.thebollard.com/bollard/?p=2119 |title= The Land of Forgotten Cocktails |date= August 1, 2008 |accessdate=2009-03-27 |archiveurl=https://web.archive.org/web/20091207002514/http://www.thebollard.com/bollard/?p=2119 |archivedate=2009-12-07 }}</ref> by its owner, Philip Guichet. The drink gained popularity during the 1950s and 1960s throughout the [[American South]].
+
+==Composition==
+A typical Grasshopper cocktail consists of equal parts green [[crème de menthe]], white [[crème de cacao]], and cream shaken with ice and strained into a chilled cocktail glass.<ref>{{cite web |url= http://www.alcomixer.com/recipe/grasshopper |title= Flying Grasshopper recipe }}</ref>
+
+===Variations===
+A "Vodka" or "Flying" Grasshopper replaces the cream with [[vodka]].<ref>{{cite web |url= http://www.drinksmixer.com/drink6742.html |title= Flying Grasshopper recipe |accessdate= 2017-11-08 }}</ref>
+
+A "Frozen" Grasshopper adds mint ice cream to create a more dessert-like drink.<ref>{{cite web |url= http://www.drinksmixer.com/drink3644.html |title= Frozen Grasshopper recipe |accessdate= 2017-11-08 }}</ref>
+
+An "After Eight" adds a layer of dark chocolate liqueur to the crème de menthe, crème de cacao and cream.<ref>{{cite web |url= http://www.passionforcocktails.com/en/vodka/after-eight |title= After Eight |accessdate= 2017-11-08 }}</ref>
+
+In the North Central United States, especially Wisconsin, Grasshoppers are blended drinks, with ice cream substituted for cream.<ref>{{cite web |publisher=Punch |url=https://punchdrink.com/recipes/blended-grasshopper/ |title=PUNCH &#124; Blended Grasshopper |accessdate=2018-01-12}}</ref>  A related variation is the "Grasshopper milkshake", it contains [[mint chocolate chip]] [[ice cream]], [[milk]], and crème de menthe. This is blended and served in a tall glass decorated with a miniature or broken cream-filled chocolate [[sandwich cookie]].<ref name="Sunset">{{cite web |url= http://food.sunset.com/sunset/recipefinder.dyn?action=displayRecipe&recipe_id=659259 |title= Grasshopper Milkshake |accessdate= 2017-11-08 |archiveurl= https://web.archive.org/web/20100519001941/http://find.myrecipes.com:80/recipes/recipefinder.dyn?action=displayRecipe&recipe_id=659259 |archivedate= 2010-05-19 }}</ref>
+
+A "[[Girl Scout]] Cookie" substitutes [[peppermint schnapps]] for crème de menthe.<ref>{{cite web |url= https://www.chowhound.com/recipes/girl-scout-cookie-10267 |title= Girl Scout Cookie Recipe |publisher= [[Chowhound]] |accessdate= 2017-11-08 }}</ref>
+
+==See also==
+*[[List of cocktails]]
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{Commons category-inline|Grasshopper (cocktail)}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with chocolate liqueur]]
+[[Category:Cocktails with liqueur]]
