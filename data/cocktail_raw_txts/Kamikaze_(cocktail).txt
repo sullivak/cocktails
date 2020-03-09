@@ -1,0 +1,53 @@
+{{Infobox cocktail 
+| iba         = yes
+| source      = 
+| sourcelink  = kamikaze
+| name        = Kamikaze
+| image       = Kamikaze-cocktail.jpg
+| caption     = Kamikaze cocktail, served straight up in a cocktail glass.
+| type        = cocktail
+| flaming     = 
+| vodka       = yes
+| other       = Triple Sec
+| served      = straight
+| garnish     = [[Lime (fruit)|Lime]] slice
+| drinkware   = cocktail
+| ingredients = *3 cl [[vodka]]
+*3 cl [[triple sec]]
+*3 cl [[lime juice]]
+| timing      = All Day
+| prep        = Shake all ingredients together with ice. Strain into glass, garnish and serve.
+| notes       = 
+| footnotes   = 
+}}
+
+The '''Kamikaze''' is made of equal parts [[vodka]], [[triple sec]] and [[lime juice]]. According to the [[International Bartenders Association]], it is served [[Straight up (bartending)|straight up]] in a [[cocktail glass]].<ref>{{cite web |title=International Bartenders Association - Official Cocktails |url=http://www.iba-world.com/index.php?option=com_content&id=244&tmpl=component&task=preview&Itemid=532 |accessdate=7 May 2015}}</ref> Garnish is typically a wedge or twist of [[lime (fruit)|lime]].
+
+==Origins==
+According to cocktail historian David Wondrich, the Kamikaze shot first appeared in 1976 and may have been the original "[[Shooter (drink)|shooter]]" cocktail. <ref>{{cite web|url=https://bevvy.co/cocktail/kamikaze-shot/xhm|title=Kamikaze shot|website=Bevvy}}</ref>
+<br>The Kamikaze was invented on a Monday night in Canoga Park California in 1975. The shot was named after a doorman named Peter who was “Oriental”. Here is how it became the first true shot. A few of the staff were sick with the flu; Dean Groover, Peter and one other. The Bartender's name was O.B. and Dean asked O.B. for some shots of Peppermint Schnapps for him and the other sick staff. After a few shots Dean asked O.B. to come up with something different as the Schnapps was not working. After a few back and forth suggestions, Vodka was agreed on as the main ingredient and then Triple sec was added and after a few more shots and a few more collaborations between O.B. and Dean, Roses Lime juice was added and then a few more shots were consumed. Dean requested that the shot glasses be chilled, and the mix be shaken like a martini. Then several shots were consumed, and everyone was feeling great and ready to work. Peter said he needed to go to the restroom and as he tried to move away from the bar his foot got caught on the foot rail and he went crashing, face first, to the floor. O.B. and I looked at each other and then at Peter on the floor. Dean and O.B. looked back at each other and at the same time said Kamikaze. Thus the name from our Oriental friend Peter who crashed to the floor.
+
+==Naming==
+"[[Kamikaze]]" ({{linktext|神|風}}) is a [[Japanese language|Japanese]] word literally meaning "divine wind".
+
+==Variations==
+Dozens of variations exist in online databases today.<ref name="db">[http://www.drinknation.com/drink/Kamikaze Drink nation . com: Kamikaze cocktail recipe variations]</ref> It is also possible to add cane sugar. 
+
+==See also==
+* [[Gimlet (cocktail)]]
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{Commons category-inline|Kamikaze (cocktail)}}
+
+{{IBACocktails}}
+
+{{DEFAULTSORT:Kamikaze (Cocktail)}}
+[[Category:Cocktails with triple sec or curaçao]]
+[[Category:Cocktails with vodka]]
+[[Category:Sour cocktails]]
+
+
+{{Cocktail-stub}}

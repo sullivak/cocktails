@@ -1,0 +1,39 @@
+{{refimprove|date=February 2016}}
+
+{{Infobox cocktail 
+| iba         = yes
+| source     =
+| sourcelink = angel-face
+| name        = Angel Face
+| image       = IBA Cocktail Angel Face (28068833805).jpg
+| caption     = 
+| type        = cocktail
+| flaming     = 
+| gin         = yes
+| orange      = 
+| other       = [[Calvados]]
+| served      = straight
+| garnish     = 
+| drinkware   = cocktail
+| ingredients = *3 cl [[gin]]
+*3 cl [[Apricot brandy]]
+*3 cl [[Calvados]]
+| prep        = Shake all ingredients with ice and strain contents into a cocktail glass.
+| timing      = All day
+| notes       = 
+| footnotes   = 
+}}
+
+The '''Angel Face''' is a [[cocktail]] made from [[gin]], [[apricot brandy]] and [[Calvados]] in equal amounts.<ref>Harry Craddock - The Savoy Cocktail Book 1930</ref>
+
+The cocktail first appears in the [[Savoy_Hotel#The_Savoy_Cocktail_Book|Savoy Cocktail Book]] compiled by [[Harry Craddock]] in 1930.<ref>https://www.diffordsguide.com/en-au/cocktails/recipe/521/angel-face</ref><ref>http://intoxicologist.net/2014/12/angel-face-classic-cocktail/</ref><ref>http://intoxicologist.net/2014/12/angel-face-classic-cocktail/</ref>
+
+{{IBACocktails}}
+
+==References==
+{{Reflist}}
+
+[[Category:Cocktails with gin]]
+
+
+{{cocktail-stub}}

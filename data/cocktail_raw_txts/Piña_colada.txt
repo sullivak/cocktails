@@ -1,0 +1,111 @@
+{{Use dmy dates|date=May 2015}}
+{{More citations needed|date=March 2012}}
+{{Infobox cocktail 
+| iba         = yes
+| sourcelink  = pina-colada
+| name        = Piña Colada
+| image       = Piña Colada.jpg
+| caption     = 
+| type        = Cocktail
+| flaming     = 
+| rum         = yes
+| served      = blended
+| garnish     = [[Pineapple]] slice and/or [[maraschino cherry]]
+| ingredients = *3 cl [[Light rum|white rum]]
+*9 cl [[pineapple juice]]
+*3 cl [[cream of coconut]]
+| prep = Blend all the ingredients with ice in an electric blender, pour into a large goblet or Hurricane glass and serve with straws.
+| drinkware   = poco
+| footnotes   = 
+}}
+The '''piña colada''' ({{IPAc-en|ˌ|p|iː|n|j|ə|_|k|oʊ|ˈ|l|ɑː|d|ə|,_|-|n|ə|-|,_|-|k|ə|-}};{{refn|{{MerriamWebsterDictionary|accessdate=2016-01-21|piña colada}}}}{{refn|{{OxfordDictionaries.com|accessdate=2016-01-21|piña colada}}}} {{lang-es|piña}} {{IPA-es|ˈpiɲa|}}, "pineapple," and {{lang|es|colada}} {{IPA-es|koˈlaða|}}, "strained") is a sweet [[cocktail]] made with [[rum]], [[cream of coconut]] or [[coconut milk]], and [[pineapple juice]], usually served either blended or shaken with ice. It may be garnished with either a pineapple wedge, [[maraschino cherry]], or both. 
+There are two versions of the drink's origin, but both say it originated in [[Puerto Rico]].
+
+==Etymology==
+The name ''piña colada'' ([[Spanish language|spanish]]) literally means "strained pineapple", a reference to the freshly pressed and strained pineapple juice used in the drink's preparation.
+
+==History==
+[[File:Piña Colada plate in Old San Juan, Puerto Rico.jpg|thumb|left|upright|Ramón Portas Mingot is credited with creating the drink.]]
+The earliest known story states that in the 19th century, Puerto Rican pirate [[Roberto Cofresí]], to boost his crew's morale, gave them a beverage or cocktail that contained coconut, pineapple and white rum.&lt;ref&gt;{{cite news| url=http://www.elnuevodiario.com.do/app/article.aspx?id=110184| title=Con diez cañones por banda... y una piña colada en la mano| work=El Nuevo Diario| date=9 July 2008| language=es| accessdate=11 April 2009| archive-url=https://web.archive.org/web/20090510064939/http://www.elnuevodiario.com.do/app/article.aspx?id=110184| archive-date=10 May 2009| dead-url=yes| df=dmy-all}}&lt;/ref&gt; This was what would be later known as the famous piña colada. With his death in 1825, the recipe for the piña colada was lost. Historian Haydée Reichard disputes this version of the story.&lt;ref name="Nuestra"/&gt;
+
+In 1950 ''[[The New York Times]]'' reported that "Drinks in the West Indies range from Martinique's famous rum punch to Cuba's pina colada (rum, pineapple and coconut milk)."&lt;ref&gt;{{cite news|title=AT THE BAR|date=16 April 1950|work=The New York Times}}&lt;/ref&gt;
+
+The [[Caribe Hilton Hotel]] claims Ramón "Monchito" Marrero created the Piña Colada in 1954 while a bartender at the hotel. According to this account, Mr. Marrero finally settled upon the recipe for the Piña Colada, which he felt captured the true nature and essence of Puerto Rico.&lt;ref&gt;{{cite web |url=http://www.caribehilton.com/location-directions/ |title=Archived copy |accessdate=2013-09-10 |deadurl=yes |archiveurl=https://web.archive.org/web/20120819135153/http://www.caribehilton.com/location-directions/ |archivedate=2012-08-19 |df= }}&lt;/ref&gt; The hotel was presented with a proclamation in 2004 by Puerto Rico Governor [[Sila M. Calderón]] celebrating the drink's 50th anniversary.&lt;ref&gt;{{cite web|url=http://www.caribehilton.com/about/history/|title=History of Caribe Hilton|accessdate=8 November 2018}}&lt;/ref&gt;&lt;ref name="Monchito"&gt;{{cite web|url=https://www.cnn.com/travel/article/pina-colada-caribe-hilton-puerto-rico/index.html|title=Celebrating the piña colada's birthplace|first=Lilit|last=Marcus|date=2 May 2019|website=CNN Travel}}&lt;/ref&gt;
+
+Barrachina, a restaurant in Puerto Rico, says that "a traditional Spanish bartender Don Ramon Portas Mingot in 1963 created what became the world's famous drink: the Piña Colada."&lt;ref&gt;{{cite web|url=http://www.barrachina.com/about.html|title=Best Restaurant In Old San Juan Puerto Rico|website=Barrachina}}&lt;/ref&gt;&lt;ref name="two tales"&gt;{{cite web|url=http://www.puertorico-herald.org/issues2/2005/vol09n12/CaribTalePina.html|title=A Caribbean Tale Of Two Piña Coladas|website=Puerto Rico Herald}}&lt;/ref&gt;
+
+In 1978 Puerto Rico proclaimed the cocktail its official drink.&lt;ref name="Nuestra"&gt;{{cite news|url=http://www.elnuevodia.com/nuestrapinacoladacumple60anos-1831147.html|title=Nuestra piña colada cumple 60 años|last=Pérez Rivera|first=Tatiana |language=sp|work=[[El Nuevo Día]]|url-access=subscription|date=10 August 2014|accessdate=13 July 2014}}&lt;/ref&gt;&lt;ref name="colada"&gt;{{cite web|url=https://www.history.com/news/the-birth-of-the-pina-colada|last=Klein |first=Christopher|date=June 16, 2015|title=The Birth of the Piña Colada|work=[[History (U.S. TV network)|History]]|accessdate=July 14, 2019}}&lt;/ref&gt;
+
+==In popular culture==
+National Piña Colada Day is celebrated on the islands on 10 July.
+
+This cocktail gained fame in Puerto Rico from 1978, and it gained worldwide fame after [[Rupert Holmes]] released his 1979 song "[[Escape (The Piña Colada Song)]]", which became a popular hit around the world.&lt;ref name="Stokes2017"&gt;{{cite book|author=Emma Stokes|title=The Periodic Table of Cocktails|url=https://books.google.com/books?id=6-9EDQAAQBAJ&amp;pg=PT138|date=18 April 2017|publisher=ABRAMS|isbn=978-1-68335-045-3|pages=138–}}&lt;/ref&gt;&lt;ref name="Bronson2003"&gt;{{cite book|author=Fred Bronson|title=The Billboard Book of Number One Hits|url=https://books.google.com/books?id=PgGqNrqfrsoC&amp;pg=PP528|year=2003|publisher=Billboard Books|isbn=978-0-8230-7677-2|pages=528–}}&lt;/ref&gt;
+
+Jazz icon and [[flugelhorn]] player [[Chuck Mangione]] likewise released a tune titled "Piña Colada" on his 1979 album ''[[Fun and Games (Chuck Mangione album)|Fun and Games]]''.
+
+The cocktail serves as part of the title of the [[Garth Brooks]] song "[[Two Piña Coladas]]".
+
+==Preparation==
+[[File:Piña colada.jpg|thumb|right|upright|Piña colada]]
+As recounted by his friends in José L. Díaz de Villegas's book, the original Monchito recipe was to pour 85 grams of cream of coconut, 170 grams of pineapple juice and 43 grams of white rum into a [[blender]] or shaker with crushed ice, blend or shake very well until smooth, then pour into chilled glass and garnish with pineapple wedge and/or a maraschino cherry.
+Longdrink
+
+There are many recipes for piña colada. The [[International Bartenders Association]] specifies it is:
+;Ingredients
+*(one part) {{convert|3|cl|usoz|abbr=on}} [[Light rum|white rum]]
+*(one part) {{convert|3|cl|usoz|abbr=on}} coconut cream
+*(3 parts) {{convert|9|cl|usoz|abbr=on}} [[pineapple juice]]
+
+;Method
+Mix with crushed ice in blender until smooth, then pour into a chilled glass, garnish and serve. Alternately, the three main components can simply be added to a cocktail glass with ice cubes.&lt;ref&gt;{{cite web|url=https://iba-world.com/cocktails/pina-colada/|title=Pina Colada|work=[[International Bartenders Association|IBA]]|accessdate=July 14, 2019}}&lt;/ref&gt;
+
+In [[San Juan, Puerto Rico]] the recipe is:
+;Ingredients
+*{{convert|1|usoz|cl|abbr=on}} [[Cream#United States|heavy cream]]
+*{{convert|6|usoz|cl|abbr=on}} freshly pressed pineapple juice
+*{{convert|1|usoz|cl|abbr=on}} [[cream of coconut]]
+*{{convert|2|usoz|cl|abbr=on}} [[Rum|rum]] (any flavor)
+*1/2 cup [[Ice cube#Crushed ice|crushed ice]]
+;Method
+In a blender, combine cream of coconut, pineapple juice, heavy cream and rum. Add crushed ice and blend for 15 seconds. Pour in a desired 12 ounce container and use a cherry and fresh pineapple for a garnish.&lt;ref name="colada"/&gt;
+
+===Variations===
+Different proportions of the core ingredients, as well as different types of rum, may all be used in the piña colada. Frozen piña coladas are also served. Other named variations include:
+* Amaretto colada – [[amaretto]] substituted for rum&lt;ref&gt;{{cite web|url=http://www.bartender.com/2calendar/cal-2003/cal-0603.htm|archive-url=https://web.archive.org/web/20030215184103/http://bartender.com/2calendar/cal-2003/cal-0603.htm|dead-url=yes|archive-date=15 February 2003|title=Frozen/Mixed — Amaretto Colada|accessdate=20 June 2007|df=dmy-all}}&lt;/ref&gt;
+* Chi chi – with [[vodka]] substituted for rum
+* Lava Flow – strawberry [[daiquiri]] and piña colada blended together&lt;ref&gt;{{cite web|url=http://gohawaii.about.com/od/drinks/r/lava_flow.htm| title=Lava Flow| accessdate=20 June 2007}}&lt;/ref&gt;
+* Virgin piña colada or piñita colada – without the rum, thus non-alcoholic
+* Kiwi colada – with [[kiwifruit]] (fruit and syrup) in place of pineapple juice
+* Soda colada – resembles original recipe but soda is used instead of coconut milk
+* Kahlua colada – Substitute Kahlua (coffee liqueur) for rum.
+[[Staten Island Ferry (cocktail)|Staten Island Ferry]] is a cocktail consisting of equal parts [[Malibu (rum)|Malibu]] (flavoured rum) and pineapple juice served over ice. In flavor it resembles a Piña Colada (due to the coconut flavor of Malibu rum). As it does not require cream of coconut, it is thus more easily prepared in bars that lack the specialty ingredients and blender that a Piña Colada would typically require.
+
+Variants of [[Blue Hawaii (drink)|Blue Hawaii]] with creme of coconut differ from piña colada mainly by including also [[Curaçao (liqueur)|blue Curaçao]].
+
+==See also==
+{{Portal|Liquor|Puerto Rico|Puerto Rico/Did you know-Puerto Rico?}}
+* [[Coco López]]
+* [[Ramón López Irizarry]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Commons category}}
+{{wikibooks|Bartending|Cocktails/Piña Colada|Piña Colada}}
+
+{{IBA Official Cocktails}}
+{{Chuck Mangione}}
+
+{{DEFAULTSORT:Pina Colada}}
+[[Category:Cocktails with rum]]
+[[Category:Caribbean cuisine]]
+[[Category:Puerto Rican cuisine]]
+[[Category:Pineapples]]
+[[Category:1979 albums]]
+[[Category:Chuck Mangione albums]]
+[[Category:A&amp;M Records albums]]</text>
+      <sha1>38kk2z8rpmrzhxp51rrel6lgc7mbcju</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,55 @@
+{{Infobox cocktail
+| iba         = yes
+| source      = 
+| sourcelink  = bramble
+| name        = Bramble
+| image       = Bramble Cocktail1.jpg
+| caption     = 
+| flaming     = 
+| gin         = yes
+| served      = rocks
+| garnish     = Blackberry, lemon slice
+| drinkware   = old
+| ingredients = *4 cl [[gin]]
+*1.5 cl [[lemon|lemon juice]]
+*1 cl [[simple syrup]]
+*1.5 cl Creme de Mure (blackberry liqueur)
+| prep        = Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.
+| timing      = All Day
+| notes       = 
+| footnotes   = 
+}}
+
+The '''Bramble''' is a cocktail created by [[Dick Bradsell]] in 1980s London, England. Best described as a spring cocktail, the Bramble brings together dry [[gin]], [[lemon]] juice, sugar syrup, [[Crème liqueur|crème de mûre]], and crushed ice. Bradsell also suggests finishing off the cocktail with some fresh red fruits (such as blackberries, cranberries) and a slice of lemon. It closely resembles the popular [[Gin Fix]].
+
+If crème de mûre is unavailable, many bartenders will substitute creme de cassis for it.
+
+==History==
+The Bramble was created in London, in 1984,<ref>{{cite web
+|url=http://tmagazine.blogs.nytimes.com/2010/06/16/case-study-the-bramble/?_r=0
+|title=Case Study – The Bramble
+|work=T-Magazine. The New York Times.
+|accessdate=25 February 2015
+}}</ref> by Dick Bradsell. At the time, Bradsell worked at a bar in [[Soho]] called Fred's Club, and he wanted to create a British cocktail. Memories of going [[blackberry]]ing in his childhood on the Isle of Wight provided the inspiration for the Bramble.<ref>{{cite web
+|url=https://www.diffordsguide.com/cocktails/recipe/305/bramble
+|quote=And, immediately, I had my 'madeleine moment'. I was back in my childhood on the Isle of Wight, going blackberrying, and being pricked by the brambles, [...] I had all of this in mind, and I thought, 'I want to design a British cocktail.'
+|title=Bramble
+|work=Difford's Guide
+|accessdate=2017-09-16
+}}</ref>
+
+The name of the drink comes from the fact that blackberry bushes are called [[bramble]]s.<ref>{{cite web|url=https://www.diffordsguide.com/cocktails/recipe/305/bramble|quote=A bramble, by the way, is the bush that blackberries grow on.|title=Bramble|work=Difford's Guide|accessdate=2017-09-16}}</ref>
+
+==See also==
+* [[List of cocktails]]
+
+==References==
+{{reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with gin]]
+[[Category:Cocktails with liqueur]]
+
+
+{{mixed-drink-stub}}

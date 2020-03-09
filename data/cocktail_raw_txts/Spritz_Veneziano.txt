@@ -1,0 +1,53 @@
+{{short description|Italian wine-based cocktail}}
+{{Infobox cocktail 
+| iba         = yes
+| name        = Spritz Veneziano
+| sourcelink  = spritz-veneziano
+| image       = 20120704 170702 venezia 1584.jpg
+| caption     = Spritz served in [[Venice]], [[Italy]]
+| type        = wine
+| flaming     = 
+| prosecco    = yes
+| served      = rocks
+| garnish     = [[Orange (fruit)|Orange Wedge]]
+| drinkware   = old
+| ingredients = *6 cl [[Prosecco]]
+*4 cl [[Aperol]]
+*Splash of [[carbonated water|soda water]]
+| prep        = Build into glass over ice, garnish and serve.
+| notes       = 
+| footnotes   = Aperol can be replaced by other bitters such as [[Campari]], [[Cynar]], [[Gran Classico Bitter|Gran Classico]], Select, ''etc.''
+}}
+
+{{mergefrom|Aperol Spritz|discuss=Talk:Spritz Veneziano#Merger proposal|date=March 2019}}
+A '''{{lang|it|Spritz Veneziano}}''' ({{lang-de-AT|Spritzer}}, "splash" / "sparkling"), also called just {{lang|de|Spritz}}, is an [[Italy|Italian]] [[wine]]-based [[cocktail]], commonly served as an [[aperitif]] in [[Northeast Italy]].
+
+==History==
+The drink originated in [[Venice]] or [[Padua]] while it was part of the [[Austrian Empire]] (see [[Kingdom of Lombardy–Venetia]]), and is based on the Austrian [[spritzer]], a combination of equal parts white wine and [[soda water]]; another idea is that the name of the drink would be linked to that of a typical Austrian wine in the region of the [[Wachau]].<ref>{{cite web|title=La Storia dello Spritz|url=http://www.veneziaeventi.com/inviati/le-news-dagli-inviati/america-merid-i/3851-la-storia-dello-spritz|date=2016-02-08|website=Venezia Eventi}}</ref>
+
+Spritz was born during the period of the [[Habsburg]] domination in [[Veneto]] in the 1800s. The soldiers, but also the various merchants, diplomats and employees of the [[Habsburg Monarchy|Habsburg Empire]] in Veneto became quickly accustomed to drinking local wine in the taverns, but they were not familiar with the wide variety of wines from the Veneto, and the alcohol content was higher than they were accustomed to. The newcomers started to ask the local hosts to spray a bit of water into the [[wine]] ({{lang|de|spritzen}}, in German) to make the wines lighter; the real original spritz was composed of sparkling white wine or red wine diluted with fresh water.<ref name="racconti">{{cite web|title=Racconti nel calice|url=http://cantinalacosta.com/2012/05/07/racconti-nel-calice-conoscete-la-storia-dello-spritz/}}</ref> 
+
+The first evolution of Spritz arrived in the early 1900s, when siphons for [[carbonated water]] became widely available and made it possible to make a sparkling Spritz using still wine. This development introduced the Spritz to new types of customers, such as Austrian noblewomen, who, with the drink's touch of glamour, could now afford to be seen drinking a soft drink.
+Over the years the drink has "grown up" with the infinite variety of possible additions such as a sort of liquor ([[Aperol]], [[Campari]], Select, [http://www.jardesca.com Jardesca California Aperitiva]) or a bitter as the China Martini or [[Cynar]] with a lemon peel inside.<ref name="racconti" />
+
+==Recipe==
+The drink is prepared with [[prosecco]] wine, bitter liqueur such as [[Aperol]], [[Campari]], [[Cynar]], or, especially in [[Venice]], ''Aperitivo Select'', then the glass is topped off with a dash of sparkling mineral water (more commonly [[Club_soda | Club soda]]).  It is usually served over ice in a lowball glass (or sometimes a wine glass) and garnished with a slice of orange, or sometimes an olive, depending on the liqueur.
+
+There is no single composition for a spritz, and it is prepared with different ingredients in different towns and cities, meaning that the alcohol content is highly variable. However, a common denominator is the presence of [[Prosecco]] and sparkling water, with the remaining being made up from a great variety of alcoholic drinks, sometimes mixed, but with an unwritten rule to preserve the red/orange color of the cocktail. Finally, a slice of lemon, orange or an olive and a few ice cubes are added.<ref>{{cite web|title=Lo Spritz|url=http://www.spritz.it/spritz/default.asp}}</ref>
+
+==See also==
+* [[Aperol Spritz]]
+* [[Hugo (cocktail)]]
+* [[Negroni sbagliato]]
+* [[Pirlo (aperitivo)]]
+
+==References==
+{{Reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cuisine of Veneto]]
+[[Category:Cocktails with wine]]
+[[Category:Cocktails with bitters]]
+[[Category:Italian drinks]]
+[[Category:Italian alcoholic drinks]]

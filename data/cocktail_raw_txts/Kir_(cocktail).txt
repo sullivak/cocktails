@@ -1,0 +1,61 @@
+{{Infobox cocktail 
+| iba         = yes
+| source      = 
+| sourcelink  = kir
+| name        = Kir
+| image       = Kir cocktail.jpg
+| caption     = 
+| type        = wine
+| flaming     = 
+| wine = yes
+| served      = straight
+| garnish     = 
+| drinkware   = winew
+| ingredients = *9 cl (9 parts) [[white wine]]
+*1 cl (1 part) [[crème de cassis]]
+| prep        = Add the crème de cassis to the bottom of the glass, then top up with wine.  
+| timing      = Before Dinner
+| notes       = A recipe can be found at the [[International Bartenders Association]] website.
+| footnotes   = 
+}}
+
+'''Kir''' is a popular [[France|French]] [[cocktail]] made with a measure of [[crème de cassis]] (blackcurrant liqueur) topped up with white [[wine]].
+
+In [[France]] it is usually drunk as an [[apéritif]] before a meal or snack. It was originally made with [[Bourgogne Aligoté]]<ref>{{Cite news|url=https://vinepair.com/wine-blog/aligote-burgundys-other-white-wine/|title=Aligote, Burgundy's Other White Wine|date=2015-09-14|work=VinePair|access-date=2018-05-19|language=en-US}}</ref>, a [[white wine]] of [[Burgundy (region)|Burgundy]].  Now, various white wines are used throughout France, according to the region and the whim of the barkeeper. Many prefer a white [[Chardonnay]]-based [[Burgundy wine|Burgundy]], such as [[Chablis (wine)|Chablis]].
+
+It used to be called '''blanc-cassis''', but it is now named after [[Félix Kir]] (1876–1968), mayor of [[Dijon]] in Burgundy. Kir was a pioneer of the [[Town twinning|twinning]] movement in the aftermath of the [[Second World War]], and popularized the drink by offering it at receptions to visiting delegations.  Besides treating his international guests well, he was also promoting two economic products of the region.  Kir allowed one of Dijon's producers of crème de cassis to use his name, then extended the right to their competitors as well.  According to Rolland (2004),<ref>Rolland, J. L. (2004).  ''The Cook's Essential Kitchen Dictionary''. Robert Rose Inc.</ref> the reinvention of blanc-cassis (post 1945) was necessitated by the German Army's confiscation of all the local red Burgundy during the war. Faced with an excess of white wine, Kir renovated a drink that used to be made primarily with the red.
+
+Another explanation that has been offered is that Mayor Kir revived it during a year in which the ordinary white wine of the region was inferior and the creme de cassis helped to disguise the fact.
+
+Following the commercial development of crème de cassis in 1841, the cocktail became a popular regional café drink, but has since become inextricably linked internationally with the name of Mayor Kir.  When ordering a kir, waiters in France sometimes ask whether the customer wants it made with crème de cassis (blackcurrant), de mûre (blackberry), de pêche (peach), or framboise (raspberry).
+
+The [[International Bartenders Association]] gives a recipe using 1/10 crème de cassis, but French sources typically specify more; 19th-century recipes for blanc-cassis recommended 1/3 crème de cassis, which modern tastes find cloyingly sweet, and modern sources typically about 1/5.  Replacing the crème de cassis with blackcurrant syrup is discouraged.<ref>e.g. [http://ja6.free.fr/fichiers/f1928.htm Cuisine Collection]</ref>
+
+==Variations==
+Besides the basic Kir, a number of variations exist:
+
+* '''Cidre Royal''' - made with cider instead of wine, with a measure of [[Calvados (spirit)|calvados]] added
+* '''Communard/Cardinal''' - made with red wine instead of white
+* '''Hibiscus Royal''' - made with sparkling wine, peach liqueur, raspberry liqueur, and an edible hibiscus flower
+* '''Kir Berrichon''' - from the Berry region of France. Made with red wine and blackberry liqueur (Crème de mûre)
+* '''Kir Bianco''' - made with sweet white [[Vermouth]] instead of wine.
+* '''Kir Breton''' - made with [[Brittany|Breton]] cider instead of wine.
+* '''Kir Impérial''' - made with [[raspberry]] liqueur (such as [[Chambord (liqueur)|Chambord]]) instead of cassis, and champagne
+* '''Kir Normand''' - made with [[Normandy]] [[cider]] instead of wine.
+* '''Kir Pamplemousse''' - made with red grapefruit liqueur and sparkling white wine
+* '''Kir Pêche''' - made with peach liqueur
+* '''Kir Pétillant''' - made with sparkling wine
+* '''[[Kir Royal]]''' - made with [[Champagne (wine)|Champagne]]
+* '''Pink Russian''' - made with milk instead of wine
+* '''Tarantino''' - made with lager or light ale ("kir-beer")
+
+==References==
+{{reflist}}
+
+{{IBACocktails}}
+{{Wine cocktails}}
+{{Portal bar|Drink}}
+
+{{DEFAULTSORT:Kir (Cocktail)}}
+[[Category:Cocktails with wine]]
+[[Category:Cocktails with liqueur]]

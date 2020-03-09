@@ -1,0 +1,49 @@
+{{short description|American cocktail made with brandy and ginger ale}}
+{{Other uses|Horseneck (disambiguation){{!}}Horseneck}}
+{{Infobox cocktail
+| iba = yes
+| name = Horse's Neck
+| image =Horse's_Neck_cocktail.jpg
+| sourcelink = horses-neck
+| type = mixed
+| brandy = yes
+| drinkware = highball
+| served = rocks
+| garnish = Long spiral of [[lemon]] [[zest (ingredient)|zest]]
+| ingredients = * 4 cL (1 part) [[Brandy]]
+* 12 cL (3 parts) [[Ginger ale]]
+* Dash of [[Angostura bitter]] (optional)
+| prep = Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gently. Garnish with lemon zest. If desired, add dashes of Angostura Bitter.
+| footnote = IBA classifies this drink as a [[long drink]].
+}}
+
+A '''Horse's Neck''' is an American cocktail recognised by the [[IBA Official Cocktail|IBA]], identifiably sporting a long, curling strip of [[Lemon zest|lemon rind]].<ref>{{cite book|last1=Morgenthaler|first1=Jeffrey|title=The Bar Book: Elements of Cocktail Technique|date=June 3, 2014|publisher=Chronicle Books|isbn=1452130272}}</ref>
+
+==Mixture==
+It is made with [[brandy]] (or sometimes [[bourbon whiskey|bourbon]]) and [[ginger ale]], with a long spiral of [[lemon]] peel ([[Zest (ingredient)|zest]]) draped over the edge of an 'old-fashioned' or [[highball glass]]. When made with [[Ale-8-One]] and [[Maker's Mark]] this drink is commonly referred to as a '''Kentucky Gentleman'''.{{citation needed|date=December 2014}} A similar [[Canada|Canadian]] drink, the '''Rye & Ginger''', is made with [[Canadian whisky]] and [[ginger ale]].
+
+==History==
+Dating back to the 1890s, it was a non-alcoholic mixture of ginger ale, ice and lemon peel.<ref>{{cite book|last1=Felten|first1=Eric|title=How's Your Drink?: Cocktails, Culture, and the Art of Drinking Well|date=March 1, 2009|publisher=Agate Publishing|isbn=1572846127|page=88|url=https://books.google.com.au/books?id=ANSXqicDb4IC&dq=%22Horse%27s+Neck%22+drink&source=gbs_navlinks_s|accessdate=27 June 2017}}</ref> By the 1910s, [[brandy]], or [[Bourbon whiskey|bourbon]] would be added for a "Horse's Neck with a Kick" or a "Stiff Horse's Neck". The non-alcoholic version was still served in upstate [[New York (state)|New York]] in the late 1950s and early 60s, but eventually it was phased out.
+
+==Cultural impact==
+In the 1934 film ''[[The Captain Hates the Sea]]'', [[Alison Skipworth]]'s character craves a Horse's Neck, when [[Fred Keating]]'s character tries to stop her, she says, "...I'm a lone wolf and it's my night to howl" then tells the waiter "...be sure to add a big horse, Charley".
+
+In the 1935 [[musical film]], ''[[Top Hat (film)|Top Hat]]'', Madge ([[Helen Broderick]]) tries to order a drink in Italian but gives up and says "Horses Neck".
+
+In the 1935 film ''[[No Limit (1935 film)|No Limit]]'', starring [[George Formby]] as George Shuttleworth, George accidentally orders a Horse's Neck at the bar in the steam packet ferry en route to the [[Isle of Man]]. He originally tries to order a [[lemonade]] but becomes confused and begins to repeat the orders of other passengers in a bid to be noticed by the barman who is studiously ignoring George at the busy bar.
+
+The non-alcoholic version of the drink is referenced in at least two [[film noir]] movies from 1950: ''[[In a Lonely Place]]'' with Humphrey Bogart, in which [[Martha Stewart (actor)|Martha Stewart]]—playing the hat-check girl—states that adding a twist of lemon to [[ginger ale]] is called a "Horse's Neck;" and ''[[Outside the Wall (film)|Outside the Wall]]'', in which [[Dorothy Hart]] tells [[Richard Basehart]] the two ingredients that compose the cocktail.
+
+Horse's Neck became popular in the [[wardroom]]s of the [[Royal Navy]] in the 1960s, displacing [[Pink Gin]] as the officers' signature drink. An early reference to this is made in the 1957 film [[Yangtse Incident (1957 film)|''Yangtse Incident'']], in which a naval officer is shown drinking a Horse's Neck in 1949.  At naval [[cocktail party|cocktail parties]] (CTPs), it used to be served by the mess stewards ready-mixed in glass jugs, alongside similar jugs of mixed [[gin and tonic]], with the request "H-N or G&T, sir?"
+
+==See also==
+*[[List of cocktails]]
+*[[IBA Official Cocktail]]
+
+==Bibliography==
+{{Reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with bitters]]
+[[Category:Cocktails with brandy]]

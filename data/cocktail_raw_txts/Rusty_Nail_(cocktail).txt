@@ -1,0 +1,48 @@
+{{Infobox cocktail 
+| iba         = yes
+| name        = Rusty Nail
+| sourcelink = rusty-nail
+| image       = Rusty Nail a cocktail by @tokenchick13 (16503594826).jpg
+| caption     = 
+| type        = cocktail
+| flaming     = 
+| scotch = yes
+| drambuie = yes
+| served      = rocks
+| garnish     = Lemon twist
+| drinkware   = old
+| ingredients = *4.5 cl [[Scotch Whisky]]
+*2.5 cl [[Drambuie]]
+| prep        = Pour all ingredients directly into old-fashioned glass filled with ice. Stir gently. Garnish with a lemon twist. Serve.
+| timing      = After Dinner
+| notes       = 
+| footnotes   = 
+}}
+A '''Rusty Nail''' is made by mixing [[Drambuie]] and [[Scotch whisky]]. The drink was included in Difford's Guide '''Top 100 Cocktails'''.<ref>{{cite journal | title =Top 100 Cocktails | magazine =Difford's Guide| date =July 9, 2013| url =http://www.diffordsguide.com/magazine/2013-07-09/8/top-100| accessdate =December 3, 2013}}</ref>
+
+A Rusty Nail can be served in an [[old-fashioned glass]] on the rocks, neat, or "up" in a [[stemmed glass]]. It is most commonly served over ice. A Rusty Nail served without ice is sometimes called a '''Straight Up Nail'''.
+
+==Variations==
+Versions of the drink can be made using any aged spirit, though blended [[Scotch whisky]] is traditional.<ref>{{cite journal | title =Rusty Nail recipe | magazine =Drinks Mixer| url =http://www.drinksmixer.com/drink4306.html| accessdate =December 3, 2013}}</ref>
+
+Other variations include:
+* The '''Rusty Bob''', which substitutes [[Bourbon whisky]] for blended Scotch whisky
+* The '''Rusty Ale''', in which a shot of [[Drambuie]] is added to any beer, served without ice.
+* The '''Smoky Nail''', which uses [[Islay whisky]] (very smoky in flavor) in place of blended Scotch whisky.
+* The '''Clavo Ahumado''' (Spanish for "smoky nail"), using [[mezcal]] instead of blended Scotch whisky.<ref>{{cite episode | last =Caporale | first =Anthony| title =Tales of the Cocktail: Cocktails Made with Drambuie | series =Good Morning New Orleans| date =July 9, 2013| url =http://wgno.com/2013/07/19/clavo-ahumado/#axzz2ZVLSXrBY | accessdate =December 3, 2013}}</ref>
+* The '''Railroad Spike''', often served at brunch and made with approximately four parts [[Cold brewed coffee]] to one part Drambuie in a tall glass over ice.
+* The '''[[Donald Sutherland]]''', which substitutes [[rye whiskey|Canadian rye whisky]] for blended Scotch whisky.<ref>{{cite news| last =Hillibish| first =Jim| title =Highland fling: Drambuie isn't just for after dinner| newspaper =[[The Repository|Canton Repository]]| date =August 19, 2010| url =http://www.cantonrep.com/carousel/x179628616/Highland-fling-Drambuie-isnt-just-for-after-dinner| accessdate =November 25, 2012| deadurl =yes| archiveurl =https://archive.is/20130119031518/http://www.cantonrep.com/carousel/x179628616/Highland-fling-Drambuie-isnt-just-for-after-dinner| archivedate =January 19, 2013| df =}}</ref>
+
+==History==
+According to cocktail historian David Wondrich, "the Rusty Nail took a while to find its proper place in the world."  The combination of Drambuie—"the world's most distinguished Scotch-based liqueur"—and the whisky it is made from first appears in 1937 in the form of the B.I.F., credited to one F. Benniman and ostensibly named after the British Industries Fair.<ref name="auto">{{cite journal | last =Wondrich | first =David| title =Rusty Nail | magazine=[[Esquire (magazine)|Esquire]]| url =http://www.esquire.com/drinks/rusty-nail-drink-recipe| accessdate =December 3, 2013}}</ref> Wondrich goes on to note that "it took another generation or so for the drink to assume its classic name and form, during which time it tried on several identities. Here it's a D&S...there a Little Club No. 1 (the Little Club being a rather swank sort of joint on East Fifty-fifth Street much haunted by showbiz types); at USAF Officers' Clubs in Thailand and the Republic of Viet-Nam,{{sic}} it's a Mig-21, while in the upper Midwest it's a Knucklehead."<ref name="auto"/>
+
+The cocktail authority [[Dale DeGroff]] notes, "the Rusty Nail is often credited to the clever bartenders at the [[21 Club]] in Manhattan sometime in the early 1960s."<ref name="auto1">{{cite journal | last =Degroff | first =Dale| title =Behind the Bar: The Rusty Nail | magazine =Liquor.com| url =http://liquor.com/articles/behind-the-bar-the-rusty-nail/| accessdate =December 3, 2013}}</ref>  The cocktail's name was finally cemented in 1963, when Gina MacKinnon, the chairwoman of the Drambuie Liqueur Company, gave the Rusty Nail her endorsement in ''[[The New York Times]]''.<ref>{{cite journal | title =Rusty Nail | magazine =Liquor And Drink| url =http://www.liquoranddrink.com/drinks/199-rusty-nail| accessdate =December 3, 2013}}</ref>  DeGroff observes that in the early 1960s "the [[Rat Pack]] was enamored of the drink, which may have been responsible for the wide appeal in those years."<ref name="auto1"/>
+
+==References==
+{{reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with Scotch whisky]]
+[[Category:Cocktails with liqueur]]
+[[Category:Two-ingredient cocktails]]

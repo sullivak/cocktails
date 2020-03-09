@@ -1,0 +1,77 @@
+{{refimprove|date=November 2012}}
+{{Infobox cocktail
+| iba         = yes
+| source      = Cocktails
+| sourcelink  = b52
+| name        = B-52
+| image       = Cocktail B52.jpg
+| caption     = 
+| type        = layered
+| flaming     = 
+| coffee      = yes
+| irishc      = yes
+| orange      = yes
+| served      = straight
+| garnish     = Stirrer
+| drinkware   = shot
+| ingredients = *2 cl [[Kahlúa]]
+*2 cl [[Baileys Irish Cream]]
+*2 cl [[Grand Marnier]]
+| prep        = Layer ingredients into a shot glass.  Serve with a stirrer.
+| timing      = After Dinner
+| notes       = 
+| footnotes   = 
+}}
+The '''B-52''' (also '''B52''' or '''Bifi''' or '''Bifty''') [[cocktail]] is a [[Layered drink|layered]] [[Shooter (mixed drink)|shot]] composed of a [[coffee liqueur]] ([[Kahlúa]]), an [[Irish cream]] ([[Baileys Irish Cream]]), and a [[Grand Marnier]] (in later versions replaced with [[triple sec]] or [[Cointreau]]). When prepared properly, the ingredients separate into three distinctly visible layers (due to their [[Relative density|relative densities]]).
+
+==History==
+
+The origins of the B-52 are not well documented, but one claim is that the B-52 was invented by Peter Fich, a head bartender at the [[Banff Springs Hotel]] in Banff, Alberta. {{citation needed|date=August 2017}} Fich named all of his new drinks after favourite bands, albums and songs, and he named the drink after the [[The B-52's|band]] of the same name,{{citation needed|date=August 2017}} not directly after the US [[Boeing B-52 Stratofortress|B-52 Stratofortress]] bomber, (after which the band was named).
+
+One of Fich's first customers for a B-52 owned restaurants in various cities in Alberta and liked the drink so much that he put it on the menu, leading to the perception that the B-52 originated at the Keg Steakhouse in [[Calgary|Calgary, Alberta]] in 1977. <ref>{{cite book|last=Mulligan|first=Shawn M.|title=Mulligan's Bar Guide|year=2005|publisher=Harper Collins|isbn=0-00-200722-3}}</ref> The B-52 is also rumoured {{by whom?|date=August 2017}} to have been created by Adam Honigman, a bartender at New York City's [[Maxwell's Plum]].{{citation needed|date=August 2017}}
+
+===Variations===
+The B-52's widespread popularity has resulted in many variations, each earning a slightly different designation (see [[#Variations|variations]] below for a small sampling). Altogether, the drinks are referred to as the ''B-50 series'' of layered cocktails.
+
+The drink became a North London favourite in late 2009 when [[Arsenal F.C.|Arsenal]] striker [[Nicklas Bendtner]] changed his shirt number from 26 to 52, earning himself the nickname "B52" in the process.{{Citation needed|date=May 2010}}
+
+==Preparations==
+There are special machines that can prepare a B-52 (or other multi-layered cocktails) in only a few seconds.<ref>{{cite web|url=https://www.youtube.com/watch?v=kcxBLUDgfdc|title=The worlds only and sensationel stunning B52 machine from Austria.mpg|first=|last=mix2rentpyramid|date=21 November 2009|publisher=|via=YouTube}}</ref>  However, an experienced bartender usually relies on the traditional, hand-made preparation. This method of the preparation is called "building", as opposed to blending or shaking, thus, B-52s are "built."
+
+B-52s are usually served in a [[shot glass]] or [[Wine glass#Sherry glass|sherry glass]], although a heatproof glass is required when a "flaming B-52" is served. First, a coffee liqueur, such as [[Tia Maria]] or [[Kahlúa]], is poured into the glass. Next, [[Baileys Irish Cream]] is poured very slowly over the back of a cold [[bar spoon]], taking care to avoid disturbing the lower layer as the second liquor is poured on top. Just as carefully, [[Grand Marnier]] is poured atop the Irish Cream using the bar spoon.
+
+The drink is sometimes made with a [[cocktail shaker|shaker]] and served in a [[cocktail glass]], although this is less traditional.<ref>{{cite book |last=Regan |first=Gary |title=The Bartender's Bible |year=1991 |publisher=Harper Collins |location=New York |isbn=0-06-016722-X |page=249}}</ref>
+
+==Flaming B-52==
+[[File:Cocktail b52.jpg|right|100px|B52 with floated overproof rum]]
+For a '''Flaming B-52''', the top layer is ignited, producing a blue flame. Filling the glass to the top reduces the amount of glass exposed to the flames, making the glass less likely to break, but the drink is easier to spill. It is best to leave the flaming B-52 on the bartop and drink it through a straw. Once lit, the drink should be finished quickly to avoid overheating the glass and burning the straw. Unless the flame is extinguished before drinking, a fireproof straw—such as one made of metal—may be preferred. Safety precautions should always be used in consideration of both fire and broken glass.
+
+Triple Sec at room temperature will not ignite easily, so it should be warmed up beforehand or topped with a small layer of an overproof [[rum]] with 65-85% ABV such as [[Bacardi]] 151 or [[Stroh]] 160.  Such a preparation can be referred to as a "B-52 On a Mission".
+
+==Variant drinks==
+* '''B-51''', a B-52 with [[Frangelico]] hazelnut liqueur rather than Triple Sec.
+* '''B-52 with Bomb Bay Doors''', a B-52 with a 4th layer of Bombay [[gin]].
+* '''B-52 in the Desert''', or a '''B-52 with a Mexican Tailgunner''', a B-52 with [[tequila]] rather than Bailey's Irish cream.
+* '''B-52 with a Full Payload''', a B-52 with a 4th layer of Frangelico and a 5th layer of Bacardi 151 rum lit on fire.
+* '''B-53''', a B-52 with Sambuca rather than Irish cream.
+* '''B-54''', a B-52 with Amaretto almond liqueur in place of Triple Sec.
+* '''B-55''', a B-52 with [[absinthe]] rather than Triple Sec, also known as B-52 Gunship.
+* '''B-57''', a B-52 with peppermint schnapps rather than Irish cream.
+* '''B-156''', a B-52 but three times larger in an [[Old Fashioned glass]].
+
+==See also==
+* [[List of cocktails]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikibooks|Bartending/Cocktails|B-52}}
+*{{cite book|last=Cross|first=Robert|title=The Classic 1000 Cocktail Recipes|origyear=1996|year=2003|publisher=[[W. Foulsham & Company Limited|Foulsham]]|isbn=0-572-02852-0}}
+
+{{IBACocktails}}
+
+{{DEFAULTSORT:B-52 (Cocktail)}}
+[[Category:Cocktails with coffee liqueur]]
+[[Category:Cocktails with triple sec or curaçao]]
+[[Category:Shooters (drinks)]]

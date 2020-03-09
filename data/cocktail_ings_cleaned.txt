@@ -1,0 +1,397 @@
+###
+Spritz_Veneziano+Spritz Veneziano
+amt: 6,cl, ing: Prosecco,Prosecco
+amt: 4,cl, ing: Aperol,Aperol
+amt: 1,splash, ing: carbonated water,soda water
+###
+Godfather_(cocktail)+The Godfather
+amt: 3.5,cl, ing: Scotch whisky,Scotch whisky
+amt: 3.5,cl, ing: Amaretto,Amaretto
+###
+Fizz_(cocktail)#Ramos_gin_fizz+Ramos Gin Fizz
+amt: 4.5,cl, ing: Gin,Gin
+amt: 1.5,cl, ing: lime juice,lime juice
+amt: 1.5,cl, ing: lemon juice,lemon juice
+amt: 3,cl, ing: Syrup#simple_syrup,simple syrup
+amt: 6,cl, ing: cream,cream
+amt: 1,, ing: egg white,egg white
+amt: 3,dash, ing: orange flower water,orange flower water
+amt: 2,drops, ing: vanilla extract,vanilla extract
+amt: 1,some, ing: Carbonated water,soda water
+###
+Fizz_(cocktail)#Ramos_gin_fizz+Gin Fizz
+amt: 4.5,cl, ing: Gin,Gin
+amt: 3,cl, ing: lemon juice,lemon juice
+amt: 1,cl, ing: Syrup#Gomme syrup,Gomme syrup
+amt: 8,cl, ing: Carbonated water,soda water
+###
+Fizz_(cocktail)#Ramos_gin_fizz+Sloe gin fizz
+amt: 6,cl, ing: sloe gin,sloe gin
+amt: 3,cl, ing: grapefruit juice,grapefruit juice
+amt: 1,cl, ing: Syrup#simple_syrup,simple syrup
+amt: 8,cl, ing: Carbonated water,soda water
+amt: 1,, ing: egg white,egg white
+###
+Tommy's_Margarita+Tommy's Margarita
+amt: 4.5,cl, ing: Tequila,Tequila
+amt: 1.5,cl, ing: lime juice,lime juice
+amt: 2,bar spoons, ing: agave nectar,agave nectar
+###
+Screwdriver_(cocktail)+Screwdriver
+amt: 5,cl, ing: vodka,vodka
+amt: 10,cl, ing: orange juice,orange juice
+###
+Pisco_sour+Pisco Sour
+amt: 4.5,cl, ing: Pisco,Pisco
+amt: 3,cl, ing: lime juice,lime juice
+amt: 2,cl, ing: Syrup#simple_syrup,Simple syrup
+amt: 1,, ing: Egg white,Egg white
+###
+Piña_colada+Piña Colada
+amt: 3,cl, ing: Light rum,white rum
+amt: 9,cl, ing: pineapple juice,pineapple juice
+amt: 3,cl, ing: cream of coconut,cream of coconut
+###
+Black_Russian+Black Russian
+amt: 5,cl, ing: Vodka,Vodka
+amt: 2,cl, ing: List of liqueurs#Coffee liqueurs,Coffee liqueur
+###
+Martini_(cocktail)+Dry Martini
+amt: 6,cl, ing: gin,gin
+amt: 1,cl, ing: vermouth,vermouth
+###
+Monkey_Gland+Monkey Gland
+amt: 5,cl, ing: gin,gin
+amt: 3,cl, ing: orange juice,orange juice
+amt: 2,drops, ing: absinthe,absinthe
+amt: 2,drops, ing: grenadine,grenadine
+###
+Fizz_(cocktail)#Gin_fizz+Sloe gin fizz
+amt: 6,cl, ing: sloe gin,sloe gin
+amt: 3,cl, ing: grapefruit juice,grapefruit juice
+amt: 1,cl, ing: Syrup#simple_syrup,simple syrup
+amt: 8,cl, ing: Carbonated water,soda water
+amt: 1,, ing: egg white,egg white
+###
+French_Martini+French Martini
+amt: 4.5,cl, ing: vodka,vodka
+amt: 1.5,cl, ing: Chambord_(liqueur),Raspberry Liqueur
+amt: 1.5,cl, ing: pineapple juice,pineapple juice
+###
+Horse's_Neck+Horse's Neck
+amt: 4,cl, ing: Brandy,Brandy
+amt: 12,cl, ing: Ginger ale,Ginger ale
+amt: 1,dash, ing: Angostura bitters,Angostura bitters
+###
+Vesper_(cocktail)+Vesper
+amt: 6,cl, ing: gin,gin
+amt: 1.5,cl, ing: vodka,vodka
+amt: 0.75,cl, ing: Lillet,Lillet Blanc
+###
+Planter's_Punch+Planter's Punch
+amt: 4.5,cl, ing: rum,rum
+amt: 3.5,cl, ing: orange juice,orange juice
+amt: 3.5,cl, ing: pineapple juice,pineapple juice
+amt: 2,cl, ing: lemon juice,lemon juice
+amt: 1,cl, ing: Grenadine,Grenadine
+amt: 1,cl, ing: Syrup#simple_syrup,simple syrup
+amt: 3,dashes, ing: Angostura bitters,Angostura bitters
+###
+Sex_on_the_Beach+Sex on the Beach
+amt: 4,cl, ing: Vodka,Vodka
+amt: 2,cl, ing: schnapps,schnapps
+amt: 4,cl, ing: Orange juice,Orange juice
+amt: 4,cl, ing: Cranberry juice,Cranberry juice
+###
+Harvey_Wallbanger+Harvey Wallbanger
+amt: 4.5,cl, ing: Vodka,Vodka
+amt: 1.5,cl, ing: Galliano (liqueur),Galliano
+amt: 9,cl, ing: orange juice,orange juice
+###
+Alexander_(cocktail)+Alexander
+amt: 3,cl, ing: cognac,cognac
+amt: 3,cl, ing: crème de cacao,crème de cacao
+amt: 3,cl, ing: cream,cream
+###
+Between_the_Sheets_(cocktail)+Between the Sheets
+amt: 3,cl, ing: white rum,white rum
+amt: 3,cl, ing: cognac,cognac
+amt: 3,cl, ing: triple sec,triple sec
+amt: 2,cl, ing: lemon juice,lemon juice
+###
+Sazerac+Sazerac
+amt: 5,cl, ing: cognac,cognac
+amt: 1,cl, ing: absinthe,absinthe
+amt: 1,cube, ing: sugar,sugar
+amt: 2,dashes, ing: Peychaud's Bitters,Peychaud's Bitters
+###
+Mojito+Mojito
+amt: 4,cl, ing: white rum,white rum
+amt: 3,cl, ing: lime juice,lime juice
+amt: 6,sprigs, ing: Mentha,mint
+amt: 2,teaspoons, ing: sugar,sugar
+amt: 1,some, ing: Carbonated water,soda water
+###
+Mai_Tai+Mai Tai
+amt: 4,cl, ing: white rum,white rum
+amt: 2,cl, ing: rum,dark rum
+amt: 1.5,cl, ing: Curaçao (liqueur),curaçao
+amt: 1.5,cl, ing: orgeat syrup,orgeat syrup
+amt: 1,cl, ing: lime juice,lime juice
+###
+Kamikaze_(cocktail)+Kamikaze
+amt: 3,cl, ing: vodka,vodka
+amt: 3,cl, ing: triple sec,triple sec
+amt: 3,cl, ing: lime juice,lime juice
+###
+Cosmopolitan_(cocktail)+Cosmopolitan
+amt: 4,cl, ing: Vodka,Vodka
+amt: 1.5,cl, ing: Cointreau,Cointreau
+amt: 1.5,cl, ing: lime juice,lime juice
+amt: 3,cl, ing: Cranberry juice,Cranberry juice
+###
+Old_Fashioned+Old Fashioned
+amt: 45,ml, ing: Bourbon whiskey,Bourbon or rye whiskey
+amt: 2,dash, ing: Angostura bitters,Angostura bitters
+amt: 1,cube, ing: sugar,sugar
+amt: 3,dashes, ing: water,water
+###
+Clover_Club_Cocktail+Clover Club Cocktail
+amt: 4.5,cl, ing: Gin,Gin
+amt: 1.5,cl, ing: lemon juice,lemon juice
+amt: 1.5,cl, ing: Raspberry,raspberry syrup
+amt: 1,, ing: egg white,egg white
+###
+Yellow_Bird_(cocktail)+Yellow Bird
+amt: 3,cl, ing: White Rum,White Rum
+amt: 1.5,cl, ing: Galliano (liqueur),Galliano
+amt: 1.5,cl, ing: Triple sec,Triple sec
+amt: 1.5,cl, ing: Lime juice,Lime juice
+###
+Margarita+Margarita
+amt: 3.5,cl, ing: tequila,tequila
+amt: 2,cl, ing: Cointreau,Cointreau
+amt: 1.5,cl, ing: Lime juice,lime juice
+###
+Aviation_(cocktail)+Aviation
+amt: 45,ml, ing: gin,gin
+amt: 15,ml, ing: lemon juice,lemon juice
+amt: 15,ml, ing: maraschino,maraschino
+###
+Rusty_Nail_(cocktail)+Rusty Nail
+amt: 4.5,cl, ing: Scotch Whisky,Scotch Whisky
+amt: 2.5,cl, ing: Drambuie,Drambuie
+###
+Bloody_Mary_(cocktail)+Bloody Mary
+amt: 4.5,cl, ing: Vodka,Vodka
+amt: 9,cl, ing: Tomato juice,Tomato juice
+amt: 1.5,cl, ing: Lemon juice,Lemon juice
+amt: 3,dashes, ing: Worcestershire Sauce,Worcestershire Sauce
+amt: 1,some, ing: Tabasco sauce,Tabasco
+amt: 1,some, ing: Celery salt,Celery salt
+amt: 1,some, ing: Black Pepper,Pepper
+###
+Golden_dream_(cocktail)+Golden Dream
+amt: 2,cl, ing: Galliano (liqueur),Galliano
+amt: 2,cl, ing: Triple Sec,Triple Sec
+amt: 2,cl, ing: orange juice,orange juice
+amt: 1,cl, ing: cream,cream
+###
+Angel_Face_(cocktail)+Angel Face
+amt: 3,cl, ing: gin,gin
+amt: 3,cl, ing: Apricot brandy,Apricot brandy
+amt: 3,cl, ing: Calvados,Calvados
+###
+Sour_(cocktail)#White_Lady+Sours
+amt: 4,cl, ing: gin,gin
+amt: 3,cl, ing: triple sec,triple sec 
+amt: 2,cl, ing: lemon juice,lemon juice
+###
+Bramble_(cocktail)+Bramble
+amt: 4,cl, ing: gin,gin
+amt: 1.5,cl, ing: lemon juice,lemon juice
+amt: 1,cl, ing: Syrup#simple_syrup,simple syrup
+amt: 1.5,cl, ing: Crème liqueur,Creme de Mure (blackberry liqueur)
+###
+Fizz_(cocktail)#Gin_fizz+Ramos Gin Fizz
+amt: 4.5,cl, ing: Gin,Gin
+amt: 1.5,cl, ing: lime juice,lime juice
+amt: 1.5,cl, ing: lemon juice,lemon juice
+amt: 3,cl, ing: Syrup#simple_syrup,simple syrup
+amt: 6,cl, ing: cream,cream
+amt: 1,, ing: egg white,egg white
+amt: 3,dash, ing: orange flower water,orange flower water
+amt: 2,drops, ing: vanilla extract,vanilla extract
+amt: 1,some, ing: Carbonated water,soda water
+###
+Grasshopper_(cocktail)+Grasshopper
+amt: 3,cl, ing: Crème de menthe,Crème de menthe
+amt: 3,cl, ing: Chocolate_liqueur#Cr.C3.A8me_de_cacao,Crème de cacao
+amt: 3,cl, ing: cream,cream
+###
+Godfather_(cocktail)#Variations+The Godmother
+amt: 3.5,cl, ing: Vodka,Vodka
+amt: 3.5,cl, ing: Amaretto,Amaretto
+###
+Stinger_(cocktail)+Stinger
+amt: 5,cl, ing: cognac,cognac
+amt: 2,cl, ing: crème de menthe,crème de menthe
+###
+Bacardi_cocktail+Bacardi Cocktail
+amt: 4.5,cl, ing: white rum,white rum
+amt: 2,cl, ing: Lime juice,lime juice
+amt: 1,cl, ing: grenadine,grenadine
+###
+Caipirinha+Caipirinha
+amt: 5,cl, ing: cachaça,cachaça
+amt: 4,wedges, ing: lime fruit,lime
+amt: 2,teaspoons, ing: sugar,sugar
+###
+Hemingway_Special+Hemingway Special
+amt: 6,cl, ing: Rum,Rum
+amt: 4,cl, ing: grapefruit juice,grapefruit juice
+amt: 1.5,cl, ing: Maraschino,Maraschino liquer
+amt: 1.5,cl, ing: lime juice,lime juice
+###
+Rose_(cocktail)+Rose
+amt: 4,cl, ing: vermouth,vermouth
+amt: 2,cl, ing: Kirsch,Kirsch
+amt: 3,dashes, ing: Strawberry syrup,Strawberry syrup
+###
+Sidecar_(cocktail)+Sidecar
+amt: 5,cl, ing: cognac,cognac
+amt: 2,cl, ing: triple sec,triple sec
+amt: 2,cl, ing: lemon juice,lemon juice
+###
+Whiskey_sour+Whiskey Sour
+amt: 4.5,cl, ing: bourbon whiskey,bourbon whiskey
+amt: 3,cl, ing: lemon juice,lemon juice
+amt: 1.5,cl, ing: Gum syrup,Gomme syrup
+amt: 1,dash, ing: egg white,egg white
+###
+Godfather_(cocktail)+The Godmother
+amt: 3.5,cl, ing: Vodka,Vodka
+amt: 3.5,cl, ing: Amaretto,Amaretto
+###
+Fizz_(cocktail)#Gin_fizz+Gin Fizz
+amt: 4.5,cl, ing: Gin,Gin
+amt: 3,cl, ing: lemon juice,lemon juice
+amt: 1,cl, ing: Syrup#Gomme syrup,Gomme syrup
+amt: 8,cl, ing: Carbonated water,soda water
+###
+Barracuda_(cocktail)+Barracuda
+amt: 4.5,cl, ing: rum,rum
+amt: 1.5,cl, ing: Galliano (liqueur),Galliano
+amt: 6,cl, ing: Pineapple juice,Pineapple juice
+amt: 1,dash, ing: lime juice,lime juice
+amt: 1,some, ing: Prosecco,Prosecco
+###
+Tequila_Sunrise_(cocktail)+Tequila Sunrise
+amt: 4.5,cl, ing: Tequila,Tequila
+amt: 9,cl, ing: Orange juice,Orange juice
+amt: 1.5,cl, ing: Grenadine syrup,Grenadine syrup
+###
+Singapore_Sling+Singapore Sling
+amt: 3,cl, ing: Gin,Gin
+amt: 1.5,cl, ing: brandy,brandy
+amt: 0.75,cl, ing: Cointreau,Cointreau
+amt: 0.75,cl, ing: Bénédictine,Bénédictine
+amt: 1,cl, ing: Grenadine,Grenadine
+amt: 12,cl, ing: Pineapple juice,Pineapple juice
+amt: 1.5,cl, ing: lime juice,lime juice
+amt: 1,dash, ing: Angostura bitters,Angostura bitters
+###
+B-52_(cocktail)+B-52
+amt: 2,cl, ing: Kahlúa,Kahlúa
+amt: 2,cl, ing: Baileys Irish Cream,Baileys Irish Cream
+amt: 2,cl, ing: Grand Marnier,Grand Marnier
+###
+Mimosa_(cocktail)+Mimosa
+amt: 7.5,cl, ing: Champagne,champagne
+amt: 7.5,cl, ing: orange juice,orange juice
+###
+Vampiro_(cocktail)+Vampiro
+amt: 5,cl, ing: tequila,tequila
+amt: 7,cl, ing: tomato juice,tomato juice
+amt: 3,cl, ing: orange juice,orange juice
+amt: 1,cl, ing: lime juice,lime juice
+amt: 1,teaspoon, ing: honey,honey
+amt: 0.5,slice, ing: onion,onion finely chopped
+amt: 3,slices, ing: chili pepper,fresh red hot chili pepper
+amt: 3,drops, ing: Worcestershire Sauce,Worcestershire Sauce
+amt: 1,some, ing: Salt,Salt
+###
+Manhattan_(cocktail)+Manhattan
+amt: 5,cl, ing: Rye whiskey,Rye whiskey
+amt: 2,cl, ing: vermouth,sweet red vermouth
+amt: 1,dash, ing: Angostura bitters,Angostura bitters
+###
+Negroni+Negroni
+amt: 3,cl, ing: gin,gin
+amt: 3,cl, ing: vermouth,vermouth
+amt: 3,cl, ing: campari,campari
+###
+Porto_flip+Porto Flip
+amt: 1.5,cl, ing: brandy,brandy
+amt: 4.5,cl, ing: port wine,port
+amt: 1,cl, ing: egg yolk,egg yolk
+###
+John_Collins_(cocktail)+John Collins
+amt: 4.5,cl, ing: gin,gin
+amt: 3,cl, ing: lemon juice,lemon juice
+amt: 1.5,cl, ing: Syrup#simple_syrup,sugar syrup
+amt: 6,cl, ing: carbonated water,carbonated water
+###
+Paradise_(cocktail)+Paradise
+amt: 3.5,cl, ing: gin,gin
+amt: 2,cl, ing: brandy,brandy
+amt: 1.5,cl, ing: orange juice,orange juice
+###
+French_Connection_(cocktail)+French Connection
+amt: 3.5,cl, ing: Cognac (drink),Cognac
+amt: 3.5,cl, ing: Amaretto,Amaretto
+###
+Godfather_(cocktail)#Variations+The Godfather
+amt: 3.5,cl, ing: Scotch whisky,Scotch whisky
+amt: 3.5,cl, ing: Amaretto,Amaretto
+###
+Daiquiri+Daiquiri
+amt: 4.5,cl, ing: white rum,white rum
+amt: 2.5,cl, ing: lime juice,lime juice
+amt: 1.5,cl, ing: Syrup#simple_syrup,simple syrup
+###
+French_75_(cocktail)+French 75
+amt: 3,cl, ing: gin,gin
+amt: 2,dash, ing: Syrup#simple_syrup,simple syrup
+amt: 1.5,cl, ing: lemon juice,lemon juice
+amt: 6,cl, ing: Champagne,Champagne
+###
+Sour_(cocktail)#White_Lady+White Lady
+amt: 4,cl, ing: gin,gin
+amt: 3,cl, ing: triple sec,Triple Sec
+amt: 2,cl, ing: lemon juice,lemon juice
+###
+Kir_(cocktail)+Kir
+amt: 9,cl, ing: white wine,white wine
+amt: 1,cl, ing: crème de cassis,crème de cassis
+###
+Americano_(cocktail)+Americano
+amt: 3,cl, ing: Campari,Campari
+amt: 3,cl, ing: vermouth,vermouth
+amt: 1,splash, ing: carbonated water,soda water
+###
+Russian_Spring_Punch+Russian Spring Punch
+amt: 2.5,cl, ing: Vodka,Vodka
+amt: 1.5,cl, ing: Crème de cassis,Crème de cassis
+amt: 1,cl, ing: Syrup#simple_syrup,simple syrup
+amt: 2.5,cl, ing: lemon juice,Lemon Juice
+###
+Sea_Breeze_(cocktail)+Sea Breeze
+amt: 4,cl, ing: Vodka,Vodka
+amt: 12,cl, ing: Cranberry juice,Cranberry juice
+amt: 3,cl, ing: Grapefruit juice,Grapefruit juice
+###
+Bellini_(cocktail)+Bellini
+amt: 10,cl, ing: Prosecco,Prosecco
+amt: 5,cl, ing: peach,peach purée
+###

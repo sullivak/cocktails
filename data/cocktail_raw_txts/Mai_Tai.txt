@@ -1,0 +1,92 @@
+{{about|the cocktail|the pop-act|Mai Tai (band)|the pro wrestler|Afa Anoaʻi Jr.|the martial art|Muay Thai|the suburb of Nelson, New Zealand|Maitai, New Zealand}}
+{{Infobox cocktail
+|iba         =yes
+|name        =Mai Tai
+|image       =Trader Vic's 1944 Mai Tai.jpg
+|caption     =
+| sourcelink = mai-tai
+|type        =cocktail
+|flaming     =
+|rum =yes
+|served      =rocks
+|garnish     = spearmint leaves and [[Lime (fruit)|lime]] shell
+|drinkware   = old
+|ingredients =*4 cl [[white rum]]
+*2 cl [[rum|dark rum]]
+*1.5 cl orange [[Curaçao (liqueur)|curaçao]]
+*1.5 cl [[orgeat syrup]]
+*1 cl fresh [[lime juice]]
+|prep=Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.
+|notes       =
+|footnotes   =
+}}
+The '''Mai Tai''' is a [[cocktail]] based on [[rum]], [[Curaçao liqueur]], [[orgeat syrup]], and [[lime juice]], associated with Polynesian-style settings.
+
+==History==
+Victor J. Bergeron claimed to have invented the Mai Tai in 1944 at his restaurant, [[Trader Vic's]], in Oakland, California.<ref>"The Origin of the Mai Tai", [https://web.archive.org/web/20100104142639/http://www.tradervics.com/mai-tai-1.html], tradervics.com via archive.org</ref> Trader Vic's forerunner, [[Don the Beachcomber|Donn Beach]], claimed to have instead first created it in 1933, although a longtime colleague said that Beach was actually just alleging that the Mai Tai was based on his [[Q.B. Cooler]] cocktail.<ref name="add citation">{{cite web |title=Anatomy of a Classic: The Mai Tai Turns 75 |url=https://www.thedailybeast.com/anatomy-of-a-classic-the-mai-tai-turns-75 |website=thedailybeast.com |accessdate=25 February 2019}}</ref><ref>{{cite web |title=Mai Tai recipe history |url=https://www.eater.com/drinks/2016/11/10/13544698/mai-tai-recipe-history |website=eater.com |accessdate=25 February 2019}}</ref><ref>{{cite book |last1=Berry |first1=Jeff |title=Beachbum Berry Remixed |date=2010 |publisher=Slave Labor Graphics |location=San Jose |page=64}}</ref> Don the Beachcomber's recipe is more complex than that of Vic's and some believe tastes quite different.<ref>{{cite book |first=Charles A. |last=Coulombe |title=Rum: The Epic Story of the Drink That Conquered the World |publisher=Citadel Press |year=2005 |page=258}}</ref><ref>{{cite web |title=The Ultimate Mai Tai |url=https://www.mercurynews.com/2016/03/16/the-ultimate-mai-tai-in-both-hawaiian-and-trader-vics-styles/ |website=mercurynews.com |accessdate=25 February 2019}}</ref> Others believe that despite the difference in ingredients that they taste quite similar.<ref>{{cite book |last1=Berry |first1=Jeff |title=Beachbum Berry Remixed |date=2010 |publisher=Slave Labor Graphics |location=San Jose |page=69}}</ref><ref>{{cite web |title=The Mai Tai History |url=https://caskstrength.wordpress.com/2010/09/08/the-mai-tai-history-a-recipe-a-how-to-an-explanation-and-technique-followed-with-a-shopping-list/ |website=caskstrength.wordpress.com |accessdate=25 February 2019}}</ref>
+
+The name was allegedly taken from ''maita'i'', the [[Tahitian language|Tahitian]] word for "good" or "excellence", although the drink is usually spelled as two words, sometimes hyphenated or capitalized.<ref>''[[Oxford English Dictionary]]'', third edition, ''s.v.'' [http://dictionary.oed.com/cgi/entry/00299965 mai tai]</ref><ref>[http://www.webster.com/dictionary/maitai "maitai"], ''Merriam-Webster Online Dictionary''</ref>
+
+==Recipe==
+Most current recipes for Mai Tais based on Trader Vic's 1944 recipe include [[rum]], [[lime juice]], [[orgeat syrup]], and [[orange liqueur]] (typically [[orange curaçao]]). Variants may include the addition of [[falernum]], [[bitters]], [[grenadine]], orange and grapefruit juices, and so on. Various books from Victor Bergeron described using rum from Jamaica as well as from Martinique, which in modern usage is a Rhum Agricole. As noted in ''Smuggler's Cove'' by Martin Cate and Rebecca Cate, the Martinique rums used by Bergeron in the 1950s were most certainly not agricole rums.<ref> {{cite book |last=Cate |first=Martin |date=2016 |title=Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki |location=Berkeley, CA |publisher=[[Ten Speed Press]] |page=264 |isbn=978-1-60774-732-1}}</ref> Overproof rums are sometimes added to make stronger versions,<ref>{{cite web |title=Inside LA's Tiki Underground |url=https://punchdrink.com/articles/inside-las-tiki-underground/ |website=punchdrink.com |accessdate=2019-01-30|date=2014-05-21|author=Cacicio, Jennifer}}</ref> but Cate says references to such use as being from "the old way" was only because a 151 proof (75%) [[demerera]] float was the preferred variation of a frequent elderly customer.<ref>{{cite web |title=You deserve a real Mai-Tai |url=https://www.eater.com/drinks/2016/11/10/13544698/mai-tai-recipe-history |website=eater.com |accessdate=2019-01-30|date=2016-11-10|author=Pardilla, Caroline}}</ref>
+{| class="wikitable"
+|+
+!Name
+!Ingredients
+!Method
+!Glass
+!Garnish
+|-
+|Mai Tai
+|30 ml each Jamaican and Martinique Rums
+
+25 ml Fresh Lime Juice
+
+15 ml Orange Curaçao
+
+15 ml Orgeat
+
+3-4 Crushed Ice Cubes
+|Shaken
+|[[Old Fashioned glass|Rocks Glass]]
+|Spent lime shell and mint sprig
+|}
+{{Wikibooks|Bartending|Cocktails/Mai Tai|Mai Tai recipes}}
+
+==Culture==
+The Mai Tai became such a popular cocktail in the 1950s–60s that many restaurants, particularly [[Tiki culture|tiki-themed]] restaurants or bars, served them. The Mai Tai was also prominently featured in the [[Elvis Presley]] film ''[[Blue Hawaii]]''.
+
+Today, the Mai Tai is synonymous with [[Tiki culture]] both past and present.
+
+As of 2008, Trader Vic's Restaurant chain began to open small establishments called Mai Tai Bars that primarily serve cocktails and ''[[pupus]]'' (appetizers).
+
+==References==
+{{reflist}}
+
+==External links==
+<!--======================== {{No more links}} ============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia  |
+    | is not a collection of links nor should it be used for advertising. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+    ======================= {{No more links}} =============================-->
+{{Sisterlinks|Mai Tai}}
+* {{dmoz|Recreation/Food/Drink/Cocktails/|Mai Tai links}}
+* {{dmoz|Society/Subcultures/Lounge_Culture/Tiki/|Tiki culture}}
+* [http://www.smallscreennetwork.com/video/81 The Cocktail Spirit with Robert Hess] - Video demonstration for making a proper Mai Tai
+
+{{IBACocktails}}
+
+[[Category:Tiki drinks]]
+[[Category:Cocktails with fruit liqueur]]
+[[Category:Cocktails with rum]]
+[[Category:Cocktails with triple sec or curaçao]]
+[[Category:Cuisine of the Western United States]]
+[[Category:Hawaiian cuisine]]
+[[Category:Tiki culture]]

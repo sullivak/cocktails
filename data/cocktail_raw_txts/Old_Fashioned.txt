@@ -1,0 +1,136 @@
+{{About|the cocktail||Old-fashioned (disambiguation){{!}}Old-fashioned}}
+{{Infobox cocktail
+| iba         = yes
+| name        = Old Fashioned
+| sourcelink  = old-fashioned
+| image       = Whiskey Old Fashioned1.jpg
+| type        = cocktail
+| whiskey     = yes
+| served      = rocks
+| garnish     = [[Orange (fruit)|Orange]] twist or cocktail [[cherry]]
+| drinkware   = old
+| ingredients = *45 ml [[Bourbon whiskey|Bourbon]] or [[Rye whiskey]]
+* 2 dashes [[Angostura bitters]]
+* 1 [[sugar]] cube
+* Few dashes plain [[water]]
+| prep        = Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved. Fill the glass with ice cubes and add whiskey. Garnish with orange twist, and a cocktail cherry.
+| timing      = Before dinner
+}}
+The '''Old Fashioned''' is a [[cocktail]] made by [[muddling]] sugar with [[bitters]], then adding alcohol, popularly [[whiskey]] but sometimes [[brandy]] and finally a twist of citrus rind. It is traditionally served in a short, round, [[Whiskey tumbler|tumbler]]-like glass, which is called an [[Old Fashioned glass]], after the drink.
+
+The Old Fashioned, developed during the 19th century and given its name in the 1880s, is an [[IBA Official Cocktail]].<ref name="IBA-wcc">{{cite web|url=http://www.iba-world.com/index.php?option=com_content&id=202|title=Old Fashioned|work=[[International Bartenders Association]]|accessdate=17 February 2013}}</ref> It is also one of six basic drinks listed in [[David A. Embury]]'s ''[[The Fine Art of Mixing Drinks]]''.
+
+==History==
+The first documented definition of the word "cocktail" was in response to a reader's letter asking to define the word in the May 6, 1806, issue of ''The Balance and Columbian Repository'' in [[Hudson, New York]]. In the May 13, 1806 issue, the paper's editor wrote that it was a potent concoction of spirits, bitters, water, and sugar; it was also referred to at the time as a bittered sling.<ref>{{Cite article
+  | title =  A Beginners Guide to Bourbon
+  | publisher = Bourbon Culture
+  | url = http://thebourbonculture.com/whiskey-info/are-you-a-fan-of-bourbon-check-out-these-tips
+  | accessdate = March 7, 2019}}
+</ref><ref>{{OED|Cocktail}}</ref>
+J.E. Alexander describes the cocktail similarly in 1833, as he encountered it in New York City, as being rum, gin, or brandy, significant water, bitters, and sugar, though he includes a nutmeg garnish as well.<ref>{{cite book
+|title=Transatlantic Sketches, comprising visits to the most interesting scenes in North and South America, and the West Indies, Volume II
+|first=J.E.
+|last=Alexander
+|year=1833
+}}</ref>
+
+By the 1860s, it was common for [[orange curaçao]], [[absinthe]], and other [[liqueur]]s to be added to the cocktail. The original concoction, albeit in different proportions, came back into vogue, and was referred to as "old-fashioned".<ref>{{cite news |last= |first= |date=February 15, 1880 |title=THE DEMOCRACY IN TROUBLE |url=https://pqasb.pqarchiver.com/chicagotribune/doc/172179593.html?FMT=ABS&FMTS=ABS:AI&type=historic&date=Feb+15%2C+1880&author=&pub=Chicago+Daily+Tribune+%281872-1922%29&edition=&startpage=&desc=THE+DEMOCRACY+IN+TROUBLE. |newspaper=[[The Chicago Daily Tribune]] |location=[[Chicago, Illinois]] |publisher= |pages=4 |accessdate=January 9, 2014}}</ref><ref name="Wondrich =2007">{{cite book|title=Imbibe!|first=David|last=Wondrich|year=2007}}</ref> The most popular of the in-vogue "old-fashioned" cocktails were made with whiskey, according to a Chicago barman, quoted in the ''[[Chicago Daily Tribune]]'' in 1882, with rye being more popular than Bourbon. The recipe he describes is a similar combination of spirits, bitters, water and sugar of seventy-six years earlier.<ref name="Wondrich =2007" />
+
+The first use of the name "Old Fashioned" for a [[Bourbon whiskey]] cocktail was said to have been at the [[Pendennis Club]], a gentlemen's club founded in 1881 in [[Louisville, Kentucky]]. The recipe was said to have been invented by a bartender at that club in honor of Colonel [[James E. Pepper]], a prominent bourbon distiller, who brought it to the [[Waldorf-Astoria Hotel]] bar in [[New York City]].<ref>{{cite book
+|title=The Old Waldorf-Astoria Bar Book
+|first=Albert Stevens
+|last=Crockett
+|year=1935
+}}</ref>
+
+With its conception rooted in the city's history, in 2015 the city of Louisville named the Old Fashioned as its official cocktail. Each year, during the first two weeks of June, Louisville celebrates "Old Fashioned Fortnight" which encompasses bourbon events, cocktail specials and National Bourbon Day which is always celebrated on June 14.<ref>http://www.gotolouisville.com/culinary/the-scene/regional-foods/old-fashioned/</ref>
+
+==Recipe==
+George Kappeler provides several of the earliest published recipes for Old Fashioned cocktails in his 1895 book. Recipes are given for Whiskey, Brandy, Holland gin, and Old Tom gin. The Whiskey Old Fashioned recipe specifies the following (with a jigger being {{convert|2|USfloz}}):<ref name="Kappeler 1895">{{cite book
+|title=Modern American Drinks: How to Mix and Serve All Kinds of Cups and Drinks
+|author=Kappeler
+|year=1895
+|page=19, footnote
+}}</ref>
+
+{{poemquote|Old Fashioned Whiskey Cocktail
+Dissolve a small lump of sugar with a little water in a whiskey-glass;
+add two dashes [[Angostura bitters]],
+a small piece of ice, a piece of lemon-peel,
+:one [[Jigger (unit)|jigger]] whiskey.
+Mix with small bar-spoon and serve, leaving spoon in glass.<ref name="Kappeler 1895" />}}
+
+By the 1860s, as illustrated by [[Jerry Thomas (bartender)|Jerry Thomas]]' 1862 book, basic cocktail recipes included Curaçao, or other liqueurs. These liqueurs were not mentioned in the early 19th century descriptions, nor the ''Chicago Daily Tribune'' descriptions of the "Old Fashioned" cocktails of the early 1880s; they were absent from Kappeler's Old Fashioned recipes as well. The differences of the Old Fashioned cocktail recipes from the cocktail recipes of the late 19th Century are mainly preparation method, the use of sugar and water in lieu of simple or gomme syrup, and the absence of additional liqueurs. These Old Fashioned cocktail recipes are literally for cocktails done the old-fashioned way.<ref name="Wondrich =2007" />
+
+{{poemquote|Gin Cocktail
+Use small bar glass
+3 or 4 dashes of gum syrup
+2 do [dashes] bitters Bogart's
+1 wine glass of gin
+1 or 2 dashes of Curaçao
+1 small piece lemon peel
+fill one third full of fine ice shake well and strain in a glass<ref>{{cite book|title=How to mix drinks: or, The bon-vivant's companion ...|author=Thomas|year=1862}}</ref>}}
+
+{{poemquote|Old Fashioned Holland Gin Cocktail
+Crush a small lump of sugar in a whiskey glass containing a little water,
+add a lump of ice,
+two dashes of Angostura bitters,
+a small piece of lemon peel,
+one jigger Holland gin.
+Mix with small bar spoon.
+Serve.<ref name="Kappeler 1895" />}}
+
+A book by David Embury published in 1948 provides a slight variation,<ref>{{cite book
+|title=The Fine Art of Mixing Drinks
+|author=Embury
+|year=1948
+}}</ref> specifying 12 parts American whiskey, 1 part simple syrup, 1-3 dashes Angostura bitters, a twist of lemon peel over the top, and serve garnished with the lemon peel.
+
+Two additional recipes from the 1900s vary in the precise ingredients, but omit the cherry which was introduced after 1930 as well as the soda water which the occasional recipe calls for. Orange bitters were a popular ingredient in the late 19th century.<ref>"After 184 Years, Angostura Visits the Orange Grove", ''[[Saveur]]'', by [[Robert Simonson]], December 8, 2008. [http://www.saveur.com/article/Wine-and-Drink/After-184-Years-Angostura-Visits-the-Orange-Grove]</ref>
+
+==Modifications==
+The original Old Fashioned recipe would have showcased the whiskey available in America in the 19th century: Irish, Bourbon or [[rye whiskey]].<ref name="DIY">{{cite book|title = DIY Cocktails: A Simple Guide to Creating Your Own Signature Drinks | author = Marcia Simmons | publisher = Adams Media | date = 2011-04-18}}</ref> But in some regions, especially [[Wisconsin]], [[brandy]] is substituted for whiskey (sometimes called a Brandy Old Fashioned).<ref>Checchini, Toby, "[http://tmagazine.blogs.nytimes.com/2009/09/22/case-study-the-old-fashioned-wisconsin-style/ Case Study: The Old-Fashioned, Wisconsin Style]", ''New York Times Style Magazine'', September 22, 2009.</ref><ref>{{cite magazine|last=Byrne |first=Mark |url=https://www.gq.com/news-politics/politics/201202/russ-feingold-interview-politics-presidential-election-2012 |title=Russ Feingold Interview on the Presidential Election 2012: Politics |magazine=GQ |date=2012-02-21 |accessdate=2012-08-20}}</ref><ref>{{Cite web|url=http://www.jsonline.com/story/news/2016/08/07/sip-wisconsin-old-fashioned-contest/88375630/|title=A sip of Wisconsin: Old-fashioned contest|last=Jones|first=Meg|date=August 8, 2016|website=[[Milwaukee Journal Sentinel]]|publisher=|access-date=August 8, 2016}}</ref> Eventually the use of other spirits became common, such as a gin recipe becoming popularized in the late 1940s.<ref name="DIY" />
+
+Common garnishes for an Old Fashioned include an orange slice or a [[maraschino cherry]] or both,<ref name="DIY" /> although these modifications came around 1930, some time after the original recipe was invented.<ref name="boston">{{cite book | title = Mr. Boston Official Bartender's Guide | author = Anthony Giglio, Mr. Boston | publisher = John Wiley & Sons | date = 2008-11-10 }}</ref> While some recipes began making sparse use of the orange zest for flavor, the practice of muddling orange and other fruit gained prevalence as late as the 1990s.<ref name="boston" />
+
+Some modern variants have greatly sweetened the Old Fashioned, e.g. by adding [[blood orange soda]] to make a Fizzy Old Fashioned, or muddled strawberries to make a strawberry old fashioned.<ref>https://thewoodenskillet.com/strawberry-old-fashioned/</ref>
+
+==Cultural impact==
+
+The Old Fashioned is the cocktail of choice of [[Don Draper]], the lead character on the ''[[Mad Men]]'' television series, set in the 1960s.<ref name=NP>{{cite web|work=[[National Post]]|title=Happy Hour: Ryan Gosling and the lure of the old-fashioned|first=Adam|last=McDowell|date=March 11, 2012|url=http://life.nationalpost.com/2012/03/11/happy-hour-ryan-gosling-and-the-lure-of-the-old-fashioned/|deadurl=yes|archiveurl=https://archive.today/20150104061116/http://life.nationalpost.com/2012/03/11/happy-hour-ryan-gosling-and-the-lure-of-the-old-fashioned/|archivedate=January 4, 2015|df=}}</ref> The use of the drink in the series coincided with a renewed interest in this and other classic cocktails in the 2000s.<ref name=MadMen>{{cite news |url=https://www.nytimes.com/2012/03/21/dining/the-old-fashioned-don-drapers-cocktail-of-choice.html |title=Old-Fashioned or Newfangled, the Old-Fashioned Is Back |work=[[The New York Times]] |date=March 20, 2012}}</ref>
+
+In the movie ''[[It's a Mad, Mad, Mad, Mad World]]'' (1963), pilot Tyler Fitzgerald ([[Jim Backus]]) directs passenger Dingy Bell ([[Mickey Rooney]]) to the aircraft's bar to "make us some Old Fashioneds."  Annoyed by suggestions that he should limit drinking while piloting an airplane, and finding Bell's Old Fashioneds too sweet, Fitzgerald turns the controls over to Bell's sidekick Benjy Benjamin ([[Buddy Hackett]]) and retires to the back of the plane to "make some Old Fashioneds the Old Fashioned way, the way dear old dad used to."  When Benjamin asks what if something happens, Fitzgerald replies, "What could happen to an Old Fashioned?"
+
+In the television series ''[[M*A*S*H]]'', character Margaret Houlihan frequently orders an Old Fashioned, "without the fruit", while in the Officers Club.
+
+In the television series ''[[Grey's Anatomy]]'', in the fourth episode of the ninth season, Dr. Christina Yang and Dr. Thomas order two Old Fashioned in a bar after duty hours at The Clinic.
+
+In the movie ''[[Crazy, Stupid, Love]]'', the Old Fashioned is the preferred cocktail of pickup artist Jacob Palmer, and he is shown drinking it both in the bar and at home.
+
+==See also==
+{{portal|Liquor}}
+* [[List of cocktails]]
+* [[Cuisine of Kentucky]]
+* [[History of Louisville, Kentucky]]
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+* {{cite web|url=http://proof.blogs.nytimes.com/2009/01/11/for-a-good-old-fashioned-inquire-within/ |title=Are You Friends, After an Old Fashioned?|first=Paul |last=Clarke |work= [[The New York Times]] |date=11 January 2009 |accessdate=8 November 2011}} - discusses internet forum debates among "home cocktail enthusiasts," using the Old Fashioned as a focal point.
+* {{cite web| url=http://www.thedailypage.com/going-out/eats/news/managedit.php?intEatsNewsID=390 |title=The brandy old-fashioned: Solving the mystery behind Wisconsin's real state drink| first= Jerry |last=Minnich |work=The Daily Page |location=Madison, Wisconsin |archiveurl=https://web.archive.org/web/20050610075029/http://www.thedailypage.com/going-out/eats/news/managedit.php?intEatsNewsID=390 |archivedate=10 June 2005 |accessdate=8 November 2011}}
+* {{cite web|url=http://www.slate.com/articles/life/drink/2011/11/the_old_fashioned_a_complete_history_and_guide_to_this_classic_c.html |title=The Old-Fashioned |first=Troy |last=Patterson |work=[[Slate (magazine)|Slate]] |date=3 November 2011 |accessdate=8 November 2011}}
+* {{cite book|title=The Old Fashioned: An Essential Guide to the Original Whiskey Cocktail|author=Schmid, Albert W. A.|publisher=University Press of Kentucky|year=2012|ISBN=978-0-8131-4173-2}}
+* {{cite book|title=The Old-Fashioned: The Story of the World's First Classic Cocktail, with Recipes and Lore|author=Simonson, Robert|publisher=Ten Speed Press|year=2014|ISBN=978-1607745358}}
+
+==External links==
+* [http://www.esquire.com/drinks/old-fashioned-drink-recipe Old Fashioned recipe, esquire.com]
+* [https://uk.thebar.com/recipe/old-fashioned-bulleit-bourbon Old Fashioned with Bourbon, thebar.com]
+
+{{IBACocktails}}
+
+[[Category:Cocktails with whisky]]
+[[Category:Cocktails with bitters]]
+[[Category:Cuisine of Louisville, Kentucky]]
+[[Category:History of Louisville, Kentucky]]
+[[Category:Ancestral cocktails]]

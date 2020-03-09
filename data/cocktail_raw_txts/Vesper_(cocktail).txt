@@ -1,0 +1,96 @@
+{{short description|Cocktail originally made of gin, vodka, and Kina Lillet}}
+{{Infobox cocktail
+| iba = yes
+| name = Vesper
+| sourcelink = vesper
+| image = Gordon's Vesper.jpeg
+| size=300 px
+| caption = '''Vesper'''
+| type = cocktail
+| flaming =
+| gin = yes
+| served = straight
+| garnish = [[lemon twist]]
+| drinkware = cocktail
+| ingredients = *6 cl [[gin]]
+* 1.5 cl [[vodka]]
+* 0.75 cl [[Lillet|Lillet Blanc]]
+| prep = Shake and strain into a chilled cocktail glass. Add the garnish.
+| timing      = Before dinner
+| notes =
+| footnotes = [[Cocktail glass]]es are commonly used instead of Champagne goblets in modern versions of this drink. Lillet Blanc should be substituted with Cocchi Americano for a closer approximation of the original cocktail.
+}}
+
+The '''Vesper''' or '''Vesper Martini''' is a [[cocktail]] that was originally made of [[Gordon's Gin|gin]], [[vodka]], and [[Lillet|Kina Lillet]]. The formulations of its ingredients have changed since its original publication in print, and so some modern bartenders have created new versions which attempt to more closely mimic the original taste.
+
+==Origin==
+The drink was invented and named by [[Ian Fleming]] in the 1953 [[James Bond (character)|James Bond]] novel ''[[Casino Royale (novel)|Casino Royale]]''.
+
+:''"A dry martini,"'' [Bond] said. ''"One. In a deep champagne goblet."''
+
+:''"Oui, monsieur."''
+
+:''"Just a moment. Three measures of [[Gordon's Gin|Gordon's]], one of [[vodka]], half a measure of [[Lillet|Kina Lillet]]. Shake it very well until it's ice-cold, then add a large thin slice of lemon peel. Got it?"''
+
+:''"Certainly, monsieur."'' The barman seemed pleased with the idea.
+
+:''"Gosh, that's certainly a drink,"'' said Leiter.
+
+:Bond laughed. ''"When I'm...er...concentrating,"'' he explained, ''"I never have more than one drink before dinner. But I do like that one to be large and very strong and very cold and very well-made. I hate small portions of anything, particularly when they taste bad. This drink's my own invention. I'm going to patent it when I can think of a good name."''
+
+:—Ian Fleming, ''Casino Royale'', Chapter 7, "Rouge et Noir'
+
+Fleming continues with Bond telling the barman, after taking a long sip, "Excellent ... but if you can get a vodka made with grain instead of potatoes, you will find it still better," and then adds in an aside, "''Mais n'enculons pas des mouches''"<ref>{{cite book | last = Fleming | first = Ian | authorlink = Ian Fleming | coauthors = | year = 1953 | title = [[Casino Royale (novel)|Casino Royale]] | publisher = [[Glidrose Productions]] | location = | isbn = 0-14-200202-X | page = 45}}</ref> ({{lang-en|But let's not bugger flies}}—a vulgar French expression meaning "let's not split hairs").
+
+Bond in the next chapter, "Pink Lights and Champagne", names it the ''Vesper''. At the time of his first introduction to the beautiful [[Vesper Lynd]], he obtains her name in a perfect ''interrogation indirecte'', "I was born in the evening,..on a very stormy evening..," and asks to borrow it.
+
+A ''Vesper'' differs from Bond's usual cocktail of choice, the [[martini (cocktail)|martini]], in that it uses both gin and vodka, Kina Lillet instead of the usual dry vermouth, and a lemon peel instead of an [[olive]]. Although there is a lot of discussion on the Vesper, it is only ordered by Bond once throughout Fleming's novels – although Bond drinks the ''Vesper'' in the film ''[[Casino Royale (1967 film)|Casino Royale]]'' – and by later books Bond is ordering regular [[vodka martini]]s, though he also drinks regular gin martinis. [[Felix Leiter]] ordered a Vesper for Bond in the novel ''[[Diamonds Are Forever (novel)|Diamonds Are Forever]]'', albeit with [[Cresta Blanca Winery|Cresta Blanca]] in place of Kina Lillet, which Bond politely remarks is the "Best Vermouth I ever tasted."<ref>{{cite book | last = Fleming | first = Ian | authorlink = Ian Fleming | coauthors = | year = 1956 | title = [[Diamonds Are Forever (novel)|Diamonds Are Forever]] | publisher = [[Amazon Publishing|Thomas & Mercer]] | location = | isbn = 9781612185460 | page = 71}}</ref> It may be that Fleming decided not to have Bond order a Vesper again due to the way in which ''Casino Royale'' ends.
+
+In actuality, the book version of the ''Vesper'' was created by Fleming's friend Ivar Bryce. In Bryce's copy of ''Casino Royale'' Fleming inscribed "For Ivar, who mixed the first  ''Vesper'' and said the good word."  In his book ''You Only Live Once'', Bryce details that Fleming was first served a ''Vesper'', a drink of a frozen rum concoction with fruit and herbs, at evening drinks by the butler of an elderly couple in Jamaica, the Duncans, the butler commenting, "'Vespers' are served."  [[Vespers]] or evensong is the sixth of the seven [[canonical hours]] of the divine office and are observed at sunset, the 'violet hour', Bond's later chosen hour of fame for his martini ''Vesper''.<ref>{{cite book | last = Bryce | first = Ivar | authorlink = Ivar Bryce | coauthors = | year = 1975 | title = You Only Live Once - Memories of Ian Fleming (Biography) | publisher = [[Weidenfeld and Nicolson Productions]] | location = | isbn = 0-297-77022-5 | page = 106}}</ref>
+
+However, the cocktail has been misrecorded after mishearing the name in several instances, resulting in its being alternatively named 'Vespa'.<ref>{{Cite news|url=https://www.thetimes.co.uk/article/pre-made-cocktails-the-bartenders-secret-5p2mncbb6cr|title=Pre made cocktails: the bartender's secret|access-date=2017-04-10|language=en|url-access=registration }}</ref>
+
+==Contemporary versions==
+Since Kina Lillet was discontinued in 1986 and the proof of Gordon's Gin was cut in 1992, the original recipe can no longer be made exactly. Substitutes can be made that attempt to recapture the original flavour of the drink:
+*[[Lillet|Lillet Blanc]] is still available, but Kina Lillet additionally included quinine (hence its name).<ref name="sfc">{{cite web|url=http://summerfruitcup.wordpress.com/2010/07/04/the-vesper/ |title=The Vesper }}</ref><ref>{{cite book | last = Embury | first = David | authorlink = David A. Embury | coauthors = | year = 1948 | title = The Fine Art of Mixing Drinks | publisher = [[Doubleday (publisher)|Doubleday]] | location = | isbn =  | page =}}</ref> [[Cocchi Americano]] can be used as a substitute to recreate the original recipe,<ref>{{Cite web|url = https://www.telegraph.co.uk/foodanddrink/recipes/11273408/How-to-make-James-Bonds-martini-but-limit-yourself-to-one.html|title =How to make a James Bond martini|date = 19 June 2015|author=Leah Hyslop|accessdate = |website = |publisher =The Telegraph |last = |first = }}</ref> which has a more bitter finish than using Lillet Blanc.<ref name=serious>Serious Eats, [http://www.seriouseats.com/recipes/2011/02/vesper-cocktail-gin-vodka-lillet-cocchi-aperitivo-americano-cocktail-recipe.html The Vesper Cocktail Recipe]</ref>
+* For a more traditional flavour, 50% (100-proof) vodka is used to bring the alcohol content of the vodka back to 1953 levels, with grain vodka being preferred.<ref>{{Cite web|url=https://summerfruitcup.wordpress.com/2010/07/04/the-vesper/|title=The Vesper|last=DTS|date=2010-07-04|website=Summer Fruit Cup|access-date=2017-04-10}}</ref>
+* [[Tanqueray]], [[Bombay Sapphire]], American [[Beefeater Gin|Beefeater]], or [[Broker's gin|Broker's]] gin provides the traditional flavour of 47% (94 proof) gin, whereas [[Gordon's]] Gin, in the UK domestic market, has been cut to 37.5% (75 proof); in spite of this, a 47.3% (94.6 proof) export version of Gordon's Gin still exists today.<ref name="sfc" /> (The extra dilution caused by shaking is the reason to prefer it over stirring in this high-alcohol drink.)
+
+''Esquire'' printed the following update of the recipe in 2006:
+
+<blockquote>Shake (if you must) with plenty of cracked ice. 3 oz Tanqueray gin, 1 oz 100-proof [50%] Stolichnaya vodka, {{frac|1|2}} oz Lillet Blanc, {{frac|1|8}} teaspoon (or less) quinine powder or, in desperation, 2 dashes of bitters. Strain into a chilled cocktail glass and twist a large swatch of thin-cut lemon peel over the top.
+</blockquote>
+
+The recipe concluded, "Shoot somebody evil."<ref>David Wondrich, "James Bond Walks Into a Bar...," ''Esquire'', 1 November 2006.</ref>
+
+==See also==
+{{portal|Liquor}}
+
+{{div col|colwidth=20em}}
+* [[Martini (cocktail)|Martini]]
+* [[Outline of James Bond]]
+* [[Bronx (cocktail)|Bronx]]
+* [[Gibson (cocktail)|Gibson]]
+* [[List of cocktails]]
+* [[List of martini variations]]
+* [[Martini (vermouth)]]
+* [[Martini & Rossi]]
+* [[Three-martini lunch]]
+* [[Dryness (taste)]]
+{{div col end}}
+
+==References==
+{{reflist}}
+
+==External links==
+* Wondrich, David. [http://www.esquire.com/food-drink/bars/a204/esq1106drinks-84/ "James Bond Walks Into A Bar... and orders a Vesper, a cocktail that hasn't aged too well. Here, a remake."] [[Esquire magazine]]. Retrieved March 1, 2016.
+* [http://www.time.com/time/arts/article/0,8599,1858088,00.html "Shaken and Stirred, James Bond Loves His Booze"] [[TIME magazine]]. Retrieved November 12, 2008.
+
+
+{{JamesBond}}
+{{IBACocktails}}
+
+[[Category:James Bond]]
+[[Category:Cocktails with gin]]
+[[Category:Cocktails with vodka]]
+[[Category:Cocktails with vermouth]]

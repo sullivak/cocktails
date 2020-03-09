@@ -1,0 +1,36 @@
+{{for|a similarly named sauce|Monkey gland sauce}}
+{{Infobox cocktail
+| iba         = yes
+| image       = Monkey Gland (11677703163).jpg
+| source      = 
+| sourcelink = monkey-gland
+| name        = Monkey Gland
+| type        = cocktail
+| gin         = yes
+| garnish     = 
+| drinkware   = cocktail
+| served      = straight
+| ingredients = * 5cl [[gin]]
+* 3cl [[orange juice]]
+* 2 drops [[absinthe]]
+* 2 drops [[grenadine]]
+| prep = Shake well over ice cubes in a [[cocktail shaker|shaker]], strain into a chilled cocktail glass.
+| timing      = All Day
+}}
+
+The '''Monkey Gland''' is a [[cocktail]] of [[gin]], [[orange juice]], [[grenadine]] and [[absinthe]]  created in the 1920s by [[Harry MacElhone]], owner of [[Harry's New York Bar]] in [[Paris, France]].<ref name="fieldguide">Rob Chirico, ''Field Guide to Cocktails'' p. 189, 2005 by Quirk Productions. {{ISBN|1-59474-063-1}}</ref> 
+
+It is  named after the pseudo-scientific idea that grafting [[monkey]] [[testicle]] tissue into humans would increase [[longevity]], the idea developed by the Russian doctor [[Serge Voronoff]].<ref>Hirst, Christopher. (October 8, 2005) [[The Independent]] ''101 cocktails that shook the world #37: The Monkey Gland.'' Section: Features; Page 57.</ref>  
+
+==References==
+{{Reflist}}
+
+
+{{IBACocktails}}
+
+{{DEFAULTSORT:Monkey Gland, The}}
+[[Category:Cocktails with gin]]
+[[Category:Cocktails with absinthe]]
+
+
+{{mixed-drink-stub}}

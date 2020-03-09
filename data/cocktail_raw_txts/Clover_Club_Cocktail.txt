@@ -1,0 +1,57 @@
+{{Infobox cocktail 
+| iba         = yes
+| source     = 
+| sourcelink = clover-club
+| name        = Clover Club Cocktail
+| image       = Cloverclub.jpg
+| caption     = A Clover Club Cocktail made with Gin, Lemon Juice, and Grenadine.
+| type        = cocktail
+| gin         = yes
+| served      = straight
+| garnish     = 
+| drinkware   = cocktail
+| ingredients = *4.5cl [[Gin]]
+*1.5cl [[lemon juice]]
+*1.5cl [[Raspberry|raspberry syrup]]
+*1 [[egg white]]
+| prep        = Dry shake ingredients to emulsify, add ice, shake and served straight up.
+| timing      = All Day
+| notes       = 
+| footnotes   = 
+}}
+
+The '''Clover Club Cocktail''' is a cocktail consisting of [[gin]], [[lemon juice]], raspberry syrup, and an [[egg white]].  The egg white is not added for the purpose of giving the drink flavor, but rather acts as an emulsifier.  Thus when the drink is shaken a characteristic foamy head is formed. 
+
+== History and character ==
+The Clover Club Cocktail is a drink that pre-dates [[Prohibition in the United States|Prohibition]] in the United States, and is named for the Philadelphia men's club of the same name, which met in [[the Bellevue-Stratford Hotel]] on South Broad Street. The Clover Club itself dates to 1896, as seen in the 1897 book, ''The Clover Club of Philadelphia'', page 172 by Mary R. Deacon. Brooklyn's Clover Club restaurant claims that the Philadelphia men's club dates to 1882 and lasted until "the 1920s."<ref>[http://www.cloverclubny.com/history/ Clover Club Restaurant, New York: History] {{webarchive|url=https://web.archive.org/web/20141211041416/http://www.cloverclubny.com/history/ |date=2014-12-11 }}</ref>  
+
+Published recipes for the Clover Club drink appear as early as 1917:
+
+''The Ideal Bartender'' (1917) by Thomas Bullock, page 27:
+"Fill large Bar glass full Fine Ice. 2 pony Raspberry Syrup. 2 jigger Dry Gin. 1 jigger French Vermouth. White of 1 Egg. Shake well; strain into Cocktail glass and serve."
+
+''Mrs. Norton's Cook-book: Selecting, Cooking, and Serving for the Home Table'' (1917) by Jeanette Young Norton, page 512:
+"Clover Club: The juice of half a lemon, a sixth jigger of grenadine, one jigger of gin, French vermouth."
+
+Robert Hess claims<ref name="thespiritworld.net">Robert Hess, The Spirit World, "Clover Club Cocktail" April 2007.(http://thespiritworld.net/2007/04/09/the-clover-club-cocktail/)</ref>  "It has a long history dating back to at least 1910, and was enjoyed by the captains of industry who were members of the famous club."<ref>Paystyle, Unimart, "Happy Hour: Clover Club Cocktail (The Remixes)" April 2009.(http://www.umamimart.com/2009/04/happy-hour-clover-club-cocktail-the-remixes/)</ref>  In its heyday, the drink was described by Jack Townsend as being enjoyed by the pre-prohibition gentleman who would have fit in with those of the club, and was a "Distinguished patron of the oak-paneled lounge."<ref name="cocktailchronicles.com">Paul Clarke, The Cocktail Chronicles, "A Change in Fortune." March 2006.(http://www.cocktailchronicles.com/2006/03/22/a-change-in-fortune/)</ref>  However, by the time that Townsend was writing about the drink it was becoming unpopular, and was eventually all but forgotten.<ref name="cocktailchronicles.com"/> The drink seems to have been forgotten partly due to the use of raw egg in the cocktail, which many people shy away from, and partly due to the complexity of its preparation (see below).<ref name="agrandioseblog.com">A Grandiose Blog: Cocktails, Gadgets & More, "The Clover Club Cocktail Recipe Blog Love Mixology Mondays XVII" July 2007.(http://www.agrandioseblog.com/drink/mixology-mondays-xvii-blog-love-the-clover-club {{Webarchive|url=https://web.archive.org/web/20091123105538/http://www.agrandioseblog.com/drink/mixology-mondays-xvii-blog-love-the-clover-club |date=2009-11-23 }})</ref>  Despite the use of what some may consider to be strange ingredients the cocktail is enjoyable, and has been described as tart with the added syrup giving the drink complexity, and the egg white providing body as well as a foamy head.<ref name="thespiritworld.net"/><ref name="underhill-lounge.flannestad.com">Underhill-Lounge, "Clover Club Cocktail" July 2008.({{cite web |url=http://underhill-lounge.flannestad.com/2008/07/14/clover-club-cocktail/ |title=Archived copy |accessdate=2009-11-27 |deadurl=yes |archiveurl=https://web.archive.org/web/20080829134820/http://underhill-lounge.flannestad.com/2008/07/14/clover-club-cocktail/ |archivedate=2008-08-29 |df= }})</ref>
+
+== Preparation and variations ==
+[[File:Clover Club.jpg|thumb|A Clover Club cocktail served at Rye in [[San Francisco]]]]
+The drink can be a complex one to make due to the extra steps involved to get the head of foam on top of the drink.  Several sources recommend that the drink be "dry shaken" (shaken without ice) with one source suggesting this be done for at least a minute.<ref name="agrandioseblog.com"/><ref name="underhill-lounge.flannestad.com"/>  At this point Ice should be added to the shaker to chill and dilute the drink. As of December 2014, Brooklyn's Clover Club restaurant used a traditional recipe of gin, dry vermouth, lemon, raspberry and egg white.<ref>[http://www.cloverclubny.com/cocktails/ Clover Club Restaurant, New York: Cocktails] {{webarchive|url=https://web.archive.org/web/20141227101222/http://www.cloverclubny.com/cocktails/ |date=2014-12-27 }}</ref>  
+
+There are several variations of this drink with the most common replacing the raspberry syrup with [[grenadine]] or [[Redcurrant sauce|red currant syrup]].<ref name="underhill-lounge.flannestad.com"/>
+
+== Cultural Impact ==
+A [[Vocaloid]] producer by the name of "Yuuyu-P"  has a song featuring [[Hatsune Miku]] named after this cocktail, "Clover Club", in which she describes the recipe.
+
+== See also ==
+*[[Pink lady (cocktail)]]
+
+== References ==
+{{reflist}}
+
+{{IBA Official Cocktails}}
+
+[[Category:Cocktails with gin]]
+
+[[de:Clover Club]]

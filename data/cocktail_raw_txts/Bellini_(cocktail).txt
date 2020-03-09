@@ -1,0 +1,53 @@
+{{Infobox cocktail
+| iba         = yes
+| sourcelink     = bellini
+| name        = Bellini
+| type        = wine
+| image       = Bellini Cipriani, Macaroni Grill, Dunwoody GA.jpg
+| caption     = Bellini Cipriani
+| flaming     = 
+| other       = Prosecco
+| served      = straight
+| garnish     = 
+| drinkware   = flute
+| ingredients = * 10 cl (2 parts) [[Prosecco]]
+* 5 cl (1 part) fresh [[peach]] [[purée]]
+| prep        = Pour peach purée into chilled glass, add sparkling wine. Stir gently.
+| notes       = Traditionally a Bellini uses white peaches for the fruit.
+| footnotes   = 
+}}
+
+A '''Bellini''' is a [[cocktail]] made with [[Prosecco]] and [[peach]] [[purée]] or [[nectar (drink)|nectar]]. It originated in [[Venice]], Italy.
+
+==History==
+The Bellini was invented sometime between 1934 and 1948<ref name="3000 Cocktails">{{cite web | url = http://www.thatsthespirit.com/en/drinks/articles/Bellini.asp | title = 3000 Drinks > Bellini | date= n.d.| publisher=ThatsTheSpirit.com | accessdate= February 5, 2007 | archivedate= July 23, 2012 | archiveurl = https://web.archive.org/web/20120723052350/http://www.thatsthespirit.com/en/drinks/articles/Bellini.asp}}</ref><ref name="BBC Recipe">Jo' Pratt. [http://www.bbc.co.uk/food/recipes/database/bellinicocktail_67941.shtml Food – Recipes – Bellini cocktail]. Undated. bbc.co.uk. Retrieved February 5, 2007.</ref><ref name="GourmetSleuth">[http://www.gourmetsleuth.com/bellinirecipe.htm Bellini Cocktail Recipe]. Undated. GourmetSleuth.com. Retrieved February 5, 2007.</ref> by [[Cipriani S.A.|Giuseppe Cipriani]], founder of [[Harry's Bar (Venice)|Harry's Bar]] in Venice, Italy. He named the drink the Bellini because its unique pink color reminded him of the toga of a saint in a painting by 15th-century Venetian artist [[Giovanni Bellini]].<ref name="Fabulous Foods">Sicard, Cheri. [http://www.fabulousfoods.com/features/cocktails/bellinis.html Featured Cocktail – Bellini] {{webarchive |url=https://web.archive.org/web/20070218102512/http://www.fabulousfoods.com/features/cocktails/bellinis.html |date=February 18, 2007 }}. Undated. Fabulous Foods. Retrieved February 5, 2007.</ref>
+
+The drink started as a seasonal specialty at Harry's Bar.<ref name="Fabulous Foods" /> Later, it also became popular at the bar's New York counterpart. After an entrepreneurial Frenchman set up a business to ship fresh white peach purée to both locations, it became a year-round favorite.<ref name="3000 Cocktails" />
+
+The Bellini is an [[IBA Official Cocktail]]. They also suggest a Puccini, replacing the peach purée with an equal amount of [[mandarin orange|mandarin]] juice; a [[Rossini (cocktail)|Rossini]], which uses [[strawberry]] purée; or a Tintoretto, which is made with [[pomegranate]] juice.
+
+==Preparation and serving==
+The Bellini consists of puréed white peaches and [[Prosecco]], an Italian [[sparkling wine]]. Marinating fresh peaches in wine is an Italian tradition.<ref name="3000 Cocktails" /> The original recipe was made with a bit of raspberry or [[cherry juice]] to give the drink a pink glow.<ref name="GourmetSleuth"/> Due in part to the limited availability of both white peaches and Prosecco, several variations exist.
+
+California produces a white peach that works well,<ref name="California">[http://www.eatcaliforniafruit.com/freshipes/newsletters/03_2006_12.htm Featured Recipe: Peach Bellini Cocktail or Mocktail]. Undated. ''Freshipes''. California Tree Fruit Agreement. Retrieved February 5, 2007.</ref> and yellow peaches or peach nectar can be substituted, especially if peaches are out of season and the flavor would be very bland. Other fruits or even flavoured [[liqueur]]s (peach [[schnapps]], for example) are sometimes substituted for the peach purée.
+
+The Cipriani family produces Bellini Base for the signature cocktail of the Harry's Bar restaurants.<ref>{{cite web|title=Civilization in a Glass.|url=http://www.newyorkfirst.com/gifts/m077.html|website=NewYorkFirst.com|accessdate=27 June 2017|archiveurl=https://web.archive.org/web/20100419212716/http://www.newyorkfirst.com/gifts/m077.html|archivedate=April 19, 2010}}</ref>
+
+Other sparkling wines are commonly used in place of Prosecco, though richly flavored French champagne does not pair well with the light, fruity flavor of the Bellini. For a non-alcoholic version, sparkling juice or [[Carbonated water|seltzer]] is used in place of the wine.<ref name="Food Network">Chiarello, Michael. [http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_31038,00.html Bellini Cocktail], from the "Lazy Breakfast in Bed" episode of ''Easy Entertaining with Michael Chiarello''. Scripps Networks, Inc. Retrieved February 5, 2007.</ref>
+
+==Similar cocktails==
+The [[Cuba]]n Adalor cocktail is a drink calling for fresh peach smashed with a fork and topped with Champagne. It was published in a Cuban drink guide book in 1927.<ref>{{cite web |title=Cuba’s Overlooked Role in Cocktail History |url=https://punchdrink.com/articles/cuban-cocktails-history-and-recipes-little-known-contributions-to-cocktail-culture/ |website=punchdrink.com |accessdate=4 March 2019}}</ref> The Adalor cup is a similar punch drink made with "melocoton" from the 1930 book ''Manual Oficial'' of the Club De Cantineros from Cuba.<ref>{{cite book |title=MANUAL OFICIAL|date=1930 |page=76 |url=https://euvs-vintage-cocktail-books.cld.bz/1930-Club-de-Cantineros-de-la-Republica-de-Cuba-Manual-Oficial/22/}}</ref> Melocoton is a peach grafted on a quince rootstock.
+
+==See also==
+* [[Italian cuisine]]
+* [[List of cocktails]]
+
+==References==
+{{Reflist}}
+
+
+{{IBACocktails}}
+{{Wine cocktails}}
+
+[[Category:Cocktails with wine]]
+[[Category:Italian alcoholic drinks]]

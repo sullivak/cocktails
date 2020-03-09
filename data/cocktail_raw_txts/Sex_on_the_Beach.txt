@@ -1,0 +1,67 @@
+{{About|the cocktail|the song by T-Spoon|Sex on the Beach (song)}}
+{{refimprove|date=April 2013}}
+__NOTOC__
+{{Infobox cocktail
+| iba         = yes
+| source      = iba
+| sourcelink  = sex-on-the-beach
+| name        = Sex on the Beach
+| image       = Sex On The Beach.jpg
+| caption     = Sex on the Beach
+| type        = cocktail
+| flaming     = Jamaican Rum
+| vodka       = yes
+| served      = rocks
+| garnish     = [[Orange (fruit)|orange]] slice
+| drinkware   = highball
+| ingredients = * 4 cl [[Vodka]]
+* 2 cl Peach [[schnapps]]
+* 4 cl [[Orange juice]]
+* 4 cl [[Cranberry juice]]
+| prep        = Build all ingredients in a highball glass filled with ice. Garnish with orange slice.
+| notes       =
+| footnotes   = 
+}}
+
+A '''Sex on the Beach''' is an [[Liquor|alcoholic]] [[cocktail]] containing vodka, peach schnapps, orange juice and cranberry juice. The cocktail is usually consumed during summer months. It is an [[International Bartenders Association|IBA]] Official Cocktail.
+
+There are several stories claiming to describe the origin of the Sex on the Beach. One claims that the cocktail originated in [[Florida, USA]] in the spring of 1987 coinciding with the introduction of peach schnapps. A bartender at Confetti's Bar devised the drink and gave it the name in a nod to the many tourists visiting Florida's beaches each spring.<ref>{{cite web|title=The Origins of the Sex on the Beach|url=http://www.sexonthebeach.com/beach/index.php/origins|accessdate=29 November 2017}}</ref> Technically the drink is a mix of a Cape Cod (vodka and cranberry juice) and a [[Fuzzy Navel]] (peach schnapps and orange juice) and hence gives another clue as to the origin of the name.
+
+==General types==
+There are two general types of the cocktail:
+
+* The first type is made from [[vodka]], [[Schnapps#American|peach schnapps]], [[orange juice]], and [[cranberry juice]]. This is an [[International Bartenders Association]] [[IBA Official Cocktail|Official Cocktail]].
+* The second type is made from [[vodka]], [[Chambord Black Raspberry Liqueur|Chambord]], [[Midori Melon Liqueur]], [[pineapple juice]], and [[cranberry juice]]. This type is listed in the ''[[Old Mr. Boston|Mr. Boston Official Bartender's Guide]].''<ref>{{cite book |title=Mr. Boston Official Bartender's Guide |edition=67th |first= |authorlink= |coauthors= |year=2008 |publisher=Wiley |location=Hoboken, New Jersey |isbn=978-0-470-39065-8 |page= |pages= |url= |accessdate=}}</ref>
+
+The drink is built over ice in a [[highball glass]] and garnished with an orange slice.<ref>{{cite web|url=http://iba-world.com/cocktails/sex-on-the-beach/ |title=Sex on the Beach |publisher=International Bartenders Association|accessdate=2017-10-24}}</ref> Sometimes they are mixed in smaller amounts and served as a [[Shooter (beverage)|shooter]].
+
+==Variations==
+Several variations are sometimes referred to by the same name:
+
+* [[Hard Rock Cafe]]'s recipe is based on the second form, calling for vodka, [[Midori (liqueur)|Midori]], Chambord, lemon juice, [[pineapple juice]] and sugar syrup, shaken and strained over ice into a [[Collins glass]].
+* Other variations use both orange juice and pineapple juice.
+* Coconut rum is often substituted for the vodka.
+* [[Grenadine]] is sometimes used in place of cranberry juice, especially in locales where cranberry juice is hard to come by.
+* [[Amaretto]] is sometimes added for extra flavor.
+* Sex on the Beach is often made as a shooter by using half vodka, half peach schnapps and a bit of grenadine.
+* Yet another variation of the basic Vodka, peach schnapps, orange juice, & cranberry juice recipe is the addition of apple schnapps. This recipe can be served as either a cocktail or a shooter.
+
+Some derivative variations have their own names:
+
+* "Sex on Fire" is Sex on the Beach with [[Fireball Cinnamon Whisky]] in place of the vodka.{{Citation needed|date=April 2013}}
+* A "sex in the driveway" is a sex on the beach with orange juice and cranberry juice replaced with [[blue curaçao]] and [[Sprite (soda)|Sprite]].<ref>https://mixthatdrink.com/sex-in-the-driveway/</ref>
+* A "[[Woo Woo (cocktail)|Woo Woo]]" is Sex on the Beach without orange juice.<ref>{{cite book|page=52|title=Cocktails, Cocktails, and More Cocktails|author=Kester Thompson|year=2011|isbn=978-1-60734-423-0}}</ref>
+* The alcohol-free variation is sometimes referred to as "Safe Sex on the Beach," "Cuddles on the Beach," or "Virgins on the Beach".<ref>{{cite book|page=534|title=1000 Best Bartender Recipes|author=Suzi Parker|year=2005|isbn=978-1-4022-0547-7}}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+{{Commonscategory|Sex on the beach (cocktail)}}
+* [http://iba-world.com/cocktails/sex-on-the-beach/ IBA official cocktail recipe]
+
+{{IBACocktails}}
+
+{{DEFAULTSORT:Sex On The Beach}}
+[[Category:Cocktails with fruit liqueur]]
+[[Category:Cocktails with vodka]]

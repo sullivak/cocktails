@@ -1,0 +1,134 @@
+{{other uses}}
+{{Infobox cocktail
+| iba         = yes
+| sourcelink  = margarita
+| name        = Margarita
+| image       = MargaritaReal.jpg
+| origin      = [[Mexico]]
+| caption     =
+| type        = cocktail 
+| tequila     = yes
+| served      = rocks
+| garnish     = [[Salt]] on the rim
+| drinkware   = margarita
+| ingredients = *3.5 cL (7 parts) [[tequila]]
+*2 cL (4 parts) [[Cointreau]]
+*1.5 cL (3 parts) [[Lime juice|lime]] juice
+| prep        = Pour all ingredients into shaker with ice. Shake well and strain into cocktail glass rimmed with salt.
+| timing      = All Day
+| notes       =
+| footnotes   =
+}}
+
+A '''margarita''' is a [[cocktail]] consisting of [[tequila]], [[orange liqueur]], and [[lime juice]] often served with [[salt]] on the rim of the glass. The drink is served shaken with ice (on the rocks), blended with ice (frozen margarita), or without ice (straight up). Although it has become acceptable to serve a margarita in a wide variety of glass types, ranging from [[cocktail glass|cocktail]] and [[wine glass]]es to [[pint glass]]es and even large [[Schooner (glass)|schooner]]s, the drink is traditionally served in the eponymous margarita glass, a stepped-diameter variant of a cocktail glass or [[champagne coupe]].
+
+==Origin==
+According to cocktail historian David Wondrich, the margarita is merely a popular Mexican and American drink, the [[Brandy Daisy|Daisy]] (''margarita'' is Spanish for "daisy"), remade with tequila instead of brandy, which became popular during [[Prohibition in the United States|Prohibition]] as people drifted over the border for alcohol. There is an account from 1936 of Iowa newspaper editor James Graham finding such a cocktail in Tijuana, years before any of the other margarita "creation myths".<ref>{{cite web |url=http://liquor.com/liquor/articles/behind-the-drink-the-margarita/ |title=Behind the Drink: The Margarita |author=David Wondrich |date=5 May 2010 |publisher=Liquor.com |accessdate=30 June 2011}}</ref>
+
+1937 [[Cafe Royal Cocktail Book]] contains a recipe for a Picador using the same concentrations of tequila, triple sec and lime juice as a margarita.<ref>{{cite book|url=https://books.google.co.uk/books?id=SV5YryuX3_EC&pg=PA276&dq=Cafe+Royal+cocktail+book|title=Cocktails: Over 2250 Cocktails|first=Simon|last=Difford|p=276|publisher=Diffords Guide|year=2008|isbn=978-0-955-62760-6}}</ref> One of the earliest stories is of the margarita being invented in 1938 by Carlos "Danny" Herrera at his restaurant Rancho La Gloria, halfway between [[Tijuana]] and [[Rosarito]], [[Baja California]], created for customer and former [[Ziegfeld Follies|Ziegfeld]] dancer Marjorie King, who was allergic to many spirits, but not to tequila.<ref>{{cite news |url=http://www.signonsandiego.com/uniontrib/20060709/news_1m9marg.html |title=I'll Have a Mystery on the Rocks with Salt |author=Michael Stetz |date=9 July 2006 |newspaper=San Diego Union-Tribune |accessdate=30 June 2011}}</ref><ref>Paul Chavez, [http://articles.latimes.com/1992-05-14/local/me-2749_1_danny-herrera "Danny Herrera, Inventor of Margarita, Dies at Age 90,]" ''[[Los Angeles Times]]'', May 14, 1992.</ref> This story was related by Herrera and also by bartender Albert Hernandez, acknowledged for popularizing a margarita in San Diego after 1947, at the La Plaza restaurant in La Jolla.<ref name=SDUTObit>{{cite news |url=http://www.signonsandiego.com/uniontrib/20060504/news_1m4hernandez.html |title=Obituary - Albert Hernandez Sr.; Margarita Pioneer, Restaurateur |author=Jack Williams |date=4 May 2006 |newspaper=San Diego Union-Tribune |accessdate=30 June 2011}}</ref>
+
+There are also claims that the margarita was first mixed in [[Ciudad Juárez|Juárez]], [[Chihuahua (state)|Chihuahua]] at Tommy's Place Bar on July 4, 1942 by Francisco "Pancho" Morales. Morales later left bartending in Mexico to become a US citizen, where he worked as a milkman for 25 years. Mexico's official news agency Notimex and many experts have said Morales has the strongest claim to having invented the margarita.<ref>[http://articles.latimes.com/1997-01-08/local/me-16509_1_francisco-morales "Francisco Morales; Credited With Inventing Margarita,"] ''Los Angeles Times'', January 8, 1997.</ref>
+
+Others say the inventor was Dallas socialite Margarita Sames, when she concocted the drink for her guests at her [[Acapulco]], [[Guerrero]] vacation home in 1948. Tommy Hilton reportedly attended, bringing the drink back to the [[Hilton Hotels|Hilton]] chain of hotels. However, [[Jose Cuervo]] was already running ad campaigns for the margarita three years earlier, in 1945, with the slogan, "Margarita: It's more than a girl's name." According to Jose Cuervo, the cocktail was invented in 1938 by a bartender in honor of Mexican showgirl Rita de la Rosa.<ref>Lisa Bramen, [http://www.smithsonianmag.com/arts-culture/the-history-of-the-margarita-57990212/?no-ist "The History of the Margarita"], ''[[Smithsonian (magazine)|Smithsonian]]'', May 5, 2009.</ref><ref>Stacy Finz, [http://www.sfgate.com/wine/article/Mastering-the-margarita-Tequila-aside-even-3203631.php#page-3 "Mastering the margarita: Tequila aside, even experts can't agree on what goes into the legendary cocktail"], ''[[San Francisco Chronicle]]'', July 25, 2008.</ref>
+
+[[File:Balinese-room.jpg|thumb|right|The Balinese Room]]
+Another common origin tale begins the cocktail's history at the legendary [[Balinese Room]] in Galveston, Texas where, in 1948, head bartender Santos Cruz created the margarita for singer [[Peggy Lee|Peggy (Margaret) Lee]]. He supposedly named it after the Spanish version of her name, Margarita.<ref>Rosenberg Library Museum [http://rosenberg-library-museum.org/displays/balinese/balinese.htm "Lost Treasure:  The Balinese Room" ''Balinese Room. ''] {{Webarchive|url=https://web.archive.org/web/20120425080503/http://rosenberg-library-museum.org/displays/balinese/balinese.htm |date=2012-04-25 }}.</ref>
+
+The first known publication of a margarita recipe was in the December 1953 issue of ''[[Esquire (magazine)|Esquire]]'', with a recipe calling for an ounce of tequila, a dash of triple sec and the juice of half a lime or lemon. A recipe for a tequila-based cocktail first appeared in the 1930 book ''My New Cocktail Book'' by G.F. Steele. Without noting a specific recipe or inventor, a drink called the Tequila Daisy was mentioned in the ''[[Syracuse Herald]]'' as early as 1936. Margarita is Spanish for Daisy, which is a nickname for Margaret.<ref>[http://imbibe.com/feature/once-upon-time-in-mexico/7589 "Once upon a time in Mexico"], ''Imbibe'', March/April 2010.</ref>
+
+A later, certainly false, story is that the margarita was invented in October 1961, at a party in Houston, Texas, by party goer Robert James "Rusty" Thomson while acting as bartender. He concocted a mixture of equal parts tequila, [[Controy]] orange liqueur, lime, and crushed ice in a salt-rimmed glass.<ref name="bookgloria">{{cite book |last=de Mancillas |first=Gloria |title=Seminario de Historia de Baja California |year=1992 |publisher=Instituto de Investigaciones Historicas UABC}}</ref><ref>{{cite book |last=Hazard |first=Ann |title=Agave Sunsets, Treasured Tales of Baja |year=1992 |publisher=Renegade Enterprises, pp 157-160}}</ref><ref>{{cite book |last=Lieber|first=Sara |title=MTV Best of Mexico|year=2007 |publisher=Wiley Publishing, Inc., p 349}}</ref> However, Thomson's recipe was made with Damiana Liqueur, not Cointreau orange liqueur. It is said that the idea was an experiment after running out of rum while making frozen daiquiris.
+
+==Variations==
+[[File:Memorial Day margaritas.jpg|thumb|Margaritas come in a variety of flavors and colors.]]
+The [[International Bartenders Association|IBA]] ([[IBA Official Cocktail|IBA Official list of Cocktails]]) standard is 7:4:3, that is, 50% tequila, 29% Cointreau, 21% fresh lime juice.<ref name=IBA_recipe>{{cite web|title=MARGARITA: All Day Cocktail |url=http://iba-world.com/cocktails/margarita/ |publisher=[[International Bartenders Association]]|accessdate=September 8, 2017}}</ref>
+
+The "Original Margarita" recipe as given by Cointreau on their website has slightly less of their own sweet liqueur: 1 part white tequila, {{frac|1|2}} part Cointreau, and {{frac|1|2}} part fresh squeezed lime juice.<ref name="Cointreau Priginal Margarita Recipe">{{cite web|title=The Original Margarita |url=http://www.cointreau.com/us/en/cocktails/the-original-margarita?type=109&id=724|publisher=Cointreau|accessdate=17 September 2016}}<br/>{{cite book|author=Al Lucero|title=The Great Margarita Book: A Handbook with Recipes|url=https://books.google.com/books?id=1v9HqBfrcHUC&pg=PA23|date=25 July 2012|publisher=Potter/Ten Speed/Harmony/Rodale|isbn=978-0-307-81626-9|page=23}}</ref>
+
+===Flavored liqueurs===
+Besides [[Cointreau]], other orange-flavored [[liqueur]]s that might be used include [[Grand Marnier]] (yielding the "Cadillac Margarita"), Gran Gala, other brands of [[triple sec]], or [[curaçao (liqueur)|blue curaçao]] (yielding the ''blue margarita''). When sweeter fruit juices or freshly puréed fruits are added to the margarita, the orange-flavored liqueur is often reduced or eliminated entirely. In addition to orange-flavored liqueurs, secondary liqueurs may occasionally be added to a cocktail, including melon-flavored or black raspberry-flavored. Other flavors include pineapple and watermelon.
+
+===Fresh lime juice===
+Freshly squeezed lime juice is the key ingredient. The most common lime in the United States is the thick-skinned [[Persian lime]]. However, margaritas in Mexico are generally made with Mexican limes ([[Key lime]]s). These are small, thin-skinned limes and have more tart and an often bitter flavor compared to Persian limes.<ref>{{Cite web|url=https://thecocktailnovice.com/key-limes-vs-persian-limes/|title=Key Limes vs Persian Limes - The Cocktail Novice|date=2014-10-29|language=en-US|access-date=2016-10-05}}</ref><ref>{{Cite web|url=http://www.latimes.com/food/la-fo-keylime4-2009nov04-story.html|title=Key lime: Handle with care|last=Times|first=Los Angeles|website=latimes.com|access-date=2016-10-05}}</ref>
+
+===Frozen margarita===
+In addition to being shaken and served "up" like other cocktails, margaritas can also be served as a blended ice slush similar to other tropical-inspired mixed drinks like the [[hurricane (cocktail)|hurricane]] or [[piña colada]]. This variant is known as a frozen margarita. The ingredients can be poured over crushed ice in a kitchen blender, or for larger establishments that serve many of these, a large quantity of a "house recipe" of frozen margarita can be kept in a machine designed specifically for the purpose (but also commonly used to serve non-alcoholic slush drinks); a cylinder leading to a pour spout is kept below freezing temperature, but an impeller within the cylinder constantly churns the mix so it cannot freeze solid, and so it dispenses as a thick half-frozen slush.  It was first served in [[La Jolla, San Diego|La Jolla]], when Albert Hernandez Sr. stopped using crushed ice and instead combined the ingredients in a blender in 1947.<ref name=SDUTObit /><ref>{{cite magazine |last=Poveda |first=Michelle |date=3 May 2012 |title=Frozen in Time |url=http://www.pacificsandiego.com/eat-drink-puff/cocktails/pac-frozen-in-time-story.html |magazine=Pacific San Diego |location= |publisher= |access-date=12 July 2018 }}<br/>{{cite news |last=Henderson |first=Patrick |date=15 July 2015 |title=The alcoholic version of the Slurpee |url=https://www.sandiegoreader.com/news/2015/jul/15/alcoholic-version-slurpee/# |work= San Diego Reader |access-date=12 July 2018 }}</ref> The first frozen margarita machine was invented on May 11, 1971, by [[Dallas, Texas]] restaurateur [[Mariano Martinez (entrepreneur)|Mariano Martinez]]. The machine was originally a soft-serve ice cream machine and now sits in the Smithsonian National Museum of History.<ref>{{cite web| url=https://margaritatexas.com/recipes | title=Margarita Recipes}}</ref>
+
+A [[lemonade]] or [[limeade]]<ref name=foodnetworkgatorade>{{Cite web|url=https://www.foodnetwork.com/recipes/food-network-kitchen/gatorade-margarita-3757681|title=Gatorade Margarita|website=Food Network}}</ref> margarita can be quickly whipped up by using frozen lemonade or limeade concentrate in place of lime juice.<ref>{{Cite web|url=https://www.chewoutloud.com/2016/08/09/3-ingredient-lemonade-margaritas/|title=3-Ingredient Lemonade Margaritas|date=August 9, 2016}}</ref>
+
+===Fruit sodas and sports drinks===
+Fruity sodas such as fruit punch, lime, pineapple, or mandarin orange [[Jarritos]], or [[sports drink]]s such as blue or orange [[Gatorade]],<ref>{{Cite web|url=https://www.delish.com/cooking/recipe-ideas/recipes/a43712/best-tailgate-cocktails-uf-gatorade-margarita-recipe/|title=UF Gatorade Margarita Recipe|date=August 31, 2015|website=Delish}}</ref><ref name=foodnetworkgatorade/> can substitute for triple sec.<ref>{{Cite web|url=https://www.delish.com/cooking/recipe-ideas/recipes/a43238/jarritos-margaritas-recipe/|title=If You Like Jarritos Soda, You'll Love These Margs|date=July 23, 2015|website=Delish}}</ref> A margarita made with [[orange soda]] and beer is a sunrise beer margarita; if it is made with carbonated [[fruit punch soda]], it is a sunset margarita.<ref>{{Cite web|url=https://buythiscookthat.com/sunset-margaritas/|title=Sugar Sunset Margaritas|date=April 26, 2019|website=Buy This Cook That}}</ref> The variant that uses [[grapefruit soda]] is called a [[Paloma (cocktail)|Paloma]].
+
+===Other fruits and vegetables===
+Alternate fruits and juice mixtures can also be used in a margarita. Fruits like [[mango]],<ref>{{Cite web|url=https://www.supercall.com/recipe/mango-margarita|title=Mango Margarita|date=February 13, 2018|website=Supercall}}</ref> [[peach]], [[strawberry]],<ref>{{Cite web|url=https://www.supercall.com/recipe/strawberry-margarita|title=Strawberry Margarita|date=February 13, 2018|website=Supercall}}</ref> [[banana]], [[melon]], [[raspberry]], or [[avocado]]<ref>{{Cite web|url=https://www.supercall.com/recipe/avocado-margarita|title=Avocado Margarita|date=March 21, 2018|website=Supercall}}</ref> are suitable for creating this drink. Many recipes call for a splash of orange juice. These days, margarita can be prepared in many different ways. When the word "margarita" is used by itself, it typically refers to the lime or lemon juice margarita, but when other juices are used, the fruits are typically added as adjectives in the name; with lime juice or lemon juice added to give it a characteristic margarita flavor (a wedge of lime is often added to the glass). Other varieties of margarita include fruit margarita, [[top-shelf liquor|top-shelf]] margarita and virgin margarita.
+
+[[Coconut cream]], [[coconut milk]],<ref>{{Cite web|url=https://www.foodiecrush.com/the-best-coconut-margarita-recipe/|title=The Best Coconut Margarita Recipe &#124; foodiecrush.com|date=February 5, 2015}}</ref> and [[coconut water]]<ref>{{Cite web|url=http://www.thoughtfullysimple.com/sip-it-lime-coconut-margarita/|title=Coconut Margarita|date=May 4, 2015|website=Thoughtfully Simple}}</ref> can also be added to margaritas, e.g. skinny margaritas that substitute, e.g., [[pineapple juice]] for liqueurs.<ref>{{Cite web|url=https://www.popsugar.com/node/41594858|title=When Coconut Water Meets a Margarita, You Know Cocktail Magic Is Happening|first=Macy Daniela|last=Martin|date=January 18, 2017|website=POPSUGAR Latina}}</ref>
+
+Margaritas can also be made with vegetables such as [[carrots]],<ref>{{Cite web|url=https://www.supercall.com/recipe/alcohol-and-carrot-margarita-recipe|title=Spiced Carrot Margarita|first=Flinders Lane, NY|last=NY|date=April 7, 2017|website=Supercall}}</ref> [[beet]]s,<ref>{{Cite web|url=https://www.supercall.com/recipe/beet-margarita-beets-by-j|title=Beets By J|first=Josh|last=Goldman|date=January 29, 2018|website=Supercall}}</ref> [[cucumber]],<ref>{{Cite web|url=https://www.supercall.com/recipe/frozen-cucumber-margarita|title=Frozen Cucumber Margarita|date=March 21, 2018|website=Supercall}}</ref> and [[celery]].<ref>{{Cite web|url=https://www.supercall.com/recipe/celery-margarita|title=Celery Margarita|date=March 21, 2018|website=Supercall}}</ref>
+
+<gallery widths="160px" heights="200px">
+Image:Blended Margarita.jpg|A blended margarita
+File:Margarita.jpg|A margarita served in an [[old fashioned glass]]
+</gallery>
+
+===Beer cocktails===
+A beermarita (or Coronarita)<ref>{{Cite web|url=https://www.buzzfeed.com/coronaextra/beer-cocktails-you-should-probably-try-today|title=9 Beer Cocktails You Should Probably Try This Summer|first=Corona|last=Extra|website=BuzzFeed}}</ref> is a [[beer cocktail]] that has a bottle of [[Corona beer]] or other light-flavored beer<ref>{{Cite web|url=https://www.rachaelraymag.com/recipe/beer-margaritas|title=Beer Margaritas|first=Rachael Ray Every|last=Day|website=Rachael Ray Every Day}}</ref> poured upside down into a margarita on the rocks.<ref>{{Cite web|url=http://drinkwire.liquor.com/post/mixed-drinks-made-with-beer-20-recipes|title=20 Mixed Drinks Made With Beer|website=DrinkWire}}</ref>
+
+===Skinny===
+A skinny margarita is a [[two-ingredient cocktail]] that leaves out the liqueur and only has tequila and a hint of Rose's lime juice, shaken over ice and served optionally with salt.<ref>{{Cite web|url=https://www.tasteofhome.com/collection/2-ingredient-cocktails/|title=2-Ingredient Cocktails You'll Want to Memorize|first=Lauren|last=Cahn}}</ref>
+
+==Glass==
+[[File:Glas43 (cropped).jpg|thumb|right|upright|A traditional margarita glass]]
+Margaritas may be served in a variety of glasses, most notably the eponymous '''margarita glass''', a variant of the classic [[champagne coupe]]; this is particularly associated with blended fruit margaritas, and the glass is also used for dishes such as [[guacamole]] or [[shrimp cocktail]]s. In formal settings margaritas are often served in a standard [[cocktail glass]], while in informal settings, particularly with ice, margaritas may be served in an [[old fashioned glass]].
+
+==Popularity==
+The margarita cocktail was the "Drink of the Month" in ''[[Esquire (magazine)|Esquire]]'' magazine, December 1953, pg. 76:<ref>{{cite web| url=http://www.barrypopik.com/index.php/texas/entry/margarita_cocktail/ | title=Texas, The Lone Star State: Margarita (cocktail) | accessdate=12 August 2006 | author= Barry Popik}}</ref>
+
+:1 ounce tequila
+:Dash of Triple Sec
+:Juice of {{frac|1|2}} lime or lemon
+
+:Pour over crushed ice, stir. Rub the rim of a stem glass with rind of lemon or lime, spin in salt—pour, and sip.
+
+It was further popularized by the 1977 song "[[Margaritaville]]" by [[Jimmy Buffett]], and in 2004 it was described as "the most popular mixed drink in America".<ref>{{cite book|author=Anthony Dias Blue|title=The Complete Book of Spirits: A Guide to Their History, Production, and Enjoyment|url=https://books.google.com/books?id=MudE96kto4kC&pg=PA114|date=18 May 2010|publisher=HarperCollins|isbn=978-0-06-201281-4|page=114}}</ref>
+
+Another reason that has been given for the margarita's popularity is that it feels more complete than a drink that only has sweet and sour flavors, since it engages a third [[primary taste]], salty.<ref>{{Cite web|url=https://www.townandcountrymag.com/leisure/drinks/a8863/cocktail-bitters/|title=Everything You Need to Know About Bitters|first=Lauren|last=Hubbard|date=October 31, 2017|website=Town & Country}}</ref>
+
+==See also==
+{{portal|Drink}}
+* [[List of cocktails]]
+* [[Mexican martini]]
+* [[Paloma (cocktail)|Paloma]]
+* [[Tommy's Margarita]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{wikibooks|Bartending|Cocktails/Margarita|Margarita}}
+{{Commons category|Margarita (cocktail)}}
+* {{Dmoz|Home/Cooking/Beverages/Cocktails/Margaritas|''Margarita''}}
+<!--======================== {{No more links}} ============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia  |
+    | is not a collection of links nor should it be used for advertising. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+==={{No more links}}=========-->
+
+{{IBACocktails}}
+{{Frozen beverages}}
+{{Glassware}}
+
+[[Category:Cocktails with tequila]]
+[[Category:Cocktails with triple sec or curaçao]]
+[[Category:Frozen drinks]]
+[[Category:Mexican alcoholic drinks]]
+[[Category:Sour cocktails]]
+[[Category:Citrus cocktails]]
+[[Category:Three-ingredient cocktails]]
+[[Category:Cocktails served with a salty rim]]

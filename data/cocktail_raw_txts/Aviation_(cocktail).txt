@@ -1,0 +1,44 @@
+{{Use dmy dates|date=June 2012}}
+{{Infobox cocktail 
+| iba         = yes
+| source      =
+| sourcelink = aviation
+| name        = Aviation
+| image       = Aviation Cocktail.jpg
+| caption     = Aviation cocktail
+| type        = cocktail
+| flaming     = 
+| gin       = yes
+| served      = straight
+| garnish     = [[cherry]]
+| drinkware   = cocktail 
+| ingredients = * 45 ml [[gin]]
+* 15 ml lemon juice
+* 15 ml [[maraschino]] liqueur
+| prep        = Add all ingredients into [[cocktail shaker]] filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.
+| timing      = All day
+| notes       = 
+| footnotes   = Some recipes include [[crème de violette]] or [[Creme Yvette]]. 
+}}
+
+The '''Aviation''' is a classic [[cocktail]] made with [[gin]], [[maraschino]] [[liqueur]], [[crème de violette]], and [[lemon juice]]. Some recipes omit the crème de violette. It is served [[Straight up (bartending)|straight up]], in a cocktail glass.
+
+==History==
+The Aviation was created by Hugo Ensslin, head [[bartender]] at the Hotel Wallick in New York, in the early twentieth century.<ref>{{cite web|title=Aviation | url=http://www.drinkboy.com/Cocktails/Recipe.aspx?itemid=10 | last=Hess | first= Robert | publisher=Drinkboy.com | accessdate=5 March 2011| archiveurl= https://web.archive.org/web/20110121120104/http://drinkboy.com/Cocktails/Recipe.aspx?itemid=10| archivedate= 21 January 2011 <!--DASHBot-->| deadurl= no}}</ref>  The first published recipe for the drink appeared in Ensslin's 1916 ''Recipes for Mixed Drinks''. Ensslin's recipe called for 1½ oz. El Bart gin, ¾ oz. lemon juice, 2 dashes maraschino liqueur, and 2 dashes crème de violette, a violet [[liqueur]] which gives the cocktail a pale purple color.<ref>{{cite book | title=Recipes for Mixed Drinks | last=Ensslin | first=Hugo | publisher=Mud Puddle Books Inc | year=2009 | origyear=1917 | isbn=978-1-60311-190-4}}</ref> 
+
+[[Harry Craddock]]'s influential ''[[Savoy Cocktail Book]]'' (1930) omitted the crème de violette, calling for a mixture of two-thirds dry gin, one-third lemon juice, and two dashes of maraschino.<ref name="Craddock25">{{cite book|first=Harry|last=Craddock|title=The Savoy Cocktail Book|publisher=Constable & Co.|location=London|year=1930|isbn=978-1-62654-0644|p=25}}</ref>  Many later bartenders have followed Craddock's lead, leaving out the difficult-to-find violet liqueur.<ref name="Regan209">{{cite book |first=Gary |last=Regan |title=The Joy of Mixology |publisher=Clarkson Potter/Publishers |location=New York |year=2003 |p=209 |isbn=0-609-60884-3}}</ref>
+
+[[Creme Yvette]], a violet liqueur made with additional spices, is sometimes substituted for crème de violette.<ref>{{cite web | url=http://voices.washingtonpost.com/all-we-can-eat/spirits/spirits-we-want-creme-yvette.html | title= Spirits: We Want Creme Yvette! |work=The Washington Post | date=7 October 2009 | accessdate=27 February 2013}}</ref>
+
+==Related cocktails==
+* The Aviation can be considered a variation on the [[Sour (cocktail)|Gin sour]], using maraschino as its sweetener.<ref name="Craddock25" />
+* The Blue Moon cocktail is made with gin, lemon juice, and crème de violette or Creme Yvette, without maraschino.<ref>{{cite web | url=http://projects.washingtonpost.com/recipes/2008/04/02/blue-moon-cocktail | title= Blue Moon Cocktail |work=The Washington Post | date=2 April 2008 | accessdate=8 October 2011}}</ref>
+* The Moonlight cocktail is made with gin, lime juice, [[Cointreau]], and crème de violette.<ref>{{cite web | title=The Cocktailian: Creme de violette lifts Aviation to the moon | url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/28/WIVTS4MNB.DTL |work=San Francisco Chronicle | last=Regan | first=Gary | date=28 September 2007 | accessdate=4 April 2011}}</ref>
+
+==References==
+{{reflist|colwidth=30em}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with gin]]
+[[Category:Cocktails with liqueur]]

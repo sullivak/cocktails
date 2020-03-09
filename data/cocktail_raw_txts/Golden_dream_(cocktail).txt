@@ -1,0 +1,39 @@
+{{Infobox cocktail 
+| iba         = yes
+| source      = 
+| sourcelink  = golden-dream
+| name        = Golden Dream
+| image       = Godlen-Dream Mixed Drink Cocktail (2360538105).jpg
+| caption     = 
+| type        = cocktail
+| flaming     = 
+| orange      = yes
+| other       = Galliano
+| served      = straight
+| garnish     = 
+| drinkware   = cocktail
+| ingredients = *2 cl (2 parts) [[Galliano (drink)|Galliano]]
+* 2 cl (2 parts) [[Triple Sec]]
+* 2 cl (2 parts) Fresh [[orange juice]]
+* 1 cl (1 part) Fresh [[cream]]
+| prep        = Shake with cracked ice.  Strain into glass and serve.
+| timing      = After dinner
+| notes       = Should be quite fluffy
+}}
+
+The '''Golden Dream''' is an [[IBA official cocktail]] made with [[Galliano (drink)|Galliano]] and [[Cointreau]].  It is classed as an "after dinner" drink.<ref>{{cite web | url=http://www.iba-world.com/index.php?option=com_content&view=article&id=88 | title=IBA Official Cocktails | publisher=International Bartenders Association | accessdate=8 February 2015}}</ref>
+
+The Golden Dream was popular during the 60s and 70s and originated at the Old King Bar in Miami, mixed by Raimundo Alvarez.<ref>{{cite journal|last1=Maynard|first1=Nora|title=Straight Up: Golden Dream Cocktail for Oscar Night|journal=Kitchn|date=22 February 2008|url=https://www.thekitchn.com/straight-up-golden-dream-cockt-43430|accessdate=29 November 2017}}</ref>
+
+The cocktail was dedicated to actress Joan Crawford and became quite popular at the end of the 1960s on the east coast of the [[United States]].
+
+
+==References==
+{{reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with fruit liqueur]]
+
+
+{{Cocktail-stub}}

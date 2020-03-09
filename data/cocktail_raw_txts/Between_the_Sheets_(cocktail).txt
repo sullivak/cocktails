@@ -1,0 +1,46 @@
+{{Infobox cocktail 
+| iba         = yes
+| source      = 
+| sourcelink = between-the-sheets
+| name        = Between the Sheets
+| image       = Between_The_Sheets_Cocktail.jpg
+| caption     = 
+| type        = cocktail
+| flaming     = 
+| cognac      = yes
+| rum         = yes
+| other       = [[Triple sec]]
+| served      = straight
+| garnish     = 
+| drinkware   = cocktail
+| ingredients = *3 cl [[white rum]]
+*3 cl [[cognac]]
+*3 cl [[triple sec]]
+*2 cl fresh [[lemon juice]]
+| prep        = Pour all ingredients into shaker with ice cubes, shake, strain into chilled cocktail glass.
+| timing      = All Day
+| notes       = 
+| footnotes   = 
+}}
+The '''Between the Sheets''' is a cocktail consisting of [[white rum]] (or other [[light rum]]),<ref>https://www.liquor.com/recipes/between-the-sheets/</ref> [[cognac]], [[triple sec]], and [[lemon juice]].<ref>{{cite web|title=Between the Sheets|url=http://www.iba-world.com/index.php?option=com_content&id=190&Itemid=532|publisher=International Bartenders Association|accessdate=March 25, 2015}}</ref>
+
+==History==
+The origin of the cocktail is usually credited to [[Harry MacElhone]] at [[Harry's New York Bar]] in [[Paris]] in the 1930s as a derivative of the [[sidecar (cocktail)|sidecar]].<ref name=ifood>{{cite web|title=Between the Sheets|url=http://ifood.tv/drink/between-the-sheets/about|website=ifood.tv|accessdate=March 25, 2015}}</ref><ref>{{cite web|title=Between the Sheets|url=http://www.hennessy.com/us/recipes/between-sheets/|publisher=Hennessy Cognac|accessdate=March 25, 2015}}</ref> However, competing theories exist that claim the cocktail was created at [[The Berkeley]] in approximately 1921, or in French [[brothel]]s as an [[Apéritif and digestif|apéritif]] for consumption by the prostitutes.<ref name=ifood/><ref>{{cite web|title=Between the Sheets|url=https://www.drinkadvisor.com/en/cocktails/547-between-the-sheets.html|publisher=Drink Advisor|accessdate=March 25, 2015|archive-url=https://web.archive.org/web/20150919003446/https://www.drinkadvisor.com/en/cocktails/547-between-the-sheets.html|archive-date=2015-09-19|dead-url=yes|df=}}</ref>
+
+==Variations==
+The drink is similar to the [[sidecar (cocktail)|sidecar]], differing only by using less cognac and adding rum. The Maiden's Prayer is variously known as an alternate name for the Between the Sheets, and as a different drink using [[gin]] instead of rum and cognac, and adding orange juice to the lemon juice.<ref name=ifood /><ref>{{cite web|last1=Clarke|first1=Paul|title=Time for a Drink: the Maiden's Prayer|url=http://www.seriouseats.com/recipes/2010/06/time-for-a-drink-the-maidens-prayer.html|publisher=Serious Eats|accessdate=March 25, 2015|date=June 4, 2010}}</ref><ref>{{cite web|last1=Wondrich|first1=David|title=Maiden's Prayer|url=http://www.esquire.com/food-drink/drinks/recipes/a3730/maidens-prayer-drink-recipe/|work=[[Esquire (magazine)|Esquire]]|accessdate=March 25, 2015|date=November 5, 2007}}</ref>
+
+==See also==
+* [[List of cocktails]]
+* {{portal-inline|Drink}}
+
+==References==
+{{reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with rum]]
+[[Category:Cocktails with triple sec or curaçao]]
+[[Category:Cocktails with brandy]]
+[[Category:Sour cocktails]]
+[[Category:Spirit-forward cocktails]]

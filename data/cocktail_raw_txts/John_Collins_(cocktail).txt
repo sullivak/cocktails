@@ -1,0 +1,57 @@
+{{Other uses|John Collins (disambiguation){{!}}John Collins}}
+{{Use dmy dates|date=July 2012}}
+{{Infobox cocktail
+| iba         = yes
+| source      = iba
+| sourcelink = john-collins
+| name        = John Collins
+| image = IBA Cocktail John Collins (29221732881).jpg
+| caption     =
+| type        = Cocktail
+| flaming     = no
+| gin      = yes
+| served      = rocks
+| garnish     = [[Lemon]] slice and [[maraschino cherry]]
+| drinkware   = collins
+| ingredients = *4.5 cl (3 parts) [[gin]]
+*3 cl (2 parts) freshly squeezed [[lemon juice]]
+*1.5 cl (1 part) [[sugar syrup]]
+*6 cl (4 parts) [[carbonated water]]
+| prep        = Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters.
+| notes       =
+| footnotes   = 
+}}
+
+A '''John Collins''' is a [[cocktail]] which was attested to in 1869, but may be older. It is believed to have originated with a headwaiter of that name who worked at Limmer's Old House in [[Conduit Street]] in [[Mayfair]], which was a popular London hotel and coffee house around 1790–1817.<ref name="Regan">{{cite web|last=Regan|first=Gaz|title=The Tom Collins and the John Collins: However this has been refuted by many in Ireland who claim the drink was developed in one of the first Irish pubs in New York est 1860 and named after the revolutionary Tom Collins. A Discussion|url=http://www.ardentspirits.com/ardentspirits_old/Cocktails/1B20111017.html|work=gaz's Cocktail Book|deadurl=yes|archiveurl=https://web.archive.org/web/20131105024812/http://www.ardentspirits.com/ardentspirits_old/Cocktails/1B20111017.html|archivedate=5 November 2013|df=dmy-all}}</ref><ref>{{cite book|last=Calabrese|first=Salvatore|title=Classic Cocktails|year=1997|publisher=Prion|location=London|isbn=1-85375-240-1|page=166}}</ref>
+
+==Description==
+The John Collins is a Collins [[cocktail]]—that is, a [[long drink]] stirred with ice and topped with soda—made from [[Bourbon whiskey]] or [[London dry gin]], [[lemon juice]], [[sugar]] and [[carbonated water]]. A recipe for a John Collins is featured in the ''Steward and Barkeeper's Manual'' of 1869:
+
+<blockquote><poem>Teaspoonful of powdered sugar
+The juice of half a lemon
+A wine glass of Old Tom Gin
+A bottle of plain soda
+Shake up, or stir up with ice. Add a slice of lemon peel to finish.<ref name="secondgoldenage">{{cite web|url=http://secondgoldenage.com/2012/07/21/collinses-fizzes-difference/|title=Difference between Collinses & Fizzes|website=SecondGoldenAge.com|accessdate= 25 September 2015 |archiveurl= https://web.archive.org/web/20131105233232/http://secondgoldenage.com/2012/07/21/collinses-fizzes-difference/| archivedate= 5 November 2013| deadurl= yes}}</ref></poem></blockquote>
+
+Drinks historian David Wondrich has speculated that the original recipe that was introduced to New York in the 1850s would have been very similar to the gin punches that are known to have been served at London clubs such as [[Garrick Club|the Garrick]] during the first half of the 19th century. He states that these would have been along the lines of gin, lemon juice, chilled soda water, and [[maraschino]].<ref name="Regan"/>
+
+The specific call for [[Old Tom gin]] in the 1869 recipe is a likely cause for the subsequent name change to "[[Tom Collins]]" in Jerry Thomas's 1876 recipe.  In contemporary parlance, the ''John Collins'' refers to a Tom Collins made with whiskey instead of gin. Earlier versions of the gin punch are likely to have used [[Jenever|Hollands]] instead.<ref name="Regan"/>
+
+==In popular culture==
+The following rhyme was written by Frank and Charles Sheridan about John Collins:<ref>{{cite book|first=David|last=Solmonson|first2=Lesley Jacobs|last2=Solmonson|title=The 12 Bottle Bar|year=2014}}</ref>
+
+<blockquote><poem>My name is John Collins, head waiter at Limmer's,
+Corner of Conduit Street, Hanover Square,
+My chief occupation is filling brimmers
+For all the young gentlemen frequenters there.</poem></blockquote>
+
+==See also==
+* [[Punch (drink)]]
+* [[Singapore Sling]]
+
+==Notes==
+{{reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with gin]]

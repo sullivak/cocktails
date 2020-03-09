@@ -1,0 +1,44 @@
+{{multiple issues|
+{{original research|date=November 2012}}
+{{refimprove|date=June 2017}}
+}}
+
+{{Infobox cocktail 
+| iba         = yes
+| source      = 
+| sourcelink  = bacardi
+| name        = Bacardi Cocktail
+| image       = Bacardi cocktail.jpg
+| caption     = 
+| type        = cocktail
+| flaming     = 
+| rum = yes
+| served      = straight
+| garnish     = [[Lime (fruit)|Lime]]
+| drinkware   = cocktail
+| ingredients = *4.5 cl [[white rum]]
+*2 cl [[Lime juice|lime]] juice
+*1 cl [[grenadine]] syrup
+| prep        = Shake together with ice.  Strain into glass and serve
+| timing      = Before dinner
+| notes       = 
+| footnotes   = 
+}}
+[[File:Cocktail Milagrito..jpg|thumb|Bacardi Cocktail]]
+The '''Bacardi cocktail''' is an [[IBA Official Cocktail]] made primarily with [[Bacardi Superior]].  It is served as a "pre-dinner" cocktail.
+
+==History==
+
+The Bacardi Cocktail was originally the same as the [[Daiquiri]], containing rum, [[Lime (fruit)|lime]] juice, and sugar<ref>{{cite book|last1=Woon|first1=Basil|title=When It's Cocktail Time in Cuba|date=1928|publisher=Horace Liveright}}</ref>; The [[Grenadine]] version of the Bacardi Cocktail originated in the US, while the original non-red Bacardi company recipe originated from Cuba.
+
+On April 28, 1936 the [[New York Supreme Court]] ruled that the drink must contain Bacardi rum in order to be called a Bacardi cocktail.<ref>{{cite book|last1=DeGroff|first1=Dale|title=The Essential Cocktail: The Art of Mixing Perfect Drinks|date=July 14, 2010|publisher=Potter/TenSpeed/Harmony|isbn=0307762459}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://wiki.webtender.com/wiki/Bacardi_Cocktail Webtender Wiki Entry - Bacardi Cocktail]
+
+{{IBACocktails}}
+
+[[Category:Cocktails with rum]]

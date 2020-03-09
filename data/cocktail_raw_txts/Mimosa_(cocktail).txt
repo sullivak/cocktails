@@ -1,0 +1,44 @@
+{{other uses|Mimosa (disambiguation)}}
+{{Infobox cocktail
+| iba         = yes
+| source      =
+| sourcelink  = mimosa
+| name        = Mimosa
+| image       = Pool-side Mimosas at The Standard Hotel.jpg
+| caption     = Two Mimosas
+| type        = wine
+| flaming     =
+| champagne   = yes
+| served      = straight
+| garnish     = Orange twist
+| drinkware   = flute
+| ingredients = *7.5 cl [[Champagne (wine)|champagne]]
+* 7.5 cl [[orange juice]]
+| prep       = Ensure both ingredients are well chilled, then mix into the glass. Serve cold.
+| notes       =
+| footnotes   =
+}}
+A '''mimosa''' [[cocktail]] is composed of [[champagne]] (or other [[sparkling wine]]) and chilled citrus juice, usually [[orange juice]] unless otherwise specified. It is traditionally served in a tall [[champagne glass|flute]] at [[brunch]], at weddings, or as part of business or [[First_class_travel|first class]] service on some passenger railways and airlines.<ref>{{Cite web|url=https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/menus/routes/Acela-Express-First-Class-Menus-1118.pdf|title=Acela Express First Class Menus.|last=|first=|date=|website=|archive-url=|archive-date=|dead-url=|access-date=}}</ref>  The mixing ratio of the "classic mimosa" differs based on the source.<ref>{{Cite web|url=https://www.southernliving.com/drinks/cocktails/champagne-cocktails|title=Creative Champagne Cocktails|website=Southern Living|language=en|access-date=2019-05-31}}</ref><ref>{{Cite web|url=https://www.esquire.com/drinks/simple-mimosa-recipe|title=How to Make a Classic Mimosa|last=Editors|first=Esquire|date=2018-03-07|website=Esquire|language=en-US|access-date=2019-05-31}}</ref> 
+
+==History==
+The cocktail is named after the yellow-flowered mimosa plant, ''[[Acacia dealbata]]''.<ref>{{cite web|url=http://www.esquire.com/drinks/mimosa-drink-recipe|title=Mimosa – Drink Recipe: How to Make the Perfect Mimosa|publisher=Esquire|first=Sylvie|last=Krekow|date=|accessdate=2012-08-02}}</ref>
+The combination of sparkling wine and orange juice has been consumed for centuries in Spain, especially where oranges and cava and other sparkling wines are plentiful, for example in Valencia, Castellón, Alicante and Catalonia. Sparkling wine was also consumed with the juice of apples, grapes, and other fruits. 
+There are several mistaken theories of its origin. One such theory is that it was invented approximately in the year 1900 in a hotel in the Mediterranean.
+
+==Variations==
+The [[Buck's Fizz (cocktail)|Buck's Fizz]] is a similar type of cocktail, invented a few years earlier in London, which has twice as much champagne as orange juice.<ref>{{Cite web|url=https://www.diffordsguide.com/encyclopedia/1244/cocktails/bucks-fizz-and-mimosa-cocktails-history-recipes-and-tips|title=Buck's Fizz & Mimosa Cocktails – history & recipes|website=www.diffordsguide.com|language=en|access-date=2018-01-23}}</ref>
+
+The Poinsettia is cranberry juice with champagne (sometimes with [[vodka]] and/or [[Cointreau]]).
+
+The Soleil is made with pineapple juice.
+
+The Megmosa<ref>{{Cite web|url=https://www.epicurious.com/recipes/member/views/megmosa-589282276ad0bdd91204c551|title=Megmosa recipe {{!}} Epicurious.com|website=Epicurious|language=en-US|access-date=2018-01-23}}</ref><ref>{{Cite web|url=https://food52.com/recipes/73379-megmosa|title=Megmosa Recipe on Food52|website=Food52|language=en|access-date=2018-01-23}}</ref> is a similar type of cocktail, composed of equal parts champagne and grapefruit juice.
+
+==References==
+{{Reflist}}
+
+{{IBACocktails}}
+{{Wine cocktails}}
+
+[[Category:Cocktails with wine]]
+[[Category:Cocktails with Champagne]]

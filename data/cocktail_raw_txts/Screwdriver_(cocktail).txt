@@ -1,0 +1,58 @@
+{{Infobox cocktail 
+| iba = yes
+| source = 
+| sourcelink = screwd
+| name = Screwdriver
+| image = Screwdriver, Birmingham-Shuttlesworth International Airport, Birmingham AL.jpg
+| caption = Screwdriver
+| type = cocktail
+| flaming = 
+| vodka = yes
+| served = rocks
+| garnish = [[Orange (fruit)|orange]] slice
+| drinkware = highball
+| ingredients = *5 cl (1 part) [[vodka]]
+*10 cl (2 parts) [[orange juice]]
+| prep = Mix in a highball glass with ice. Garnish and serve.
+| timing      = All Day
+| notes = 
+| footnotes = 
+}}
+
+A '''screwdriver''' is a popular alcoholic [[highball]] drink made with [[orange juice]] and [[vodka]]. While the basic drink is simply the two ingredients, there are many [[#Variations|variations]]. Many of the variations have different names in different parts of the world. [[International Bartenders Association|The International Bartenders Association]] has designated this cocktail as an [[IBA Official Cocktail]].
+
+==History==
+This drink appears in literature as early as 1938.{{dubious|date=March 2018|comment=there was some text attributed to Journalism Quarterly, v. 44. But JQ vol. 44 was in 1967. Also no page number.}}
+
+The screwdriver is mentioned in 1944: "A Screwdriver—a drink compounded of vodka and orange juice and supposedly invented by interned American fliers";<ref>''[[Newsweek (magazine)|Newsweek]]'' '''24''':48 (1944)</ref> and in 1949: "the latest Yankee concoction of vodka and orange juice, called a 'screwdriver'".<ref>{{cite news|url=http://www.time.com/time/magazine/article/0,9171,805132,00.html|title=TURKEY: Wild West of the Middle East|accessdate=24 July 2012 |work=Time|date=24 October 1949}}</ref>
+
+== Variations ==
+A screwdriver with two parts of [[Sloe Gin|Sloe gin]], and filled with orange juice is a "Slow (Sloe) Screw".
+
+A screwdriver with two parts of Sloe gin, one part of [[Southern Comfort]] and filled with orange juice is a "Slow Comfortable Screw".<ref>Ray Foley, ''[https://books.google.com/books?id=ONL8O-cgBhwC&pg=PA153#v=onepage&q&f=false X-Rated Drinks: More Than 250 of the Hottest Drinks Ever Made]'', Bartender Magazine, p. 153.</ref>
+
+A screwdriver with one part of Sloe gin, one part of Southern Comfort, one part [[Galliano (liqueur)|Galliano]] and filled with orange juice is a "Slow Comfortable Screw Up Against The Wall".<ref>Ray Foley, ''[https://books.google.com/books?id=ONL8O-cgBhwC&pg=PA155#v=onepage&q&f=false X-Rated Drinks: More Than 250 of the Hottest Drinks Ever Made]'', Bartender Magazine, p. 155.</ref>
+
+A screwdriver with one part of Sloe gin, one part of Southern Comfort, one part [[Galliano (liqueur)|Galliano]], one part tequila and filled with orange juice is a "Slow Comfortable Screw Up Against The Wall Mexican Style".<ref>{{cite web|last1=Hutchinson|first1=Dan |display-authors=etal |title=Slow Comfortable Screw Up Against The Wall Mexican Style #1|url=https://www.barnonedrinks.com/drinks/s/slow-comfortable-screw-up-against-the-wall-mexican-style-1-4633.html|website=Bar None Drinks|accessdate=2 April 2018}}</ref>
+
+A screwdriver with one part of Sloe gin, one part of Southern Comfort, one part Galliano, one part peach [[schnapps]], and filled with orange juice is a "Slow Comfortable Screw Up Against a Fuzzy Wall".
+
+A screwdriver with one part of Sloe gin, one part of Southern Comfort, one part Galliano, one part peach [[schnapps]], one part sparkling [[rosé]], and filled with orange juice is a "Slow Comfortable Screw Up Against a Fuzzy Pink Wall".
+
+A screwdriver with two parts vodka, four parts orange juice, and one part Galliano is a [[Harvey Wallbanger]].
+
+A screwdriver with equal parts vanilla vodka and [[Blue Curaçao]] topped with lemon-lime soda is a "Sonic Screwdriver".<ref>{{cite web|url=http://www.drinksmixer.com/drinkb1c6388.html|title=Sonic Screwdriver recipe|accessdate=24 July 2012}}</ref>
+
+A shot of vodka with a slice of orange is a Cordless Screwdriver.
+
+==References==
+{{Reflist}}<ref>Family records and interview with Royal Air Force Squadron Leader, Nicholas J. Burns</ref>
+
+==External links==
+{{wikibooks|Bartending|Cocktails/Glossary#S|Screwdriver}}
+* [https://web.archive.org/web/20080823222350/http://www.drinknation.com/drinks/Screw Drinknation.com: Screwdriver variations]
+
+{{IBACocktails}}
+
+{{DEFAULTSORT:Screwdriver (Cocktail)}}
+[[Category:Cocktails with vodka]]

@@ -1,0 +1,67 @@
+{{for|the surname|Negroni (surname)}}
+{{Infobox cocktail 
+| iba         = yes
+| name        = Negroni
+| sourcelink  = negr
+| image       = Negroni served in Vancouver BC.jpg
+| caption     = A Negroni
+| type        = cocktail
+| flaming     = not
+| gin = yes
+| vermouth = yes
+| campari = yes
+| served      = rocks
+| garnish     = [[Orange (fruit)|Orange]] slice
+| drinkware   = old
+| ingredients = *3 cl [[gin]]
+*3 cl sweet red [[vermouth]]
+*3 cl [[campari]]
+| prep        = Stir into glass over ice, garnish and serve.
+| timing      = Before dinner
+| notes       = 
+| footnotes   = 
+}}
+The '''Negroni''' is a popular [[Italy|Italian]] [[cocktail]], made of one part [[gin]], one part [[vermouth]] rosso (red, semi-sweet), and one part [[Campari]], garnished with [[orange (fruit)|orange]] peel.<ref>{{citation |url=https://www.nytimes.com/recipes/1016357/negroni.html |title=Negroni |work=The New York Times |date=May 21, 2014 |last=Schaap |first=Rosie |url-access=subscription }}</ref> It is considered an [[apéritif]].
+
+A properly made Negroni is stirred, not shaken, and then strained into a chilled cocktail glass over ice. 
+
+==History==
+[[File:General Pascal Olivier Count de Negroni.jpg|thumb|upright|left]]
+While the drink's origins are unknown, the most widely reported account is that it was first mixed in [[Florence]], [[Italy]], in 1919, at Caffè Casoni (formerly Caffè Giacosa), located on [[Via de' Tornabuoni]] and now called Caffè Roberto Cavalli. [[Pascal_Olivier_Count_de_Negroni|Count Camillo Negroni]] concocted it by asking the [[bartender]], Fosco Scarselli, to strengthen his favorite cocktail, the [[Americano (cocktail)|Americano]], by adding gin rather than the normal soda water. The bartender also added an orange garnish rather than the typical lemon garnish of the Americano to signify that it was a different drink.<ref>{{cite news |title=SHAKEN AND STIRRED; Dressing Italian |last=Cecchini |first=Toby |date=6 October 2002 |newspaper=[[The New York Times]] |page=913|accessdate=2009-12-10 |url=https://query.nytimes.com/gst/fullpage.html?res=9C05E5DF173BF935A35753C1A9649C8B63}}</ref><ref>{{cite news|title=Negroni history lesson ends in a glass|last=Regan|first=Gary|date=29 March 2009|newspaper=[[San Francisco Chronicle]]|page=e-6|accessdate=2009-12-14|url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/03/27/FD8R1696QJ.DTL&type=food}}</ref><ref>Luca Picchi, ''Sulle tracce del conte. La vera storia del cocktail Negroni'' (On the Trail of the Count, The True Story of the Negroni Cocktail), Edizioni Plan, Florenz, 2002, {{ISBN|88-88719-16-4}}</ref><ref>{{cite book |title= How's Your Drink?: Cocktails, Culture, and the Art of Drinking Well |last= Felten|first= Eric|year=2007 |publisher= [[Agate Publishing|Agate Surrey]]|isbn=1-57284-089-7 |pages=207 |url=https://books.google.com/books?id=ANSXqicDb4IC&lpg=PT68&dq=negroni%20%20james%20bond&pg=PT69#v=onepage&q=negroni%20%20count&f=false }}</ref>
+
+After the success of the cocktail, the Negroni family founded Negroni Distillerie in [[Treviso]], Italy, and produced a ready-made version of the drink, sold as Antico Negroni 1919.<ref name="mixerplanet">{{cite web |publisher=Mixer Planet|url=http://www.mixerplanet.com/campari-academy-storia-negroni_32571/|title= Campari Academy e la Storia del Negroni|date=2014-10-22|accessdate=2018-01-08|archive-url=https://web.archive.org/web/20160622045919/http://www.mixerplanet.com/campari-academy-storia-negroni_32571/ |archive-date=2016-06-22 |dead-url=no}}</ref> One of the earliest reports of the drink came from [[Orson Welles]] in correspondence with the ''[[Coshocton Tribune]]'' while working in Rome on ''[[Black Magic (1949 film)|Cagliostro]]'' in 1947, where he described a new drink called the Negroni, "The bitters are excellent for your liver, the gin is bad for you. They balance each other."<ref>{{cite web |url=http://dictionary.oed.com/cgi/entry/00322657?single=1&query_type=word&queryword=negroni&first=1&max_to_show=10|title= Oxford English Dictionary negroni |date=Dec 2009 |accessdate=2009-12-29|quote=The bitters are excellent for your liver, the gin is bad for you. They balance each other.}}</ref><ref>[[Coshocton Tribune]], 17 December 1947</ref>
+
+Cocktail historian David Wondrich has researched Camillo Negroni, who was born on 25 May 1868 to Enrico Negroni and Ada Savage Landor, and died in Florence on 25 September 1934. While his status as a count is questionable, his grandfather, Luigi Negroni, was indeed a count.<ref>{{cite book|last1=Regan|first1=Gary|title=The Negroni: Drinking to La Dolce Vita, with Recipes & Lore|date=2015|publisher=Potter/TenSpeed/Harmony|isbn=1607747804|url=https://books.google.co.id/books?id=IZdoBAAAQBAJ&dq=count+camillo+negroni+wondrich&source=gbs_navlinks_s|accessdate=28 June 2017}}</ref>
+
+Descendants of General [[Pascal Olivier Count de Negroni|Pascal Olivier de Negroni, Count de Negroni]], say he was the Count Negroni who invented the drink in 1857 in Senegal. A ''[[Corse-Matin]]'' Sunday Edition article dated 2 February 1980 is translated on a descendant's blog: this says he invented the drink around 1914.<ref>{{cite web|url=http://captainnoelxaviernegroni.tumblr.com/|title=The newspaper article, "Corse Matin, 1980", Pascal|publisher=|access-date=2014-06-22|archive-url=https://web.archive.org/web/20151208185024/http://captainnoelxaviernegroni.tumblr.com/|archive-date=2015-12-08|dead-url=yes|df=}}</ref> An article in the ''[[New Hampshire Union Leader]]'' reported on the controversy.<ref>{{cite news|url=http://www.unionleader.com/article/20140619/LOCALVOICES08/140618850|title=Mark Hayward's City Matters|work=UnionLeader.com}}</ref>
+
+==Variations==
+<!-- please only include variations that either have articles, or reliable sources -->
+* The Negroni ''sbagliato'' is made in the same way as the Negroni, but replacing the gin with sparkling white wine, or Prosecco.<ref>{{cite web|url=http://www.campari.com/int/en/cocktails/list/negroni-sbagliato/|title=Campari Negroni sbagliato cocktail recipe|work=Campari|url-access=registration }}</ref>
+* [[Americano (cocktail)|Americano]]: 1 oz Campari, 1 oz Sweet Red Vermouth, a splash of soda.
+* [[Boulevardier (cocktail)|Boulevardier]]: A similar cocktail that uses whiskey in place of gin.
+* The Dutch Negroni substitutes [[Jenever]] for the London dry style gin in the original recipe.<ref>{{cite web|url=http://liquor.com/recipes/dutch-negroni-2/#skyPYe1LeMhgCESa.97|title=Dutch Negroni}}</ref>
+* [[Old Pal (cocktail)|Old Pal]] uses dry vermouth and Canadian rye whisky.
+* A Negroni which substitutes gin with [[tequila]] is known as an "Agavoni" or "Tegroni".<ref>{{cite news|last1=Englesh|first1=Camper|title=Negroni Cocktail. Der Playboy Unter Den Klassikern|trans-title=Negroni Cocktail. The Playboy Among The Classics|url=http://mixology.eu/klassik/negroni-der-playboy-unter-den-klassikern/2/|accessdate=16 December 2016|work=Mixology.eu|date=1 January 2012|language=German}}</ref>
+* The white Negroni is made from gin, [[Lillet]] blanc, and [[Suze (drink)|Suze]].<ref>{{cite news |last=Allan |first=M. Carrie |date=7 July 2017 |title=The White Negroni Has Become a New Classic |url=https://www.washingtonpost.com/lifestyle/food/some-negroni-spinoffs-have-spun-too-far-but-one-has-become-a-new-classic/2017/07/06/18d161c0-6258-11e7-8adc-fea80e32bf47_story.html |work=Washington Post |location=Washington, D.C.}}</ref>
+
+==See also==
+* [[List of cocktails]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{wikibooks|Bartending|Cocktails/Glossary#N|Negroni}}
+{{commons category|Negroni}}
+* [http://www.aibmproject.it/index.php?option=com_content&view=article&id=58:negroni&catid=12:cocktails-iba&Itemid=101 Origine e curiosità del cocktail IBA Negroni] {{it icon}}
+* [http://negronis.wordpress.com Negronis Across the World blog]
+
+{{IBACocktails}}
+
+[[Category:Cocktails with gin]]
+[[Category:Cocktails with vermouth]]
+[[Category:Cocktails with campari]]
+[[Category:Cocktails with bitters]]
+[[Category:Spirit-forward cocktails]]
+[[Category:Three-ingredient cocktails]]

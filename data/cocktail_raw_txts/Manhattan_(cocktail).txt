@@ -1,0 +1,97 @@
+{{short description|Cocktail made with whiskey, sweet vermouth, and bitters}}
+{{redirect|Manhattan cocktail|the 1928 film|Manhattan Cocktail (film)}}
+{{Infobox cocktail
+| iba         = yes
+| name        = Manhattan
+| sourcelink = manhattan
+| image       = Manhattan_Cocktail2.jpg
+| caption     = A classic 2:1 Manhattan, made with Canadian whisky, sweet vermouth, bitters and a cherry
+| type        = cocktail
+| whiskey     = yes
+| served      = straight
+| garnish     = [[Maraschino cherry]]
+| drinkware   = cocktail
+| ingredients = *5 [[Litre#SI_prefixes_applied_to_the_litre|cL]] [[Rye whiskey]]
+*2 cL Sweet red [[vermouth]]
+*Dash [[Angostura bitters]]
+| prep        = Stirred over ice, strained into a chilled glass, garnished, and served up.
+| timing      = Before Dinner
+| notes       =
+| footnotes   =
+}}
+[[File:A Manhattan.jpg|thumb|upright|A Manhattan served in a cocktail glass]]
+
+A '''Manhattan''' is a [[cocktail]] made with [[whisky]], [[sweet vermouth]] and [[bitters]]. While [[rye whisky|rye]] is the traditional whiskey of choice, other commonly used whiskies include [[Canadian whisky]], [[bourbon whiskey|bourbon]], [[blended whiskey]] and [[Tennessee whiskey]]. The cocktail is usually stirred then strained into a [[cocktail glass]] and garnished with a [[Maraschino cherry]].<ref>[http://entertaining.about.com/cs/recipesandmenus/a/manhattan.htm Recipe for a Manhattan Cocktail<!-- Bot generated title -->] from [[about.com]]</ref><ref>http://mybestcocktails.com/recipe-21-Manhattan.html Recipe for a classic Manhattan Cocktail</ref> A Manhattan may also be served [[ice cube|on the rocks]] in a [[Old Fashioned glass|lowball glass]].
+
+The whiskey-based Manhattan is one of five cocktails named for a [[Borough (New York City)|New York City borough]]. It is closely related to the [[Brooklyn (cocktail)|Brooklyn cocktail]],<ref>[http://www.seriouseats.com/recipes/2011/02/the-brooklyn-cocktail-rye-maraschino-vermouth.html The Brooklyn Cocktail | Serious Eats : Recipes<!-- Bot generated title -->]</ref> which uses dry vermouth and [[Maraschino]] liqueur in place of the Manhattan's sweet vermouth, and [[Sirop de Picon|Amer Picon]] in place of the Manhattan's [[angostura bitters]].
+
+The Manhattan is one of six basic drinks listed in [[David A. Embury]]'s classic ''[[The Fine Art of Mixing Drinks]]''.
+
+==Origin and history==
+Popular history suggests that the drink originated at the [[Manhattan Club (social club)|Manhattan Club]] in [[New York City]] in the early 1870s, where it was invented by Dr. Iain Marshall for a banquet hosted by [[Jennie Jerome]] (Lady Randolph Churchill, mother of [[Winston Churchill|Winston]]) in honor of presidential candidate [[Samuel J. Tilden]]. The success of the banquet made the drink fashionable, later prompting several people to request the drink by referring to the name of the club where it originated—"the ''Manhattan'' cocktail".<ref>[http://www.cocktailtimes.com/party/christmas.shtml Holiday Cocktail Party<!-- Bot generated title -->] from CocktailTimes.com</ref><ref name="listserve">{{cite news
+ | title     = Patrick Murphy's The Barman's Corner
+ | newspaper = Buckeye Tavern | date = 15 March 1945 | at = pg. 6, col. 2 }} qtd. in {{cite web
+ |url=http://listserv.linguistlist.org/cgi-bin/wa?A2=ind0010d&L=ads-l&D=1&P=15743 
+ |title=Moscow Mule; Molotov Cocktail; Manhattan Cocktail 
+ |date=28 October 2000 
+ |work=The Linguist List 
+ |publisher=[[American Dialect Society]] 
+ |accessdate=2010-03-10 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20080524005453/http://listserv.linguistlist.org/cgi-bin/wa?A2=ind0010d&L=ads-l&D=1&P=15743 
+ |archivedate=24 May 2008 
+ |df= 
+}}</ref> However, Lady Randolph was in France at the time and pregnant, so the story is likely a fiction.<ref>Winston Churchill, ''My Early Life''</ref>
+
+However, there are prior references to various similar cocktail recipes called "Manhattan" and served in the [[Manhattan]] area.<ref name="listserve"/>  By one account it was invented in the 1860s by a bartender named Black at a bar on [[Broadway (Manhattan)|Broadway]] near [[Houston Street (Manhattan)|Houston Street]].<ref name="sfg">{{cite news |newspaper=San Francisco Chronicle |title=The Manhattan project: A bartender spills his secrets on the king of cocktails |first=Gary |last=Regan |date=September 21, 2007|accessdate=2007-09-21|url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/21/WI1ORSF9C.DTL}}</ref>
+
+The original  "Manhattan cocktail" was a mix of "American Whiskey, Italian Vermouth and [[Angostura bitters]]".<ref>{{cite web
+ | url   = http://www.foxnews.com/story/0,2933,196538,00.html
+ | title = Tipplers Toast the Cocktail on Its 200th 'Anniversary'
+ | first = Sara | last = Bonisteel
+ | date  = 22 May 2006 | publisher = [[Fox News Network]]
+ | accessdate = 2010-03-10 }}</ref><ref>{{cite web |publisher=Cocktail Times |title=Manhattan |url=http://www.cocktailtimes.com/party/christmas.shtml |accessdate=2007-09-21}}</ref> During [[Prohibition in the United States|Prohibition]] (1920–1933) Canadian whisky was primarily used because it was available.<ref>[http://www.barmixmaster.com/2005/10/manhattan.html ''The Bar Mixer Has Spoken...'' retrieved March 6 2013]</ref>
+
+An early record of the cocktail can be found in William Schmidt's "The Flowing Bowl", published in 1891. In it, he details a drink containing 2 dashes of [[Syrup#Gomme_syrup|gum]] (gomme syrup), 2 dashes of bitters, 1 dash of [[absinthe]], {{frac|2|3}} portion of whiskey and {{frac|1|3}} portion of vermouth.
+
+The same cocktail appears listed as a "Tennessee Cocktail" in ''Shake 'em Up!'' by V. Elliott and P. Strong, copyright 1930 (p.&nbsp;39): "Two parts of whiskey, one part of Italian Vermouth and a dash of bitters poured over ice and stirred vigorously."
+
+==Traditions==
+On the small [[North Frisia]]n island of [[Föhr]], the Manhattan cocktail is a standard drink at almost every cafe, restaurant, and "get together" of locals.<ref>[http://www.foehr-digital.de/essen.aspx Essen und Trinken<!-- Bot generated title -->] from Föhr-Digital.de</ref> The story goes, that many of the people of Föhr emigrated to Manhattan during deep sea fishing trips, took a liking to the drink, and brought it back to Föhr with them. The drink is usually mixed 1 part vermouth to 2 parts whiskey, with a dash of bitters, served ice cold, in an ice cold glass, or with ice and a cherry garnish.
+
+==Variations==
+[[File:Manhattan cocktail.jpg|thumb|right|upright|A Manhattan served in a [[Champagne stemware#Champagne coupe|coupe]]]]
+
+Traditional views insist that a Manhattan be made with American [[rye whiskey]]. However it can also be made with [[bourbon whiskey|bourbon]] or [[Canadian whisky]]. The Manhattan is subject to considerable variation and innovation, and is often a way for the best bartenders to show off their creativity.<ref name="sfg"/> Some shake the ingredients with ice in a [[cocktail shaker]] instead of stirring it, creating a froth on the surface of the drink.  [[Angostura bitters|Angostura]] is the classic [[bitters]], but [[orange bitters]] or [[Peychaud's Bitters]] may be used. Some make their own bitters and syrups, substitute comparable [[digestif]]s in place of vermouth, specialize in local or rare whiskeys, or use other exotic ingredients.<ref name="sfg"/> A [[lemon peel]] may be used as garnish.  Some add juice from the cherry jar or [[Maraschino]] [[liqueur]] to the cocktail for additional sweetness and color.
+
+Originally, bitters were considered an integral part of any cocktail, as the ingredient that differentiated a [[cocktail]] from a [[Sling (drink)|sling]].<ref>{{cite news |title=The Origin of Cocktails |first=Steve |last=Levin |url=http://www.post-gazette.com/pg/06132/689498-294.stm |newspaper=Pittsburgh Post-Gazette |date=May 12, 2006 |accessdate=2010-04-16}}</ref> Over time, those definitions of ''cocktail'' and ''sling'' have become archaic, as ''sling'' has fallen out of general use (other than in certain drink names), and ''cocktail'' can mean any drink that resembles a [[Martini (cocktail)|martini]], or simply any [[mixed drink]].
+
+The following are other variations on the classic Manhattan: 
+* A <b>Blonde Manhattan</b> is made with 2 oz moonshine, 1 oz sweet vermouth, 0.5 oz orange liqueur and 3 dashes of orange bitters. <ref>[https://www.youtube.com/watch?v=gZyspWOP0o8 Between the Sheets: Taliesin Jaffe]</ref>
+* A '''Brandy Manhattan''' is made with [[brandy]] instead of whiskey, and is very popular in [[Wisconsin]] and [[Minnesota]].<ref>[http://onmilwaukee.com/bars/articles/brandy.html OnMilwaukee.com Bars & Clubs: Wisconsinites love affair with brandy<!-- Bot generated title -->]</ref>
+* A '''Cuban Manhattan''' is a Perfect Manhattan (see below) with [[rum|dark rum]] as its principal ingredient.<ref name="cm">{{cite web|url=http://greatcocktails.co.uk/Manhattan.html|accessdate=2007-10-22|publisher=Great Cocktails|title=Manhattan}}</ref>
+* A '''Dean Lyder''' is a twist on the Perfect Manhattan, made with [[orange bitters]] and [[zest (ingredient)|zest]], giving it a 'big, bold character'. It is named for [[Courtney Lyder]], dean of UCLA School of Nursing.<ref>Wright, Bekah (April 1, 2013) [http://magazine.ucla.edu/depts/quicktakes/the-lyder-side-of-westwood/ "The Lyder Side of Westwood"], ''UCLA Magazine''</ref>
+* A '''Dry Manhattan''' is made with dry [[vermouth]] instead of sweet vermouth, usually also replacing the maraschino cherry with a [[Twist (cocktail garnish)|twist]] in keeping with the overall principle of reducing the cocktail's sweetness. A Manhattan made with dry vermouth but retaining the cherry rather than twist is sometimes known as a 'half-dry Manhattan', but this name risks confusion with the Perfect Manhattan, whose quantity of vermouth consists of equal parts sweet vermouth and dry vermouth.<ref name="sfg"/>
+* The '''Fourth Regiment''' is a classic (ca. 1889) cocktail that uses a 1:1 ratio of [[whiskey]] and [[vermouth]], and uses three dashes of three different [[bitters]] – orange bitters, celery bitters, and [[Peychaud's Bitters]].<ref>[http://www.smallscreennetwork.com/video/630/cocktail_spirit_fourth_regiment/ How to make the Fourth Regiment Cocktail – The Cocktail Spirit with Robert Hess]</ref>
+* A '''Metropolitan''' is similar to a brandy Manhattan, but with a 3-to-1 ratio of [[brandy]] to [[vermouth]] and a dash of [[simple syrup]].<ref name="wsj">{{cite news |newspaper=The Wall Street Journal |accessdate=2007-10-22 |url=https://www.wsj.com/articles/SB118919826671120943 |title=In a League of Their Own: The Ivy League, That Is |first=Eric |last=Felten |date=September 8, 2007}}</ref>
+* A '''Perfect Manhattan''' is made with equal parts sweet and [[dry vermouth]].<ref name="sfg"/>
+* A '''[[Rob Roy cocktail|Rob Roy]]''' is made with [[Scotch whisky]].<ref name="sfg"/>
+* A '''Tijuana Manhattan''' is made with [[tequila]].<ref>Donohue, Peter (Feb 2011) Azul 17 Tequila Lounge</ref>
+
+== See also ==
+* [[List of cocktails]]
+* [[List of cocktails named after New York City boroughs]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Manhattan (cocktail)}}
+
+{{IBACocktails}}
+
+{{DEFAULTSORT:Manhattan (Cocktail)}}
+[[Category:Cocktails with bitters]]
+[[Category:Cocktails with vermouth]]
+[[Category:Cocktails with whisky]]
+[[Category:Spirit-forward cocktails]]

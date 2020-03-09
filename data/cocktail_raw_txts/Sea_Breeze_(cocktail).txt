@@ -1,0 +1,50 @@
+{{short description|Cocktail of vodka with cranberry and grapefruit juice}}
+{{Use dmy dates|date=March 2013}}
+{{Infobox cocktail
+| iba         = yes
+| source      = 
+| sourcelink  = sea-breeze
+| name        = Sea Breeze
+| image       =Cocktail_with_vodka.jpg
+| caption     = Sea Breeze
+| type        = mixed| flaming     = 
+| vodka       = yes
+| served      = rocks
+| garnish     = [[Lime (fruit)|lime]] slice
+| drinkware   = highball
+| ingredients = *4 cl [[Vodka]]
+*12 cl [[Cranberry juice]]
+*3 cl [[Grapefruit juice]]
+| prep        = Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.
+| notes       = 
+| footnotes   = 
+}}
+
+A '''Sea Breeze''' is a [[cocktail]] containing [[vodka]] with [[Cranberry juice|cranberry]] juice and [[Grapefruit juice|grapefruit]] juice.<ref name="stillspirits">{{Cite web | title = Seabreeze - Cocktails - Flavour Essences | url = http://stillspirits.com/au/flavour-essences/cocktails/seabreeze.html | publisher = Still Spirits | accessdate = 13 June 2011 | deadurl = yes | archiveurl = https://web.archive.org/web/20110828023918/http://stillspirits.com/au/flavour-essences/cocktails/seabreeze.html | archivedate = 28 August 2011 | df = dmy-all }}</ref> The cocktail is usually consumed during summer months. The drink may be shaken in order to create a foamy surface.<ref name="stillspirits"/> It is considered an [[IBA Official Cocktail]].<ref name="stillspirits"/>
+
+The drink follows the classic cocktail principle of balancing strong ([[alcohol (drug)|alcohol]]) with weak ([[fruit juice]]) and sweet and sour.<ref name="stillspirits"/><ref name="eatoutzone">{{cite web | author=Eatoutzone | title=Cocktails with Vodka | url=http://www.eatoutzone.com/Cocktail_with_Vodka.htm#Sea_Breeze | accessdate=8 November 2007 | deadurl=yes | archiveurl=https://web.archive.org/web/20080704065346/http://www.eatoutzone.com/Cocktail_with_Vodka.htm#Sea_Breeze | archivedate=4 July 2008 | df=dmy-all }}</ref>
+
+A [[Bay Breeze]], or a Hawaiian Sea Breeze, is similar to a Sea Breeze except for the substitution of [[Pineapple|pineapple juice]] for grapefruit juice.<ref name="eatoutzone"/><ref name="Agencies2000">{{cite book|author=Harvard Student Agencies|title=The official Harvard Student Agencies bartending course|url=https://books.google.com/books?id=4iY21z80I0QC&pg=PA47|accessdate=13 June 2011|date=15 January 2000|publisher=Macmillan|isbn=978-0-312-25286-1|page=47}}</ref> It is also closely related to the [[Cape Codder (cocktail)|Cape Codder]] (which lacks the grapefruit juice) and the [[Salty Dog (cocktail)|Salty Dog]] (which lacks the cranberry juice and is made with a salted rim).<ref name="DeGroff2008">{{cite book|author=Dale DeGroff|title=The Essential Cocktail: The Art of Mixing Perfect Drinks|url=https://books.google.com/books?id=QQPQnCwBdJ8C&pg=PT332|accessdate=13 June 2011|date=28 October 2008|publisher=Random House Digital, Inc.|isbn=978-0-307-40573-9|page=332}}</ref>
+
+==History==
+The cocktail was born in the late 1920s, but the recipe was different from the one used today, as [[gin]] and [[grenadine]] were used in the original Sea Breeze.<ref>{{cite web | author=Cocktail Idea | title=Sea breeze cocktail recipe | url=http://cocktail.idea.hu/sea-breeze | accessdate=8 November 2007 | deadurl=yes | archiveurl=https://web.archive.org/web/20071021010919/http://cocktail.idea.hu/sea-breeze | archivedate=21 October 2007 | df=dmy-all }}</ref> This was near the end of the [[Prohibition in the United States|Prohibition era]]. In the 1930s, a Sea Breeze had gin, apricot brandy, grenadine, and lemon juice.<ref name="Calabrese2006">{{cite book|author=Salvatore Calabrese|title=Classic Cocktails|url=https://books.google.com/books?id=ec7-H6oHpe4C&pg=PA158|accessdate=23 May 2011|date=28 April 2006|publisher=Sterling Publishing Company, Inc.|isbn=978-1-4027-3910-1|pages=158–}}</ref> Later, a Sea Breeze recipe would contain vodka, dry vermouth, Galliano, and blue Curaçao.<ref name="Calabrese2006"/>
+
+The cranberry grower's cooperative in the 1930s evolved into [[Ocean Spray (cooperative)|Ocean Spray]] which marketed cranberry juice in the 1950s.<ref name="DeGroff2008"/> Cranberry juice was used as a mixer with alcohol, first with gin and later with vodka.<ref name="DeGroff2008"/> The Harpoon, later called the Cape Codder, was born, and its descendants such as the Greyhound, the Salty Dog, the Bay Breeze, and the Sea Breeze were later created.<ref name="DeGroff2008"/> Starting in the 1960s, the breeze drinks were sporadically in the top ten most popular mixed drinks.<ref name="DeGroff2008"/>
+
+According to some, the Sea Breeze, along with the Cape Codder and Bay Breeze, did not become very popular until the 1970s.<ref name="CharmingBourgoin2009">{{cite book|author1=Cheryl Charming|author2=Susan Bourgoin|title=Knack Bartending Basics: More Than 400 Classic and Contemporary Cocktails for Any Occasion|url=https://books.google.com/books?id=AJKr67ceXpMC&pg=PA123|accessdate=13 June 2011|date=2 June 2009|publisher=Globe Pequot|isbn=978-1-59921-504-4|pages=123}}</ref> This was because in 1959, the [[United States Department of Health and Human Services|U.S. Department of Health]] stated that cranberry crops were tainted with toxic herbicides, collapsing the cranberry industry.<ref name="CharmingBourgoin2009"/>
+
+==See also==
+*[[List of cocktails]]
+
+==References==
+'''Notes'''
+{{Reflist}}
+
+==External links==
+*[https://www.scribd.com/doc/19921/Cocktail-Recipe-Specifications?query2=Canchanchara+Cuban+cocktails Cocktail Recipe Specifications]
+*[http://www.in-the-spirit.co.uk/cocktails/view_cocktail.php?id=231 Seabreeze Profile]
+
+{{IBACocktails}}
+
+{{DEFAULTSORT:Sea Breeze (Cocktail)}}
+[[Category:Cocktails with vodka]]

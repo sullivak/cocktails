@@ -1,0 +1,36 @@
+{{Infobox cocktail 
+| iba         = yes
+| sourcelink  = barracuda
+| name        = Barracuda
+| image       = Barracuda Sparkling Cocktail.png
+| caption     = A Barracuda cocktail
+| type        = cocktail
+| flaming     = 
+| rum         = yes  
+| Tia Maria   = 
+| served      = straight
+| garnish     = 
+| drinkware   = margarita
+| ingredients = * 4.5 cl Gold [[rum]]
+* 1.5 cl [[List of liqueurs#Galliano|Galliano]]
+* 6 cl [[Pineapple juice]]
+* 1 dash fresh [[lime juice]]
+* Top with [[Prosecco]]
+| prep        = Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.
+| notes       = 
+| footnotes   = 
+}}
+The '''Barracuda''' is an [[Alcoholic beverage|alcoholic]] [[cocktail]] based on Gold [[rum]], [[Galliano (drink)|Galliano]] [[liqueur]], [[pineapple juice]], fresh [[lime juice]] and top with [[Prosecco]], per [[IBA Official Cocktail|IBA]] specified ingredients.<ref name="iba">{{cite web |url=http://iba-world.com/new-era-drinks/barracuda/ |title=Barracuda cocktail |publisher=International Bartenders Association |accessdate= April 16, 2017}}</ref>
+
+==See also==
+* [[Barracuda]]
+* [[List of cocktails]]
+* {{portal-inline|Liquor}}
+
+==References==
+{{reflist}}
+
+{{IBACocktails}}
+
+[[Category:Cocktails with rum]]
+[[Category:Cocktails with liqueur]]
