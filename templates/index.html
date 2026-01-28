@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booze Browser</title>
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+</head>
+<body>
+    <header>
+        <h1>Booze Browser</h1>
+        <p>Find cocktails by ingredient</p>
+    </header>
+
+    <main>
+        <form method="get" action="/">
+            <label for="ingredient">Select an ingredient:</label>
+            <select name="ingredient" id="ingredient">
+                <option value="">-- Choose --</option>
+                {% for ing in ingredients %}
+                <option value="{{ ing.link_name }}" {% if ing.link_name == selected %}selected{% endif %}>
+                    {{ format_ingredient_name(ing.link_name) }}
+                </option>
+                {% endfor %}
+            </select>
+            <button type="submit">Search</button>
+        </form>
+
+        {% if selected %}
+        <h2>Cocktails with {{ format_ingredient_name(selected) }}</h2>
+
+        {% if cocktails %}
+        <p>Found {{ cocktails|length }} cocktail{% if cocktails|length != 1 %}s{% endif %}.</p>
+        <ul>
+            {% for cocktail in cocktails %}
+            <li>
+                <a href="/cocktail/{{ cocktail.link_name }}">{{ format_cocktail_name(cocktail.link_name) }}</a>
+                {% if cocktail.drinkware %}<small>({{ cocktail.drinkware }})</small>{% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+        {% else %}
+        <p>No cocktails found with this ingredient.</p>
+        {% endif %}
+        {% endif %}
+    </main>
+
+    <footer>
+        <p>Data from IBA Official Cocktails</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ format_cocktail_name(cocktail.link_name) }} - Booze Browser</title>
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+</head>
+<body>
+    <header>
+        <h1>{{ format_cocktail_name(cocktail.link_name) }}</h1>
+        <p><a href="/">Back to search</a></p>
+    </header>
+
+    <main>
+        <h2>Ingredients</h2>
+        <ul>
+            {% for ing in ingredients %}
+            <li>
+                {{ ing.amt_value }} {{ ing.amt_unit }}
+                <a href="/?ingredient={{ ing.link_name }}">{{ format_ingredient_name(ing.link_name) }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+
+        {% if cocktail.prep %}
+        <h2>Preparation</h2>
+        <p>{{ cocktail.prep }}</p>
+        {% endif %}
+
+        {% if cocktail.drinkware %}
+        <h2>Drinkware</h2>
+        <p>{{ cocktail.drinkware }}</p>
+        {% endif %}
+
+        {% if cocktail.garnish %}
+        <h2>Garnish</h2>
+        <p>{{ cocktail.garnish }}</p>
+        {% endif %}
+
+        {% if cocktail.served %}
+        <h2>Served</h2>
+        <p>{{ cocktail.served }}</p>
+        {% endif %}
+    </main>
+
+    <footer>
+        <p>Data from IBA Official Cocktails</p>
+    </footer>
+</body>
+</html>
